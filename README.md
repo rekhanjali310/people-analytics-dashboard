@@ -13,7 +13,7 @@ across 1,470 employee records and 8 departments.
 - **Average Engagement:** 3.00/5.0
 
 ## Dashboard Visualizations
-![People Analytics Dashboard](people_analytics_dashboard.png)
+![People Analytics Dashboard](people_analytics_dashboard(1).png)
 
 1. Attrition Rate by Department — Horizontal Bar Chart
 2. Department Analytics Summary — Data Table with Progress Bars
