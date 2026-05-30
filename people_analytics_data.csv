@@ -1,0 +1,1471 @@
+employee_id,age,department,job_level,education,location,tenure_years,salary,performance_rating,satisfaction_score,engagement_score,attrition,attrition_reason,training_hours,promotions,hire_date
+EMP00001,39,Sales,Junior,PhD,Austin TX,7,52314,Needs Improvement,1.4,4.0,1,Better Opportunity,11,1,2024-10-30
+EMP00002,23,HR,Manager,High School,San Francisco CA,6,143462,Exceeds Expectations,3.2,1.9,0,,54,2,2020-12-27
+EMP00003,35,Finance,Mid,High School,Boston MA,10,68349,Exceeds Expectations,1.4,4.4,1,Career Growth,68,0,2016-01-29
+EMP00004,57,Product,Junior,High School,Austin TX,9,72177,Meets Expectations,4.5,2.4,0,,29,2,2022-12-28
+EMP00005,36,Sales,VP,Master,San Francisco CA,3,202455,Exceeds Expectations,3.5,2.5,0,,34,5,2013-08-02
+EMP00006,32,Sales,Manager,Master,Austin TX,7,125354,Meets Expectations,2.1,4.7,0,,29,0,2017-06-06
+EMP00007,39,Operations,Lead,PhD,Seattle WA,2,111913,Meets Expectations,3.3,3.9,0,,58,1,2018-07-27
+EMP00008,37,Finance,Mid,Bachelor,Chicago IL,8,89478,Meets Expectations,4.6,2.6,0,,63,0,2017-05-21
+EMP00009,29,Engineering,VP,PhD,Chicago IL,4,210560,Outstanding,3.7,3.4,0,,59,4,2018-02-10
+EMP00010,22,Finance,Manager,High School,New York NY,3,142338,Exceeds Expectations,4.0,4.1,0,,55,1,2019-03-21
+EMP00011,38,Customer Success,Junior,Bachelor,New York NY,5,61635,Meets Expectations,4.5,2.2,0,,20,4,2024-05-30
+EMP00012,42,Engineering,Manager,Bachelor,Austin TX,15,120638,Exceeds Expectations,2.5,4.9,1,Compensation,72,0,2015-07-27
+EMP00013,53,Sales,Director,Master,Chicago IL,2,174923,Meets Expectations,1.5,3.6,0,,77,3,2013-01-10
+EMP00014,34,HR,Manager,High School,San Francisco CA,9,133074,Outstanding,3.6,2.8,0,,28,0,2016-09-04
+EMP00015,57,Operations,Junior,High School,Austin TX,7,64282,Meets Expectations,1.3,3.5,1,Work-Life Balance,9,4,2014-11-28
+EMP00016,53,HR,Senior,Bachelor,Seattle WA,6,102669,Outstanding,4.7,3.3,1,Career Growth,24,0,2011-11-10
+EMP00017,49,Sales,Director,High School,Seattle WA,11,163879,Needs Improvement,4.5,1.2,0,,43,0,2011-06-10
+EMP00018,34,HR,Mid,PhD,Chicago IL,14,69593,Needs Improvement,2.1,2.0,0,,12,0,2017-06-29
+EMP00019,37,Engineering,Junior,Bachelor,Seattle WA,5,58317,Needs Improvement,1.9,2.6,0,,0,3,2022-12-13
+EMP00020,51,Finance,VP,Bachelor,San Francisco CA,9,203861,Outstanding,3.9,4.1,0,,37,1,2013-07-12
+EMP00021,56,Engineering,Manager,High School,Chicago IL,1,144509,Meets Expectations,1.2,2.9,0,,10,1,2021-12-11
+EMP00022,26,Sales,Manager,High School,Seattle WA,7,133230,Needs Improvement,4.6,2.0,1,Personal,74,4,2014-01-02
+EMP00023,35,Operations,Senior,Master,Austin TX,10,92821,Outstanding,1.5,3.6,0,,1,3,2012-07-16
+EMP00024,56,Sales,Junior,Master,New York NY,6,61576,Meets Expectations,4.7,4.5,1,Compensation,56,4,2020-06-09
+EMP00025,55,Finance,Manager,Master,Austin TX,0,141884,Meets Expectations,2.2,3.7,0,,13,5,2014-06-15
+EMP00026,40,Marketing,Senior,Master,Austin TX,6,108514,Outstanding,3.7,4.4,0,,11,5,2020-07-29
+EMP00027,39,Product,VP,PhD,Chicago IL,1,190116,Meets Expectations,1.5,4.9,0,,54,4,2020-04-24
+EMP00028,26,Engineering,Junior,Bachelor,Austin TX,4,62877,Outstanding,2.5,3.2,1,Work-Life Balance,46,0,2023-01-31
+EMP00029,37,Operations,Mid,Bachelor,San Francisco CA,3,76589,Meets Expectations,4.5,2.6,0,,22,3,2016-09-20
+EMP00030,43,Engineering,Mid,High School,Seattle WA,13,91287,Meets Expectations,3.9,2.0,0,,4,3,2014-02-11
+EMP00031,51,HR,Mid,PhD,New York NY,11,75000,Meets Expectations,4.5,1.9,0,,35,0,2019-12-12
+EMP00032,54,Finance,Senior,Master,San Francisco CA,12,107266,Needs Improvement,3.1,4.8,0,,74,2,2020-04-22
+EMP00033,49,Engineering,Junior,PhD,Chicago IL,11,68872,Needs Improvement,2.7,4.9,0,,24,2,2018-07-31
+EMP00034,49,Engineering,Director,Master,Seattle WA,0,167036,Meets Expectations,3.2,3.9,0,,8,5,2013-09-25
+EMP00035,42,Operations,Manager,PhD,Boston MA,3,143584,Exceeds Expectations,3.0,3.7,0,,37,4,2016-12-13
+EMP00036,48,Marketing,Mid,High School,New York NY,12,87194,Outstanding,1.7,3.3,0,,36,1,2024-09-02
+EMP00037,42,Product,VP,High School,New York NY,14,204476,Meets Expectations,1.9,2.9,0,,65,5,2022-06-27
+EMP00038,37,Operations,Junior,High School,Seattle WA,9,52361,Outstanding,1.6,1.2,0,,53,5,2019-01-13
+EMP00039,46,HR,Director,PhD,San Francisco CA,15,163095,Needs Improvement,3.6,1.0,0,,22,5,2019-12-26
+EMP00040,57,Customer Success,Junior,PhD,Chicago IL,7,72798,Exceeds Expectations,1.5,2.9,1,Personal,64,3,2012-04-26
+EMP00041,52,Customer Success,Mid,Bachelor,New York NY,14,73493,Outstanding,4.4,2.1,0,,56,0,2016-11-15
+EMP00042,39,Finance,Mid,Bachelor,Boston MA,10,75476,Outstanding,1.3,1.6,0,,27,0,2017-07-20
+EMP00043,43,Product,Lead,PhD,Seattle WA,14,118624,Needs Improvement,4.3,2.6,1,Better Opportunity,45,2,2011-12-24
+EMP00044,48,Product,VP,PhD,Boston MA,7,205998,Exceeds Expectations,2.7,1.1,0,,21,3,2019-05-05
+EMP00045,56,Marketing,Manager,Bachelor,Seattle WA,0,149718,Outstanding,3.3,1.1,0,,23,0,2017-11-01
+EMP00046,42,Finance,Lead,Master,Austin TX,6,119899,Outstanding,4.0,2.5,0,,60,0,2025-02-01
+EMP00047,36,Engineering,Senior,Bachelor,Austin TX,2,110599,Meets Expectations,1.2,1.1,0,,79,1,2021-04-24
+EMP00048,52,HR,Mid,Bachelor,Chicago IL,3,83480,Exceeds Expectations,2.9,2.0,0,,77,5,2020-04-06
+EMP00049,32,Sales,VP,PhD,Boston MA,9,193542,Outstanding,4.7,3.3,0,,25,0,2020-01-14
+EMP00050,41,HR,Junior,Master,Austin TX,3,71090,Outstanding,4.1,2.4,0,,64,5,2016-09-22
+EMP00051,48,Operations,Junior,Bachelor,Seattle WA,15,48458,Outstanding,2.4,4.6,0,,22,5,2021-06-27
+EMP00052,56,Finance,Manager,High School,New York NY,15,135232,Meets Expectations,3.9,2.1,0,,57,1,2023-06-07
+EMP00053,46,Customer Success,Manager,Master,New York NY,10,120940,Exceeds Expectations,2.3,3.0,0,,35,4,2015-04-14
+EMP00054,22,Finance,Manager,PhD,Boston MA,6,122805,Meets Expectations,2.6,3.2,0,,62,3,2013-12-16
+EMP00055,40,Engineering,Junior,Master,Seattle WA,7,58251,Outstanding,2.2,3.3,0,,70,2,2019-11-28
+EMP00056,51,Operations,Director,Bachelor,San Francisco CA,8,160047,Needs Improvement,1.5,1.8,0,,27,5,2024-03-25
+EMP00057,55,Customer Success,Senior,High School,Boston MA,9,88294,Exceeds Expectations,2.2,2.4,0,,68,1,2013-12-05
+EMP00058,25,Finance,Junior,High School,Chicago IL,9,67852,Needs Improvement,3.6,4.0,0,,36,3,2023-03-28
+EMP00059,43,Customer Success,Lead,PhD,Seattle WA,5,106683,Needs Improvement,4.4,1.5,0,,9,4,2021-08-21
+EMP00060,31,Engineering,Mid,PhD,Seattle WA,9,67791,Meets Expectations,1.5,4.1,0,,56,2,2016-01-21
+EMP00061,58,Product,Senior,Master,Boston MA,1,104976,Meets Expectations,1.4,4.1,0,,10,1,2020-11-19
+EMP00062,57,HR,Mid,High School,San Francisco CA,2,70129,Exceeds Expectations,2.8,3.4,1,Work-Life Balance,36,5,2011-08-16
+EMP00063,36,Customer Success,Junior,PhD,Austin TX,8,70815,Meets Expectations,3.4,4.2,0,,69,1,2016-02-07
+EMP00064,31,Marketing,Senior,PhD,Austin TX,2,86954,Exceeds Expectations,2.2,4.0,0,,59,5,2020-03-13
+EMP00065,47,Finance,Director,Master,Chicago IL,8,166399,Outstanding,2.8,3.4,0,,32,0,2020-03-22
+EMP00066,58,Sales,Mid,PhD,Chicago IL,0,90059,Meets Expectations,2.1,1.2,0,,56,2,2019-05-07
+EMP00067,49,Marketing,Manager,Bachelor,New York NY,15,122989,Needs Improvement,2.6,2.3,0,,52,5,2025-02-10
+EMP00068,47,Customer Success,Senior,High School,Boston MA,1,99903,Outstanding,2.0,1.5,1,Relocation,59,3,2024-09-21
+EMP00069,55,Engineering,Mid,Master,Chicago IL,11,85402,Meets Expectations,3.5,4.0,0,,16,2,2013-03-07
+EMP00070,53,Customer Success,Director,Master,Chicago IL,3,150945,Meets Expectations,3.4,2.0,0,,1,4,2023-02-15
+EMP00071,36,Product,Junior,Master,Seattle WA,3,60120,Exceeds Expectations,3.6,1.6,0,,61,3,2016-03-29
+EMP00072,57,HR,Lead,High School,New York NY,4,117569,Meets Expectations,3.4,4.0,0,,53,2,2013-06-24
+EMP00073,22,Finance,VP,Bachelor,Seattle WA,9,213791,Outstanding,3.3,5.0,0,,68,3,2020-08-30
+EMP00074,57,Operations,Senior,PhD,San Francisco CA,12,99920,Meets Expectations,4.5,4.9,0,,52,0,2016-08-26
+EMP00075,52,Operations,Director,PhD,Austin TX,12,162651,Meets Expectations,4.2,3.6,0,,16,4,2021-06-20
+EMP00076,28,Operations,VP,Bachelor,Austin TX,14,193267,Outstanding,2.8,3.9,0,,60,2,2020-04-19
+EMP00077,47,Operations,Manager,PhD,Chicago IL,2,147910,Exceeds Expectations,3.7,3.1,0,,4,4,2014-01-09
+EMP00078,40,Sales,Mid,PhD,San Francisco CA,7,89470,Needs Improvement,4.9,4.0,1,Personal,38,0,2015-02-17
+EMP00079,25,Engineering,Senior,Bachelor,San Francisco CA,9,96746,Meets Expectations,1.6,3.1,0,,10,4,2025-09-26
+EMP00080,37,Product,Manager,Master,Boston MA,15,149911,Outstanding,1.9,3.6,0,,1,3,2018-01-14
+EMP00081,56,Finance,Director,Master,Seattle WA,5,152420,Outstanding,2.4,3.4,0,,38,1,2022-10-13
+EMP00082,52,Product,VP,High School,Boston MA,3,197772,Exceeds Expectations,2.4,2.2,0,,50,2,2024-12-13
+EMP00083,25,Engineering,Manager,Bachelor,Boston MA,15,147290,Exceeds Expectations,2.1,4.2,0,,24,4,2019-02-19
+EMP00084,30,Finance,Director,Master,Boston MA,3,179602,Needs Improvement,1.2,4.2,0,,16,0,2025-12-26
+EMP00085,48,Finance,Senior,Bachelor,New York NY,5,91579,Exceeds Expectations,3.2,4.9,1,Career Growth,37,5,2016-04-17
+EMP00086,29,Operations,VP,Master,Austin TX,14,192467,Outstanding,4.9,4.4,1,Career Growth,1,2,2020-09-24
+EMP00087,45,Sales,Lead,PhD,Austin TX,8,124154,Meets Expectations,3.6,2.5,0,,79,4,2015-05-28
+EMP00088,36,Operations,Manager,High School,San Francisco CA,2,140820,Outstanding,4.6,2.2,0,,5,0,2012-02-28
+EMP00089,29,Finance,Lead,Bachelor,Seattle WA,3,112693,Outstanding,1.5,2.8,0,,12,3,2024-07-01
+EMP00090,24,Product,Senior,Master,Chicago IL,11,92119,Needs Improvement,4.8,4.4,0,,45,0,2023-06-01
+EMP00091,34,Product,Senior,High School,New York NY,3,112788,Needs Improvement,1.4,1.8,0,,31,1,2017-08-04
+EMP00092,57,HR,Junior,High School,New York NY,6,64214,Meets Expectations,4.5,2.3,1,Compensation,16,4,2019-05-27
+EMP00093,33,Finance,VP,Master,Austin TX,3,211661,Meets Expectations,1.5,2.4,0,,22,2,2026-03-04
+EMP00094,48,Engineering,Mid,PhD,Chicago IL,3,89433,Needs Improvement,2.8,2.4,1,Compensation,78,0,2011-07-13
+EMP00095,23,Finance,Lead,High School,Austin TX,1,120695,Outstanding,2.7,1.4,0,,41,4,2017-03-30
+EMP00096,30,Marketing,Junior,PhD,Chicago IL,8,65457,Exceeds Expectations,3.2,2.3,0,,77,3,2023-07-09
+EMP00097,29,Sales,VP,PhD,Seattle WA,6,204092,Outstanding,1.9,2.4,0,,12,2,2019-11-07
+EMP00098,38,Product,Senior,High School,Seattle WA,11,90001,Needs Improvement,2.9,1.4,0,,12,5,2016-09-27
+EMP00099,30,Operations,VP,Master,Boston MA,1,209217,Outstanding,3.2,3.7,0,,54,5,2019-06-15
+EMP00100,41,Engineering,Senior,High School,New York NY,11,88394,Meets Expectations,1.9,3.6,0,,71,2,2023-03-14
+EMP00101,39,Sales,VP,Master,Austin TX,7,216451,Needs Improvement,3.2,4.1,0,,23,2,2020-03-14
+EMP00102,44,Finance,Senior,High School,Austin TX,0,90944,Meets Expectations,3.3,2.6,0,,67,1,2012-05-08
+EMP00103,51,Product,Lead,High School,San Francisco CA,10,110157,Needs Improvement,3.9,4.1,0,,20,4,2023-11-06
+EMP00104,27,Engineering,Director,Bachelor,Chicago IL,8,164519,Exceeds Expectations,2.9,2.8,0,,14,2,2011-08-04
+EMP00105,40,Product,Junior,High School,San Francisco CA,15,62266,Needs Improvement,1.2,2.6,0,,38,1,2020-03-13
+EMP00106,38,Marketing,VP,PhD,Chicago IL,9,200751,Meets Expectations,3.0,2.7,1,Personal,29,4,2014-05-12
+EMP00107,47,Operations,Junior,PhD,Boston MA,1,59294,Outstanding,4.7,4.4,1,Personal,53,2,2017-01-11
+EMP00108,23,Sales,Lead,High School,Seattle WA,10,110631,Exceeds Expectations,3.5,4.3,0,,13,1,2020-03-16
+EMP00109,47,Product,Manager,High School,Chicago IL,2,132968,Meets Expectations,4.0,1.9,0,,14,4,2012-02-26
+EMP00110,44,HR,VP,Bachelor,New York NY,11,213834,Needs Improvement,3.6,1.6,0,,25,1,2016-11-01
+EMP00111,26,Marketing,VP,Master,Boston MA,5,215324,Outstanding,2.9,3.3,0,,40,1,2016-08-06
+EMP00112,52,Customer Success,Junior,Master,Seattle WA,14,65689,Needs Improvement,2.1,1.2,0,,57,0,2011-06-06
+EMP00113,40,Engineering,Senior,PhD,Chicago IL,2,106124,Outstanding,4.4,3.5,0,,70,5,2017-09-12
+EMP00114,58,Engineering,Lead,High School,New York NY,6,115535,Outstanding,3.0,4.8,0,,10,4,2013-12-02
+EMP00115,37,Marketing,Junior,PhD,Seattle WA,14,59398,Exceeds Expectations,3.4,2.5,0,,43,5,2025-02-10
+EMP00116,43,Engineering,VP,Master,Austin TX,2,200803,Meets Expectations,3.7,2.1,1,Relocation,18,2,2015-02-10
+EMP00117,47,Finance,Director,Bachelor,Boston MA,4,169498,Exceeds Expectations,1.3,3.2,0,,67,0,2013-04-02
+EMP00118,45,Product,Manager,Bachelor,San Francisco CA,0,131881,Outstanding,4.8,2.4,0,,17,1,2015-10-06
+EMP00119,28,Sales,Senior,Bachelor,San Francisco CA,1,106690,Outstanding,4.1,1.5,0,,23,5,2023-03-16
+EMP00120,50,Marketing,Director,PhD,San Francisco CA,1,163463,Exceeds Expectations,3.9,4.9,0,,68,1,2013-10-23
+EMP00121,52,Finance,VP,PhD,Chicago IL,6,202053,Exceeds Expectations,3.3,2.8,0,,67,3,2016-08-19
+EMP00122,34,Marketing,VP,High School,New York NY,4,218606,Needs Improvement,3.6,4.5,0,,10,1,2024-02-28
+EMP00123,54,Finance,Lead,Master,Austin TX,4,132231,Outstanding,4.8,1.9,0,,53,0,2019-01-04
+EMP00124,45,Product,Manager,Master,San Francisco CA,7,132653,Needs Improvement,2.5,1.1,0,,17,0,2011-09-11
+EMP00125,52,Finance,VP,High School,New York NY,4,214865,Needs Improvement,2.8,1.0,0,,27,1,2021-10-25
+EMP00126,40,Product,Junior,High School,Austin TX,7,54868,Outstanding,2.0,3.6,1,Career Growth,76,4,2018-08-30
+EMP00127,54,Engineering,Director,PhD,San Francisco CA,7,173545,Meets Expectations,2.7,3.5,1,Personal,10,4,2024-04-07
+EMP00128,55,Operations,Junior,Master,Boston MA,0,57794,Exceeds Expectations,1.2,2.5,0,,2,2,2012-09-07
+EMP00129,37,Sales,Senior,Master,Boston MA,3,110280,Exceeds Expectations,4.0,1.5,0,,22,5,2022-06-05
+EMP00130,52,Customer Success,Director,Master,San Francisco CA,5,176591,Needs Improvement,3.9,4.8,1,Better Opportunity,25,0,2024-08-01
+EMP00131,54,Operations,Senior,Master,New York NY,12,111719,Meets Expectations,2.0,4.0,0,,6,5,2011-09-12
+EMP00132,29,Operations,Senior,Master,San Francisco CA,11,99318,Outstanding,4.0,4.6,0,,63,5,2022-05-20
+EMP00133,55,Customer Success,Senior,Master,New York NY,8,111252,Meets Expectations,2.7,2.7,1,Better Opportunity,10,2,2025-05-02
+EMP00134,50,Finance,Senior,PhD,New York NY,13,90460,Exceeds Expectations,2.4,1.2,0,,7,0,2012-06-06
+EMP00135,54,Product,Senior,Bachelor,Austin TX,5,86020,Needs Improvement,3.4,4.1,1,Compensation,46,2,2016-09-25
+EMP00136,24,Product,Manager,Bachelor,Chicago IL,4,142251,Needs Improvement,2.5,2.8,0,,46,3,2020-04-28
+EMP00137,39,Operations,Director,Master,New York NY,7,153717,Needs Improvement,1.7,3.1,1,Personal,57,1,2021-03-09
+EMP00138,53,Finance,Director,High School,Boston MA,6,154018,Outstanding,1.3,1.7,1,Work-Life Balance,44,5,2025-10-22
+EMP00139,56,Sales,Manager,Master,Chicago IL,9,149207,Meets Expectations,1.6,3.8,0,,28,0,2020-12-15
+EMP00140,30,HR,VP,Bachelor,Chicago IL,7,215898,Outstanding,2.4,3.3,0,,11,0,2022-08-01
+EMP00141,52,Finance,Lead,High School,Seattle WA,13,130203,Exceeds Expectations,3.3,1.5,0,,59,5,2015-11-01
+EMP00142,57,Operations,Mid,High School,Chicago IL,5,90158,Needs Improvement,2.7,4.6,0,,19,2,2022-11-27
+EMP00143,42,Marketing,Mid,Master,San Francisco CA,7,76338,Needs Improvement,3.1,2.1,0,,70,2,2012-10-15
+EMP00144,41,Marketing,Director,Master,Chicago IL,2,166468,Meets Expectations,3.4,3.3,0,,5,0,2024-03-28
+EMP00145,58,Sales,Junior,PhD,Boston MA,8,66336,Needs Improvement,3.3,3.5,1,Relocation,37,5,2026-01-13
+EMP00146,37,Finance,Lead,PhD,Seattle WA,12,114746,Outstanding,3.8,1.6,0,,26,2,2024-10-03
+EMP00147,42,Marketing,Senior,Bachelor,Seattle WA,11,98065,Exceeds Expectations,2.5,3.2,1,Better Opportunity,34,3,2023-02-20
+EMP00148,28,HR,Mid,Master,Chicago IL,1,74509,Meets Expectations,4.5,2.7,0,,40,1,2018-12-30
+EMP00149,54,Marketing,Lead,PhD,San Francisco CA,14,121343,Outstanding,3.0,1.4,0,,27,4,2019-03-14
+EMP00150,25,Operations,Junior,High School,Austin TX,9,61216,Exceeds Expectations,4.4,3.7,0,,55,1,2020-02-23
+EMP00151,45,Finance,Director,Master,Austin TX,12,161991,Exceeds Expectations,1.2,3.2,1,Career Growth,64,3,2024-11-29
+EMP00152,29,Finance,VP,Bachelor,San Francisco CA,4,193168,Exceeds Expectations,4.2,2.4,0,,77,4,2012-12-12
+EMP00153,24,Product,Manager,Bachelor,Chicago IL,1,121275,Outstanding,2.3,2.9,1,Relocation,17,2,2026-01-24
+EMP00154,47,Operations,Mid,PhD,Austin TX,9,84455,Exceeds Expectations,4.3,3.1,0,,47,2,2019-01-29
+EMP00155,41,Sales,Lead,High School,Chicago IL,0,124559,Meets Expectations,4.9,4.1,0,,61,1,2012-02-18
+EMP00156,37,Product,Mid,PhD,San Francisco CA,1,83761,Exceeds Expectations,1.4,1.1,0,,52,5,2022-10-30
+EMP00157,54,HR,Lead,Master,Boston MA,15,133600,Meets Expectations,3.9,3.8,0,,61,4,2015-05-19
+EMP00158,33,Product,Senior,PhD,San Francisco CA,14,114888,Exceeds Expectations,3.2,3.7,0,,31,2,2014-08-29
+EMP00159,41,Finance,Mid,Master,New York NY,9,88098,Exceeds Expectations,3.8,2.3,0,,15,4,2018-07-20
+EMP00160,44,Product,Lead,Master,Boston MA,4,114517,Outstanding,4.8,1.3,1,Career Growth,27,1,2012-01-23
+EMP00161,39,Finance,Manager,Bachelor,Austin TX,4,123579,Meets Expectations,3.3,2.0,0,,12,3,2011-08-17
+EMP00162,52,Operations,Director,PhD,Boston MA,3,172321,Meets Expectations,1.0,3.2,0,,60,3,2016-08-21
+EMP00163,40,HR,VP,High School,San Francisco CA,10,199352,Meets Expectations,4.6,1.4,0,,53,1,2018-12-22
+EMP00164,47,Engineering,VP,High School,New York NY,15,196105,Needs Improvement,4.8,4.7,0,,72,4,2023-08-01
+EMP00165,40,Sales,Senior,Master,San Francisco CA,14,106014,Outstanding,3.0,4.8,0,,14,2,2013-03-14
+EMP00166,51,Marketing,Director,Bachelor,Chicago IL,8,173547,Meets Expectations,3.9,4.2,0,,51,3,2026-05-03
+EMP00167,47,Operations,Junior,Master,Seattle WA,3,51054,Needs Improvement,2.9,4.7,0,,30,3,2012-07-29
+EMP00168,41,Finance,Senior,PhD,New York NY,0,93570,Needs Improvement,3.8,1.2,0,,20,3,2023-10-03
+EMP00169,29,Finance,Director,PhD,Boston MA,9,162043,Meets Expectations,1.9,1.5,0,,77,2,2018-01-20
+EMP00170,57,Product,Director,High School,Chicago IL,15,174816,Meets Expectations,3.7,1.9,0,,57,4,2015-09-15
+EMP00171,58,Operations,Junior,Bachelor,New York NY,3,47023,Meets Expectations,4.6,1.8,0,,66,3,2022-08-10
+EMP00172,35,Sales,Director,PhD,Seattle WA,15,152979,Meets Expectations,2.8,1.2,0,,72,0,2015-11-20
+EMP00173,41,Customer Success,Director,High School,Seattle WA,0,162974,Needs Improvement,1.0,1.9,0,,44,5,2012-08-20
+EMP00174,25,Sales,Manager,Master,Seattle WA,2,135468,Outstanding,2.6,4.1,1,Career Growth,48,3,2013-01-11
+EMP00175,56,Sales,Director,Bachelor,Boston MA,4,171415,Outstanding,1.5,5.0,0,,28,0,2013-10-29
+EMP00176,51,Engineering,Senior,Master,San Francisco CA,13,102430,Meets Expectations,1.9,2.8,0,,14,0,2014-03-15
+EMP00177,23,Product,Manager,Bachelor,Boston MA,7,126752,Needs Improvement,3.4,2.8,1,Better Opportunity,51,3,2013-10-28
+EMP00178,35,HR,Manager,Master,San Francisco CA,1,124591,Exceeds Expectations,2.2,4.3,0,,38,1,2025-05-21
+EMP00179,41,HR,Lead,PhD,Chicago IL,8,106997,Meets Expectations,3.4,3.9,0,,63,0,2026-05-24
+EMP00180,46,Operations,Director,Bachelor,San Francisco CA,10,172816,Outstanding,1.6,2.5,0,,38,5,2016-05-25
+EMP00181,51,Marketing,VP,Bachelor,New York NY,1,208428,Outstanding,2.7,3.1,0,,26,2,2024-09-21
+EMP00182,45,Sales,Lead,High School,San Francisco CA,2,122551,Needs Improvement,1.8,2.1,0,,75,5,2013-10-18
+EMP00183,35,HR,Lead,PhD,San Francisco CA,10,114934,Needs Improvement,1.1,4.7,0,,77,5,2018-02-22
+EMP00184,37,HR,Lead,Master,New York NY,10,130412,Exceeds Expectations,2.9,3.6,0,,65,3,2017-12-29
+EMP00185,52,Customer Success,Junior,Bachelor,Austin TX,10,74960,Meets Expectations,2.3,1.2,0,,33,4,2022-06-11
+EMP00186,31,Product,Senior,Master,Seattle WA,6,95809,Exceeds Expectations,3.3,2.0,0,,62,3,2017-11-21
+EMP00187,44,Marketing,Director,High School,Austin TX,5,154586,Needs Improvement,3.0,4.7,0,,6,0,2014-12-30
+EMP00188,36,Product,Mid,PhD,Boston MA,2,88172,Needs Improvement,1.9,2.8,0,,62,0,2018-01-16
+EMP00189,57,Engineering,Manager,High School,Chicago IL,13,120388,Exceeds Expectations,3.9,3.1,1,Personal,55,1,2011-09-14
+EMP00190,55,Sales,Junior,PhD,Austin TX,4,52896,Exceeds Expectations,3.1,4.3,1,Work-Life Balance,51,3,2015-11-17
+EMP00191,36,HR,Director,High School,Seattle WA,9,172414,Needs Improvement,1.3,5.0,0,,48,3,2022-01-29
+EMP00192,22,Customer Success,Junior,High School,San Francisco CA,5,47709,Needs Improvement,2.7,4.1,0,,27,5,2011-11-03
+EMP00193,24,Customer Success,Senior,Bachelor,New York NY,2,107427,Needs Improvement,4.6,3.3,0,,2,1,2014-02-15
+EMP00194,47,Marketing,VP,Master,Seattle WA,2,199806,Outstanding,2.0,4.3,0,,17,5,2014-04-13
+EMP00195,44,Sales,Manager,Master,Austin TX,1,123200,Outstanding,4.4,2.4,0,,34,3,2026-01-12
+EMP00196,44,Customer Success,Mid,Bachelor,Boston MA,12,79150,Exceeds Expectations,3.3,2.5,0,,9,0,2022-12-30
+EMP00197,46,Finance,Mid,PhD,New York NY,4,89237,Exceeds Expectations,2.4,1.4,0,,34,0,2021-06-29
+EMP00198,33,Marketing,Junior,Master,Chicago IL,13,59707,Needs Improvement,3.0,1.4,0,,11,4,2026-01-02
+EMP00199,46,Operations,VP,Bachelor,Boston MA,0,199563,Meets Expectations,4.1,3.9,0,,48,1,2014-01-30
+EMP00200,41,Marketing,Senior,PhD,Austin TX,8,101158,Exceeds Expectations,1.7,2.1,1,Work-Life Balance,32,1,2012-03-02
+EMP00201,34,Customer Success,Manager,Master,Seattle WA,14,123505,Outstanding,1.0,2.6,1,Work-Life Balance,55,5,2018-09-01
+EMP00202,42,Marketing,Senior,PhD,Chicago IL,6,100696,Exceeds Expectations,4.9,4.9,0,,31,2,2015-03-14
+EMP00203,47,Product,Senior,High School,Boston MA,11,88731,Meets Expectations,1.8,5.0,0,,59,5,2026-04-06
+EMP00204,40,HR,Lead,Master,San Francisco CA,2,131835,Meets Expectations,4.2,3.7,0,,32,5,2023-01-20
+EMP00205,49,Marketing,Director,High School,New York NY,12,152423,Outstanding,3.4,3.3,0,,68,4,2025-12-17
+EMP00206,37,Sales,Junior,Master,Seattle WA,11,50450,Outstanding,1.2,4.9,0,,13,0,2015-01-19
+EMP00207,36,Sales,Senior,Master,Austin TX,7,99607,Meets Expectations,2.9,3.7,0,,61,0,2011-08-29
+EMP00208,27,Finance,Lead,Bachelor,Chicago IL,3,132240,Outstanding,1.6,2.2,0,,61,2,2011-09-22
+EMP00209,50,Customer Success,Junior,Master,Boston MA,14,55450,Needs Improvement,1.2,3.8,1,Better Opportunity,21,5,2020-11-08
+EMP00210,33,HR,Manager,Bachelor,San Francisco CA,5,130845,Outstanding,4.8,1.9,0,,55,3,2020-06-01
+EMP00211,34,Engineering,Director,High School,Chicago IL,14,169405,Exceeds Expectations,1.0,1.9,0,,13,4,2019-09-10
+EMP00212,42,Marketing,Senior,PhD,Chicago IL,6,99993,Exceeds Expectations,3.7,3.0,1,Career Growth,75,0,2021-10-02
+EMP00213,51,Operations,Senior,Bachelor,New York NY,5,111664,Needs Improvement,4.2,4.7,0,,15,1,2020-05-01
+EMP00214,33,Finance,Junior,PhD,San Francisco CA,11,67722,Outstanding,2.6,3.4,1,Career Growth,68,5,2017-12-18
+EMP00215,32,Marketing,Manager,Master,Austin TX,15,129464,Needs Improvement,2.3,2.8,1,Career Growth,17,1,2024-05-14
+EMP00216,54,Product,Manager,Bachelor,Austin TX,15,133406,Outstanding,2.7,4.4,0,,72,0,2020-09-05
+EMP00217,24,HR,Senior,High School,Chicago IL,8,92367,Outstanding,1.7,2.8,0,,14,2,2019-06-12
+EMP00218,24,Operations,Manager,Master,Austin TX,14,137902,Meets Expectations,2.7,3.9,0,,57,2,2024-07-17
+EMP00219,27,Operations,VP,PhD,San Francisco CA,14,218353,Exceeds Expectations,4.1,1.9,0,,78,1,2012-02-11
+EMP00220,35,HR,VP,Master,New York NY,1,208680,Exceeds Expectations,2.1,3.2,0,,73,2,2021-06-21
+EMP00221,48,Sales,Mid,Bachelor,Boston MA,1,74087,Meets Expectations,1.5,4.5,0,,41,1,2011-11-10
+EMP00222,31,Product,Lead,PhD,Chicago IL,8,125572,Needs Improvement,2.8,3.5,0,,35,5,2017-09-28
+EMP00223,53,Operations,Lead,Master,Austin TX,10,124069,Outstanding,4.1,3.9,1,Relocation,50,1,2011-12-11
+EMP00224,35,Product,VP,PhD,New York NY,15,198799,Meets Expectations,2.1,3.2,0,,6,0,2018-02-04
+EMP00225,51,Sales,Director,Bachelor,Boston MA,0,154071,Outstanding,1.6,2.8,0,,16,5,2016-05-07
+EMP00226,39,Finance,Mid,High School,Seattle WA,2,86449,Meets Expectations,1.3,3.7,0,,80,2,2012-06-06
+EMP00227,27,HR,Lead,High School,Austin TX,3,105035,Outstanding,1.3,3.4,0,,43,0,2022-08-27
+EMP00228,30,Product,Director,Master,New York NY,15,152320,Needs Improvement,1.4,4.2,0,,38,1,2017-07-11
+EMP00229,30,Product,VP,Master,Boston MA,4,192241,Outstanding,1.0,3.6,0,,27,5,2023-02-15
+EMP00230,50,Marketing,Lead,Master,Seattle WA,6,107840,Outstanding,1.6,1.5,0,,40,1,2019-08-08
+EMP00231,27,HR,Senior,Master,San Francisco CA,7,103133,Needs Improvement,3.9,2.1,0,,66,4,2012-10-25
+EMP00232,47,HR,Director,PhD,Austin TX,9,171173,Outstanding,4.6,4.8,1,Compensation,63,5,2025-12-05
+EMP00233,22,Sales,Manager,Bachelor,Seattle WA,11,130370,Exceeds Expectations,4.4,3.3,1,Better Opportunity,2,4,2024-05-14
+EMP00234,38,Sales,Junior,PhD,Seattle WA,6,46305,Exceeds Expectations,4.8,2.6,0,,51,0,2016-03-31
+EMP00235,27,Marketing,Senior,PhD,Chicago IL,9,87589,Exceeds Expectations,1.8,4.2,0,,8,2,2014-05-10
+EMP00236,37,Product,Director,Master,Boston MA,1,158011,Needs Improvement,2.7,2.8,1,Personal,22,0,2014-09-26
+EMP00237,30,Engineering,Director,Bachelor,New York NY,0,155368,Exceeds Expectations,2.4,3.1,0,,16,5,2016-05-22
+EMP00238,29,Finance,Director,PhD,Seattle WA,0,160977,Needs Improvement,2.1,1.3,0,,65,2,2023-01-18
+EMP00239,58,Engineering,Lead,Bachelor,Boston MA,5,117048,Needs Improvement,4.1,4.6,0,,65,0,2026-04-12
+EMP00240,22,Engineering,VP,PhD,San Francisco CA,7,191506,Needs Improvement,2.5,1.6,0,,41,1,2021-03-24
+EMP00241,42,Product,Director,Bachelor,San Francisco CA,8,177066,Needs Improvement,2.5,3.0,1,Relocation,5,3,2022-06-30
+EMP00242,40,Sales,Lead,Master,Boston MA,9,115724,Exceeds Expectations,2.8,2.5,1,Relocation,31,3,2011-12-30
+EMP00243,53,Operations,Manager,PhD,Austin TX,6,144001,Needs Improvement,4.0,2.0,0,,29,4,2022-01-08
+EMP00244,22,Operations,Director,High School,San Francisco CA,10,150047,Exceeds Expectations,2.5,4.0,0,,67,1,2013-06-04
+EMP00245,25,Product,Lead,Master,Seattle WA,4,128319,Outstanding,1.2,1.9,0,,10,4,2018-12-24
+EMP00246,30,Sales,Manager,Bachelor,New York NY,12,122452,Meets Expectations,1.2,3.6,0,,33,2,2016-11-04
+EMP00247,42,Product,Director,Bachelor,Austin TX,10,164835,Needs Improvement,1.3,1.8,0,,21,3,2023-06-02
+EMP00248,48,Customer Success,Senior,Master,Austin TX,3,102561,Outstanding,4.1,2.8,0,,11,1,2024-12-02
+EMP00249,24,Finance,VP,PhD,Chicago IL,6,217391,Exceeds Expectations,1.6,3.8,0,,6,5,2024-09-21
+EMP00250,33,Finance,Senior,PhD,Austin TX,0,98251,Needs Improvement,3.2,3.2,0,,17,0,2021-12-02
+EMP00251,36,Engineering,Junior,Master,Austin TX,4,51492,Needs Improvement,2.5,3.5,0,,2,0,2017-10-25
+EMP00252,50,HR,Director,PhD,Austin TX,4,153013,Needs Improvement,4.3,2.3,0,,21,4,2018-08-28
+EMP00253,47,Product,VP,Master,New York NY,15,190966,Meets Expectations,2.7,2.4,0,,57,1,2014-05-02
+EMP00254,37,Engineering,Manager,PhD,San Francisco CA,9,136347,Exceeds Expectations,3.2,1.2,0,,53,1,2017-08-01
+EMP00255,56,HR,Director,Master,Chicago IL,0,162533,Outstanding,2.4,3.2,0,,64,2,2016-04-09
+EMP00256,33,Product,Senior,High School,Seattle WA,0,95448,Exceeds Expectations,1.1,4.2,0,,67,2,2020-05-10
+EMP00257,28,HR,Mid,Bachelor,Chicago IL,7,86524,Needs Improvement,3.1,4.2,0,,49,2,2016-08-08
+EMP00258,37,Marketing,Mid,Bachelor,Chicago IL,10,91417,Exceeds Expectations,2.4,3.4,0,,24,3,2017-02-05
+EMP00259,53,Finance,Mid,High School,New York NY,1,67957,Outstanding,3.4,1.1,1,Relocation,25,1,2016-11-08
+EMP00260,33,Operations,Director,Master,Austin TX,10,151951,Needs Improvement,3.3,4.7,1,Work-Life Balance,50,4,2015-03-21
+EMP00261,41,Sales,Senior,Master,San Francisco CA,10,89471,Outstanding,3.9,2.7,0,,71,5,2020-06-18
+EMP00262,33,Operations,Mid,PhD,Chicago IL,12,75053,Needs Improvement,2.2,1.7,0,,4,1,2012-08-03
+EMP00263,36,Operations,VP,Bachelor,Boston MA,3,206258,Exceeds Expectations,4.0,2.0,1,Better Opportunity,42,3,2018-04-26
+EMP00264,35,Engineering,Senior,High School,Seattle WA,7,107713,Needs Improvement,2.0,1.4,1,Career Growth,53,1,2018-08-16
+EMP00265,46,Product,Lead,Bachelor,Seattle WA,11,122892,Meets Expectations,4.3,4.2,0,,9,0,2021-12-01
+EMP00266,42,Finance,Junior,High School,New York NY,8,48431,Needs Improvement,1.7,2.5,1,Relocation,78,3,2025-03-08
+EMP00267,32,Engineering,Lead,Master,Boston MA,13,110147,Outstanding,2.3,4.9,1,Work-Life Balance,38,1,2016-02-04
+EMP00268,47,Sales,Junior,Bachelor,Austin TX,15,50032,Outstanding,1.0,1.4,1,Better Opportunity,26,1,2022-12-20
+EMP00269,52,Finance,Junior,High School,Boston MA,3,55104,Exceeds Expectations,2.9,4.6,0,,69,3,2026-03-31
+EMP00270,46,Marketing,Senior,Master,Chicago IL,11,91113,Meets Expectations,2.1,2.9,0,,7,1,2019-08-12
+EMP00271,44,Sales,Junior,PhD,Chicago IL,13,69787,Outstanding,3.2,4.4,0,,30,3,2018-10-13
+EMP00272,47,Finance,Junior,High School,Seattle WA,1,61452,Meets Expectations,3.1,3.3,0,,22,1,2023-05-06
+EMP00273,34,HR,VP,Master,New York NY,4,191398,Meets Expectations,5.0,2.7,0,,8,0,2019-05-18
+EMP00274,47,Product,Manager,High School,Seattle WA,10,148069,Outstanding,2.8,4.5,0,,19,1,2022-09-09
+EMP00275,58,Sales,Junior,Master,Seattle WA,3,70747,Outstanding,3.1,2.4,0,,62,4,2021-05-30
+EMP00276,33,Customer Success,Junior,PhD,New York NY,8,58204,Needs Improvement,3.4,3.8,1,Personal,30,0,2022-02-22
+EMP00277,45,Customer Success,Senior,High School,San Francisco CA,0,96071,Outstanding,2.2,2.1,0,,17,2,2021-11-19
+EMP00278,42,Customer Success,VP,PhD,Boston MA,8,213881,Meets Expectations,3.6,1.8,0,,62,4,2025-11-01
+EMP00279,25,Operations,VP,Bachelor,San Francisco CA,5,192150,Needs Improvement,3.0,1.5,0,,25,0,2018-02-02
+EMP00280,51,HR,Junior,High School,Boston MA,1,56808,Outstanding,2.1,4.3,0,,3,1,2019-06-08
+EMP00281,50,Operations,Lead,High School,New York NY,5,133523,Exceeds Expectations,3.2,2.4,0,,3,3,2018-04-03
+EMP00282,58,Engineering,Mid,High School,Boston MA,6,93085,Outstanding,1.9,1.8,0,,1,3,2017-01-16
+EMP00283,33,Marketing,Director,PhD,Seattle WA,0,157332,Exceeds Expectations,4.2,2.2,0,,44,3,2013-07-07
+EMP00284,51,Finance,Mid,Master,Chicago IL,9,87190,Needs Improvement,3.5,3.3,0,,76,4,2023-12-11
+EMP00285,28,Finance,Senior,Master,Boston MA,15,87091,Exceeds Expectations,2.1,2.3,0,,38,1,2021-04-14
+EMP00286,37,Marketing,Manager,Bachelor,Boston MA,1,146392,Exceeds Expectations,4.2,2.6,0,,3,5,2011-09-23
+EMP00287,38,Customer Success,Senior,Master,Boston MA,13,98257,Meets Expectations,1.1,3.8,0,,28,5,2019-03-13
+EMP00288,44,Customer Success,Director,High School,Seattle WA,9,177702,Exceeds Expectations,3.6,3.2,0,,16,5,2025-05-01
+EMP00289,57,Finance,Director,Master,Seattle WA,5,172272,Meets Expectations,3.6,1.9,0,,42,2,2016-06-27
+EMP00290,40,Finance,Manager,PhD,San Francisco CA,14,147892,Needs Improvement,1.2,3.5,1,Relocation,15,5,2025-02-01
+EMP00291,41,Product,Manager,PhD,Chicago IL,13,121771,Exceeds Expectations,1.6,5.0,0,,58,1,2020-11-16
+EMP00292,33,Operations,VP,High School,Seattle WA,2,205977,Needs Improvement,4.9,2.3,0,,35,1,2019-01-12
+EMP00293,32,Marketing,Manager,PhD,Seattle WA,15,145729,Outstanding,1.4,3.5,0,,61,3,2013-08-31
+EMP00294,56,Engineering,Junior,High School,Boston MA,6,68942,Meets Expectations,1.1,2.3,0,,0,5,2021-09-23
+EMP00295,44,HR,Mid,High School,New York NY,9,69224,Needs Improvement,3.0,2.2,1,Work-Life Balance,58,5,2023-03-16
+EMP00296,30,Operations,Lead,High School,San Francisco CA,10,134536,Outstanding,4.0,1.7,0,,28,5,2017-03-24
+EMP00297,23,Marketing,Mid,High School,Chicago IL,5,69035,Exceeds Expectations,3.6,1.1,0,,6,5,2011-08-30
+EMP00298,23,Sales,Director,PhD,Boston MA,1,172601,Exceeds Expectations,2.8,1.5,1,Compensation,26,5,2026-02-22
+EMP00299,48,Engineering,Senior,High School,Chicago IL,3,106708,Outstanding,3.5,3.8,0,,79,0,2015-05-17
+EMP00300,28,Finance,Junior,Master,Boston MA,15,51509,Meets Expectations,4.1,4.3,0,,52,2,2023-08-29
+EMP00301,57,Marketing,Junior,High School,Boston MA,15,74830,Needs Improvement,4.7,2.3,0,,11,0,2017-11-06
+EMP00302,27,Customer Success,Mid,Master,New York NY,2,88709,Outstanding,4.6,3.6,0,,59,0,2022-01-27
+EMP00303,33,Sales,VP,High School,Austin TX,1,217926,Needs Improvement,4.2,2.3,0,,1,1,2014-07-03
+EMP00304,44,Marketing,Senior,Bachelor,Austin TX,14,105375,Exceeds Expectations,3.9,2.5,0,,51,3,2022-01-21
+EMP00305,46,Customer Success,Senior,High School,San Francisco CA,15,111211,Meets Expectations,4.5,1.7,0,,13,3,2016-08-23
+EMP00306,58,Customer Success,VP,PhD,Seattle WA,14,195939,Meets Expectations,4.1,3.4,0,,14,3,2022-10-08
+EMP00307,26,Customer Success,Junior,Master,Chicago IL,8,66462,Meets Expectations,3.8,3.7,0,,66,5,2020-01-10
+EMP00308,37,Sales,Lead,High School,Boston MA,15,116329,Needs Improvement,3.6,1.6,0,,20,4,2024-03-16
+EMP00309,53,Customer Success,VP,High School,Chicago IL,5,192453,Exceeds Expectations,2.3,2.3,0,,28,4,2021-07-27
+EMP00310,37,Product,Lead,PhD,New York NY,2,120043,Outstanding,3.3,1.4,0,,15,3,2013-04-18
+EMP00311,47,Engineering,Junior,Bachelor,Boston MA,13,46174,Exceeds Expectations,1.0,1.4,0,,58,2,2018-02-24
+EMP00312,25,Operations,VP,Master,Boston MA,7,217666,Outstanding,3.2,3.5,0,,57,0,2019-01-03
+EMP00313,36,Sales,VP,High School,Austin TX,0,201185,Exceeds Expectations,3.5,4.2,0,,21,3,2019-10-23
+EMP00314,48,Marketing,VP,Bachelor,Seattle WA,3,198332,Outstanding,1.8,4.7,0,,24,5,2023-12-23
+EMP00315,48,Operations,Junior,PhD,Boston MA,1,65750,Outstanding,3.4,4.1,0,,75,4,2020-11-05
+EMP00316,22,Marketing,Lead,Bachelor,Boston MA,1,123128,Meets Expectations,4.4,2.9,0,,16,0,2025-10-17
+EMP00317,42,Product,Director,PhD,New York NY,12,163718,Exceeds Expectations,4.7,4.0,0,,37,3,2012-01-19
+EMP00318,48,Marketing,Mid,Bachelor,San Francisco CA,9,92625,Meets Expectations,4.4,3.8,0,,79,5,2024-09-22
+EMP00319,44,Finance,Director,High School,New York NY,4,173278,Exceeds Expectations,4.8,3.0,0,,71,3,2015-07-16
+EMP00320,56,Product,Director,PhD,San Francisco CA,9,178753,Needs Improvement,4.2,3.1,0,,6,5,2017-01-07
+EMP00321,39,Engineering,Mid,Bachelor,Chicago IL,5,74391,Exceeds Expectations,1.6,1.2,0,,4,2,2025-03-23
+EMP00322,57,Customer Success,Junior,High School,Seattle WA,7,69327,Exceeds Expectations,2.6,3.0,0,,49,3,2015-10-13
+EMP00323,25,Operations,Manager,Bachelor,Boston MA,0,144368,Outstanding,3.5,4.1,0,,47,4,2021-07-09
+EMP00324,34,HR,VP,High School,Seattle WA,9,204706,Meets Expectations,3.7,1.7,0,,5,3,2017-10-08
+EMP00325,38,Finance,Manager,High School,San Francisco CA,4,125273,Meets Expectations,2.0,2.3,0,,41,4,2026-03-20
+EMP00326,41,Engineering,VP,Bachelor,San Francisco CA,15,215883,Exceeds Expectations,2.4,4.1,0,,66,0,2018-11-18
+EMP00327,56,Marketing,Lead,Master,New York NY,12,108012,Exceeds Expectations,4.5,3.7,0,,27,4,2025-09-04
+EMP00328,22,Customer Success,Manager,High School,Boston MA,3,141919,Meets Expectations,2.0,3.6,0,,41,3,2025-01-19
+EMP00329,38,Sales,Lead,PhD,Austin TX,9,105809,Outstanding,4.3,2.5,0,,37,5,2013-12-12
+EMP00330,54,HR,Senior,High School,San Francisco CA,2,88144,Needs Improvement,4.8,3.2,0,,80,1,2014-04-23
+EMP00331,28,Product,VP,High School,Boston MA,6,207621,Outstanding,4.5,4.0,0,,19,0,2020-02-17
+EMP00332,43,Customer Success,Director,Bachelor,New York NY,1,152867,Needs Improvement,1.7,2.0,1,Career Growth,49,3,2025-08-27
+EMP00333,42,Product,Lead,High School,Boston MA,0,117763,Needs Improvement,3.1,3.6,0,,9,2,2024-02-10
+EMP00334,41,Sales,Senior,PhD,San Francisco CA,2,94224,Needs Improvement,2.8,2.6,0,,68,1,2013-09-28
+EMP00335,47,Marketing,Director,High School,Chicago IL,9,170776,Exceeds Expectations,3.7,4.7,1,Relocation,18,0,2021-01-30
+EMP00336,58,Engineering,Junior,Bachelor,Seattle WA,12,62601,Exceeds Expectations,1.3,1.8,0,,65,1,2015-01-06
+EMP00337,36,Marketing,Mid,PhD,Boston MA,8,71367,Needs Improvement,3.7,3.3,1,Relocation,9,2,2012-04-08
+EMP00338,28,Sales,Senior,High School,New York NY,6,108776,Meets Expectations,4.8,2.4,0,,79,0,2017-05-01
+EMP00339,53,HR,Senior,Master,Seattle WA,14,95759,Exceeds Expectations,2.2,3.3,0,,21,0,2025-03-05
+EMP00340,36,Operations,Mid,PhD,Seattle WA,13,74066,Outstanding,1.5,3.9,0,,45,2,2022-05-03
+EMP00341,28,Customer Success,Manager,Bachelor,New York NY,5,141153,Meets Expectations,4.4,4.4,0,,80,0,2022-02-12
+EMP00342,54,Sales,Junior,Master,Chicago IL,0,71628,Needs Improvement,2.6,3.4,0,,69,3,2018-08-24
+EMP00343,47,Marketing,Senior,High School,Seattle WA,7,114210,Outstanding,3.9,2.2,0,,46,4,2019-05-01
+EMP00344,37,Engineering,Director,PhD,New York NY,5,174812,Meets Expectations,2.8,1.7,0,,5,1,2021-05-20
+EMP00345,26,Customer Success,Mid,PhD,Seattle WA,8,77105,Exceeds Expectations,3.7,3.1,0,,58,0,2019-08-16
+EMP00346,42,Engineering,Director,Bachelor,Seattle WA,3,173060,Exceeds Expectations,3.5,2.1,0,,48,2,2021-09-30
+EMP00347,38,Sales,Manager,PhD,Seattle WA,12,149728,Exceeds Expectations,2.6,4.3,0,,77,0,2022-06-01
+EMP00348,32,Marketing,Lead,Master,Chicago IL,7,107526,Meets Expectations,2.1,1.6,0,,15,5,2022-06-26
+EMP00349,43,HR,Lead,High School,San Francisco CA,3,120778,Outstanding,2.9,3.4,0,,5,1,2016-06-28
+EMP00350,54,Marketing,Mid,PhD,Chicago IL,1,94189,Meets Expectations,1.2,2.0,0,,72,5,2022-11-19
+EMP00351,40,Engineering,Director,Bachelor,Seattle WA,2,157097,Meets Expectations,5.0,4.5,0,,76,1,2026-01-18
+EMP00352,54,Marketing,Manager,Bachelor,Seattle WA,8,125495,Needs Improvement,2.4,2.8,0,,49,1,2017-11-13
+EMP00353,34,Sales,Junior,High School,Austin TX,13,72083,Needs Improvement,1.4,2.9,1,Career Growth,16,4,2013-09-03
+EMP00354,49,Engineering,VP,PhD,New York NY,13,202136,Outstanding,3.8,2.7,0,,75,5,2015-01-05
+EMP00355,30,Sales,Lead,Master,San Francisco CA,8,120634,Outstanding,4.6,1.3,0,,0,5,2013-04-15
+EMP00356,55,Engineering,Manager,PhD,New York NY,3,137031,Exceeds Expectations,3.6,3.8,1,Better Opportunity,19,3,2021-06-17
+EMP00357,56,Finance,Senior,PhD,Chicago IL,13,103503,Meets Expectations,2.1,3.7,0,,71,3,2017-09-06
+EMP00358,57,Marketing,Senior,Bachelor,Boston MA,15,93315,Outstanding,3.3,4.1,0,,15,5,2013-04-06
+EMP00359,32,HR,Lead,Bachelor,Seattle WA,3,112027,Needs Improvement,4.1,4.2,0,,0,0,2013-08-28
+EMP00360,49,Marketing,Lead,PhD,Chicago IL,2,107099,Outstanding,2.5,3.4,0,,66,2,2014-11-20
+EMP00361,33,Engineering,VP,Bachelor,Austin TX,15,204384,Exceeds Expectations,4.4,4.7,1,Relocation,65,4,2024-04-10
+EMP00362,32,HR,Manager,PhD,New York NY,1,131787,Exceeds Expectations,1.0,1.6,1,Personal,50,3,2022-03-16
+EMP00363,22,HR,Manager,Master,New York NY,2,122954,Exceeds Expectations,3.9,3.2,0,,28,4,2021-01-17
+EMP00364,47,HR,Lead,Master,Austin TX,0,113555,Exceeds Expectations,3.0,3.2,1,Relocation,32,4,2016-08-11
+EMP00365,50,Finance,Director,PhD,Chicago IL,12,168453,Outstanding,2.0,2.4,0,,3,3,2022-11-23
+EMP00366,26,Sales,Senior,PhD,New York NY,12,105763,Exceeds Expectations,1.9,3.8,0,,66,4,2026-03-23
+EMP00367,38,Engineering,Director,Bachelor,Seattle WA,7,159413,Needs Improvement,3.7,4.3,1,Work-Life Balance,45,1,2012-07-11
+EMP00368,34,Finance,Mid,Bachelor,San Francisco CA,15,89153,Meets Expectations,3.9,4.5,0,,31,4,2025-04-17
+EMP00369,28,Operations,Mid,PhD,New York NY,3,67571,Needs Improvement,3.7,3.5,0,,79,2,2014-11-28
+EMP00370,39,Customer Success,Manager,Bachelor,Austin TX,15,125992,Meets Expectations,4.7,2.1,0,,67,3,2016-05-13
+EMP00371,24,Customer Success,Manager,PhD,New York NY,11,132901,Needs Improvement,4.1,2.8,0,,1,0,2015-02-22
+EMP00372,28,HR,Lead,Master,Seattle WA,10,116848,Meets Expectations,2.0,3.2,0,,78,2,2014-01-22
+EMP00373,53,Operations,Mid,Master,Seattle WA,13,71898,Outstanding,4.0,2.5,0,,23,4,2018-03-04
+EMP00374,36,Marketing,Manager,Bachelor,San Francisco CA,3,143619,Outstanding,1.9,2.7,0,,19,3,2019-06-06
+EMP00375,48,Engineering,Mid,PhD,New York NY,15,69406,Exceeds Expectations,4.4,3.1,0,,32,4,2025-04-17
+EMP00376,28,Engineering,Lead,PhD,Boston MA,5,106967,Needs Improvement,2.0,4.4,0,,42,2,2019-07-28
+EMP00377,57,Operations,Senior,Bachelor,New York NY,8,96276,Meets Expectations,1.5,4.5,1,Work-Life Balance,41,5,2024-11-29
+EMP00378,50,Customer Success,VP,Master,Seattle WA,2,202486,Meets Expectations,2.9,4.8,0,,80,4,2013-02-20
+EMP00379,26,Product,VP,PhD,New York NY,2,195308,Exceeds Expectations,2.3,3.6,0,,56,2,2012-01-05
+EMP00380,32,Customer Success,Lead,Bachelor,San Francisco CA,5,132990,Needs Improvement,3.9,3.6,1,Career Growth,13,0,2019-04-21
+EMP00381,57,Sales,Lead,Master,Chicago IL,1,105863,Needs Improvement,3.1,5.0,0,,19,0,2013-06-14
+EMP00382,36,Product,Senior,High School,Austin TX,7,109169,Meets Expectations,3.5,1.5,0,,45,2,2016-10-15
+EMP00383,56,Customer Success,Lead,PhD,Boston MA,8,122974,Meets Expectations,4.9,3.8,0,,72,3,2024-04-13
+EMP00384,52,Finance,Senior,Master,Austin TX,7,111368,Meets Expectations,2.2,2.6,1,Better Opportunity,66,1,2014-10-06
+EMP00385,52,Operations,Senior,PhD,New York NY,0,107536,Needs Improvement,4.8,2.9,0,,76,1,2023-06-14
+EMP00386,45,Engineering,Manager,PhD,San Francisco CA,6,133491,Outstanding,2.7,2.0,0,,33,0,2012-10-05
+EMP00387,37,Product,Director,High School,San Francisco CA,8,159328,Meets Expectations,3.1,2.1,0,,17,2,2019-02-18
+EMP00388,51,Sales,Director,High School,Chicago IL,14,158917,Meets Expectations,3.0,2.3,0,,2,1,2013-06-19
+EMP00389,39,Sales,Senior,PhD,San Francisco CA,4,108435,Needs Improvement,1.0,1.4,0,,43,3,2012-03-22
+EMP00390,53,Finance,VP,High School,New York NY,11,205194,Meets Expectations,1.1,1.3,0,,50,0,2016-06-19
+EMP00391,34,Customer Success,Mid,PhD,Seattle WA,8,91779,Meets Expectations,1.1,4.9,0,,31,5,2018-05-18
+EMP00392,51,Engineering,Mid,Master,San Francisco CA,3,82076,Exceeds Expectations,1.8,2.6,0,,80,5,2018-10-02
+EMP00393,57,Engineering,Director,Bachelor,Austin TX,3,158300,Needs Improvement,2.2,2.4,0,,30,5,2014-04-24
+EMP00394,22,Product,Senior,High School,Chicago IL,5,111030,Needs Improvement,1.5,4.2,0,,60,5,2016-10-06
+EMP00395,27,Marketing,Senior,High School,New York NY,7,90167,Needs Improvement,3.7,2.4,0,,19,5,2025-05-11
+EMP00396,53,Sales,Mid,Bachelor,Austin TX,7,75378,Outstanding,4.2,4.0,0,,48,2,2024-09-14
+EMP00397,24,Marketing,Senior,Bachelor,Chicago IL,15,108154,Meets Expectations,2.2,3.8,0,,44,2,2013-06-24
+EMP00398,57,Customer Success,Senior,PhD,Austin TX,5,87256,Exceeds Expectations,2.8,4.3,0,,64,3,2013-05-03
+EMP00399,45,Marketing,Junior,Bachelor,Chicago IL,7,55508,Outstanding,3.6,3.2,0,,63,4,2011-08-31
+EMP00400,40,Marketing,Manager,High School,San Francisco CA,10,133428,Needs Improvement,1.4,3.1,0,,22,0,2025-04-08
+EMP00401,53,HR,Junior,Master,Austin TX,6,48235,Outstanding,3.6,2.6,1,Work-Life Balance,28,4,2015-12-03
+EMP00402,35,Sales,Junior,PhD,New York NY,15,74155,Exceeds Expectations,2.9,3.6,0,,7,4,2013-12-31
+EMP00403,24,Finance,Manager,High School,Boston MA,2,147343,Needs Improvement,4.8,4.8,0,,29,4,2021-05-28
+EMP00404,34,Product,Mid,High School,Boston MA,7,83678,Outstanding,1.7,4.0,0,,73,2,2015-07-04
+EMP00405,49,Customer Success,Director,PhD,New York NY,3,155466,Meets Expectations,3.2,3.0,0,,40,4,2020-09-03
+EMP00406,45,Operations,VP,Bachelor,Seattle WA,13,215040,Meets Expectations,4.3,2.3,0,,70,5,2012-04-19
+EMP00407,50,Finance,Senior,Bachelor,New York NY,14,98011,Needs Improvement,1.1,2.1,1,Better Opportunity,38,1,2016-09-17
+EMP00408,42,HR,VP,High School,Austin TX,0,215281,Meets Expectations,3.8,2.1,0,,58,2,2020-04-25
+EMP00409,38,Marketing,Mid,PhD,Chicago IL,11,94151,Needs Improvement,1.9,4.2,0,,27,5,2016-11-04
+EMP00410,42,Sales,Director,Master,Austin TX,15,155665,Needs Improvement,4.6,3.8,0,,73,3,2015-06-10
+EMP00411,25,Sales,VP,Bachelor,Boston MA,10,201400,Needs Improvement,2.7,4.7,0,,77,0,2013-08-13
+EMP00412,41,Product,Junior,Bachelor,Austin TX,1,55463,Meets Expectations,1.6,3.0,0,,50,3,2012-10-21
+EMP00413,49,Sales,Mid,PhD,New York NY,9,90767,Needs Improvement,1.5,1.3,0,,10,3,2012-05-01
+EMP00414,30,Product,VP,Bachelor,San Francisco CA,4,205758,Meets Expectations,3.0,3.6,0,,9,2,2017-08-20
+EMP00415,58,Product,Senior,Master,Chicago IL,2,88687,Exceeds Expectations,2.7,2.4,0,,3,2,2019-03-06
+EMP00416,50,Marketing,Senior,Bachelor,Boston MA,4,99433,Exceeds Expectations,4.3,1.8,1,Better Opportunity,14,5,2023-10-30
+EMP00417,31,Engineering,Mid,High School,New York NY,9,65450,Outstanding,4.2,2.2,0,,26,5,2014-03-15
+EMP00418,56,HR,Mid,PhD,Chicago IL,8,82983,Needs Improvement,3.9,1.6,0,,67,0,2019-07-24
+EMP00419,25,Finance,Mid,High School,Seattle WA,9,71576,Needs Improvement,3.5,1.2,0,,34,5,2022-11-17
+EMP00420,28,Operations,VP,High School,New York NY,0,199584,Outstanding,3.6,1.9,0,,62,4,2019-05-31
+EMP00421,34,Sales,Mid,Master,Seattle WA,14,83372,Exceeds Expectations,1.1,2.0,0,,50,5,2011-07-09
+EMP00422,44,Marketing,Junior,High School,Boston MA,11,56645,Exceeds Expectations,1.9,4.9,0,,32,3,2018-04-10
+EMP00423,39,Engineering,Manager,Bachelor,Seattle WA,7,124971,Outstanding,2.6,1.5,0,,30,4,2020-07-24
+EMP00424,41,Marketing,Lead,Bachelor,New York NY,10,119718,Meets Expectations,1.8,1.6,0,,67,1,2023-07-07
+EMP00425,31,Product,VP,Master,San Francisco CA,5,200403,Meets Expectations,3.1,3.9,1,Personal,3,2,2016-09-17
+EMP00426,41,Product,Lead,Bachelor,San Francisco CA,14,129432,Exceeds Expectations,4.6,4.7,0,,13,1,2020-04-07
+EMP00427,39,Marketing,Junior,Bachelor,Chicago IL,7,64541,Outstanding,3.7,2.4,1,Relocation,60,5,2012-12-21
+EMP00428,46,Operations,Mid,Master,Seattle WA,15,80527,Needs Improvement,1.8,1.1,1,Compensation,25,1,2011-10-31
+EMP00429,50,Sales,Mid,High School,Chicago IL,15,87539,Outstanding,2.8,2.0,0,,48,5,2024-10-07
+EMP00430,58,Operations,Lead,PhD,Boston MA,1,122060,Meets Expectations,2.8,4.5,1,Better Opportunity,71,3,2016-11-16
+EMP00431,40,Engineering,Mid,PhD,New York NY,14,78042,Meets Expectations,4.1,2.1,0,,78,0,2024-02-26
+EMP00432,50,Marketing,Lead,PhD,Seattle WA,2,128679,Meets Expectations,1.7,3.3,0,,41,3,2012-01-15
+EMP00433,51,Engineering,Mid,High School,Austin TX,6,93919,Meets Expectations,2.0,3.8,0,,14,5,2015-10-10
+EMP00434,45,Customer Success,Director,PhD,Chicago IL,2,167164,Meets Expectations,3.9,4.9,0,,48,0,2025-05-03
+EMP00435,58,Marketing,Senior,Master,New York NY,4,90312,Outstanding,1.7,3.8,0,,57,2,2016-12-18
+EMP00436,30,Marketing,Junior,High School,Chicago IL,6,45115,Outstanding,2.0,2.8,0,,63,1,2012-04-28
+EMP00437,52,HR,Manager,Bachelor,Austin TX,14,133439,Exceeds Expectations,3.4,1.0,0,,23,1,2012-08-13
+EMP00438,44,Engineering,Director,Master,Austin TX,1,154763,Exceeds Expectations,3.7,4.4,0,,6,0,2011-07-09
+EMP00439,32,Product,Mid,PhD,Boston MA,9,85024,Meets Expectations,3.8,3.3,0,,74,2,2021-12-27
+EMP00440,41,Engineering,Junior,Master,Seattle WA,10,57077,Needs Improvement,4.3,4.0,0,,17,0,2021-10-03
+EMP00441,55,Finance,Senior,PhD,Boston MA,13,102191,Needs Improvement,1.8,1.2,0,,77,5,2020-06-24
+EMP00442,42,Finance,Lead,PhD,Seattle WA,8,122216,Outstanding,3.5,4.7,0,,23,4,2022-01-28
+EMP00443,40,HR,Director,PhD,Seattle WA,6,150051,Meets Expectations,2.9,4.2,1,Better Opportunity,42,2,2011-08-22
+EMP00444,34,HR,Junior,High School,Austin TX,9,53336,Exceeds Expectations,2.2,3.0,0,,42,2,2018-03-22
+EMP00445,58,Product,Director,PhD,Austin TX,0,177264,Outstanding,2.3,2.4,1,Personal,17,3,2024-08-22
+EMP00446,51,Marketing,Director,Master,Chicago IL,10,165154,Exceeds Expectations,2.7,4.0,0,,68,0,2014-04-01
+EMP00447,43,HR,Manager,Bachelor,Chicago IL,11,122169,Outstanding,2.1,1.1,0,,77,3,2016-12-01
+EMP00448,29,Marketing,Manager,PhD,San Francisco CA,9,143110,Needs Improvement,3.8,2.1,0,,47,3,2013-08-08
+EMP00449,55,Finance,Mid,PhD,Chicago IL,9,70734,Needs Improvement,4.1,4.1,1,Better Opportunity,61,4,2011-06-23
+EMP00450,43,Marketing,Mid,Bachelor,San Francisco CA,15,89000,Needs Improvement,2.2,2.3,0,,4,3,2013-09-22
+EMP00451,55,Product,Director,Master,Seattle WA,3,150134,Needs Improvement,1.2,4.4,0,,5,0,2018-11-07
+EMP00452,58,Finance,Junior,Master,Seattle WA,9,65933,Exceeds Expectations,2.3,1.8,0,,15,2,2024-05-21
+EMP00453,39,Marketing,Mid,Master,New York NY,3,65499,Exceeds Expectations,3.2,1.4,0,,18,5,2017-01-27
+EMP00454,37,Finance,Manager,Bachelor,Austin TX,5,122334,Needs Improvement,4.6,3.2,0,,60,5,2020-09-18
+EMP00455,46,Engineering,Junior,Master,New York NY,1,47821,Outstanding,1.7,3.4,0,,42,1,2013-04-19
+EMP00456,51,Sales,VP,Master,Boston MA,4,193044,Outstanding,4.7,2.9,0,,59,3,2011-12-21
+EMP00457,31,HR,Mid,Master,Seattle WA,8,94912,Exceeds Expectations,1.7,4.7,0,,62,0,2013-11-18
+EMP00458,29,Sales,Lead,High School,Seattle WA,11,120684,Meets Expectations,1.7,4.1,0,,13,2,2016-10-28
+EMP00459,41,Sales,VP,PhD,Seattle WA,14,203133,Meets Expectations,2.0,2.0,0,,8,2,2020-03-24
+EMP00460,49,HR,VP,PhD,Austin TX,13,208586,Needs Improvement,3.2,1.9,0,,75,4,2017-06-17
+EMP00461,57,Customer Success,Senior,PhD,New York NY,3,111936,Needs Improvement,2.2,2.6,0,,63,5,2013-04-12
+EMP00462,35,Engineering,Junior,Bachelor,Seattle WA,4,74073,Meets Expectations,4.0,4.2,0,,68,2,2024-06-30
+EMP00463,58,Product,Manager,PhD,Boston MA,14,126411,Exceeds Expectations,4.5,2.2,0,,44,0,2020-02-07
+EMP00464,54,Engineering,Manager,High School,Boston MA,12,147775,Needs Improvement,2.2,2.5,1,Relocation,45,0,2014-01-12
+EMP00465,23,Finance,VP,PhD,Seattle WA,7,204146,Outstanding,2.6,2.3,0,,55,4,2012-04-10
+EMP00466,33,HR,Director,Bachelor,New York NY,15,154557,Outstanding,2.5,4.7,0,,16,1,2018-07-13
+EMP00467,23,Engineering,Junior,High School,San Francisco CA,4,68636,Meets Expectations,3.6,4.9,0,,53,3,2026-05-03
+EMP00468,33,Product,Manager,Bachelor,Seattle WA,14,136692,Meets Expectations,4.3,2.5,0,,77,0,2014-02-28
+EMP00469,37,Customer Success,VP,PhD,Boston MA,8,203462,Needs Improvement,3.3,1.1,0,,47,0,2020-07-13
+EMP00470,27,Customer Success,Director,PhD,Chicago IL,4,173926,Exceeds Expectations,4.9,4.9,0,,10,4,2020-02-29
+EMP00471,52,Sales,Mid,Master,Chicago IL,2,87415,Needs Improvement,4.2,2.2,0,,1,3,2020-02-29
+EMP00472,52,Customer Success,Manager,High School,Boston MA,10,133795,Meets Expectations,4.9,2.2,0,,76,5,2022-01-22
+EMP00473,58,Finance,Director,High School,New York NY,8,152012,Exceeds Expectations,3.3,3.3,0,,62,0,2011-06-21
+EMP00474,26,Marketing,Manager,High School,Chicago IL,8,128259,Needs Improvement,2.1,4.4,1,Compensation,75,5,2026-02-09
+EMP00475,50,Marketing,Director,High School,New York NY,11,176471,Meets Expectations,4.1,1.9,0,,10,1,2018-07-01
+EMP00476,53,Marketing,VP,Bachelor,Chicago IL,13,215243,Meets Expectations,3.6,3.9,0,,44,0,2025-01-18
+EMP00477,29,Finance,VP,PhD,Boston MA,1,195491,Meets Expectations,2.9,2.9,0,,49,3,2011-07-13
+EMP00478,55,Finance,Mid,High School,Austin TX,13,65388,Exceeds Expectations,4.2,2.5,0,,68,5,2018-06-07
+EMP00479,49,Operations,VP,PhD,Boston MA,8,200976,Outstanding,4.2,2.0,0,,30,5,2021-04-13
+EMP00480,43,HR,Manager,PhD,Austin TX,5,130265,Needs Improvement,3.7,4.3,0,,67,0,2023-06-19
+EMP00481,36,Customer Success,Senior,High School,Boston MA,9,93254,Meets Expectations,1.1,1.4,0,,15,0,2026-04-01
+EMP00482,58,Marketing,Lead,PhD,New York NY,5,134360,Needs Improvement,1.7,2.2,1,Career Growth,41,2,2020-07-09
+EMP00483,26,Marketing,VP,Master,San Francisco CA,8,215464,Exceeds Expectations,2.6,5.0,1,Career Growth,8,3,2014-11-28
+EMP00484,47,HR,Manager,High School,Seattle WA,5,141151,Meets Expectations,1.6,4.1,0,,33,0,2025-02-09
+EMP00485,26,Engineering,Junior,High School,Boston MA,8,70468,Needs Improvement,4.6,1.6,0,,49,2,2012-09-06
+EMP00486,43,Marketing,Director,PhD,Seattle WA,12,168829,Outstanding,3.8,4.1,1,Personal,8,4,2016-02-07
+EMP00487,46,HR,Junior,PhD,Austin TX,15,48971,Exceeds Expectations,4.7,2.4,0,,80,5,2014-04-11
+EMP00488,56,Sales,Senior,Bachelor,Chicago IL,10,87636,Meets Expectations,4.0,2.2,0,,5,3,2017-01-19
+EMP00489,46,HR,Senior,Bachelor,San Francisco CA,3,105664,Outstanding,2.9,4.5,0,,4,1,2014-07-14
+EMP00490,37,Engineering,Director,High School,Austin TX,15,162739,Outstanding,3.2,2.2,1,Work-Life Balance,7,2,2024-11-04
+EMP00491,29,Engineering,Lead,Bachelor,Austin TX,6,131447,Meets Expectations,3.1,4.8,0,,4,5,2015-12-12
+EMP00492,23,Marketing,Lead,High School,San Francisco CA,15,134726,Meets Expectations,1.2,3.8,0,,80,0,2016-01-28
+EMP00493,28,Finance,VP,High School,Seattle WA,14,210028,Needs Improvement,3.4,4.3,0,,76,4,2019-05-06
+EMP00494,34,HR,Junior,High School,Boston MA,13,56054,Exceeds Expectations,4.9,3.7,0,,73,4,2024-02-02
+EMP00495,35,Marketing,Senior,Bachelor,Boston MA,1,104434,Outstanding,1.3,2.1,1,Work-Life Balance,70,1,2013-04-12
+EMP00496,24,Customer Success,Mid,High School,Seattle WA,4,68275,Meets Expectations,3.5,2.5,0,,10,0,2020-10-13
+EMP00497,27,Engineering,Mid,Bachelor,San Francisco CA,9,78638,Meets Expectations,4.2,2.9,0,,34,4,2024-12-18
+EMP00498,37,Customer Success,Lead,Master,New York NY,5,125006,Needs Improvement,3.4,3.9,0,,53,0,2018-10-07
+EMP00499,29,HR,Mid,PhD,Boston MA,3,85280,Meets Expectations,4.0,3.2,0,,26,2,2025-12-16
+EMP00500,29,Engineering,Mid,High School,Austin TX,4,87454,Meets Expectations,4.6,3.0,0,,46,2,2022-04-24
+EMP00501,38,HR,Lead,Bachelor,San Francisco CA,10,125211,Needs Improvement,4.0,1.2,0,,3,3,2022-04-02
+EMP00502,37,Sales,Junior,Bachelor,Austin TX,14,64421,Exceeds Expectations,2.7,4.0,0,,41,1,2021-04-24
+EMP00503,48,Sales,Mid,PhD,San Francisco CA,6,77305,Needs Improvement,1.3,3.3,0,,27,4,2019-02-14
+EMP00504,46,Customer Success,Mid,Bachelor,New York NY,11,69469,Exceeds Expectations,1.8,2.4,0,,16,0,2021-05-09
+EMP00505,30,Engineering,Senior,Master,Chicago IL,3,112906,Meets Expectations,2.7,4.0,0,,20,5,2015-09-27
+EMP00506,57,Marketing,Manager,PhD,Seattle WA,7,122833,Meets Expectations,3.1,4.4,0,,35,0,2021-01-25
+EMP00507,37,Product,Director,High School,Seattle WA,7,160724,Meets Expectations,1.9,4.7,0,,5,0,2011-07-30
+EMP00508,54,Customer Success,Director,PhD,Seattle WA,1,163949,Needs Improvement,2.9,4.2,0,,30,0,2021-11-04
+EMP00509,48,Engineering,Director,PhD,Boston MA,6,154348,Needs Improvement,2.0,5.0,0,,39,1,2026-04-17
+EMP00510,58,Customer Success,VP,Master,Boston MA,0,204904,Meets Expectations,1.6,3.8,0,,59,5,2015-05-13
+EMP00511,26,Engineering,VP,Bachelor,Boston MA,12,219276,Exceeds Expectations,3.1,2.2,0,,10,4,2011-08-10
+EMP00512,25,Operations,Director,Master,New York NY,11,179097,Needs Improvement,2.5,2.9,1,Compensation,71,5,2016-06-27
+EMP00513,35,Sales,Manager,Bachelor,New York NY,4,130974,Meets Expectations,1.5,2.9,0,,45,2,2021-10-19
+EMP00514,25,Product,Senior,PhD,Boston MA,2,97216,Needs Improvement,2.9,3.1,0,,68,5,2017-06-19
+EMP00515,45,Finance,Lead,Master,Austin TX,2,111171,Meets Expectations,2.8,1.3,0,,13,1,2022-12-26
+EMP00516,31,Finance,Junior,PhD,Boston MA,15,49931,Exceeds Expectations,3.1,3.5,0,,69,1,2025-01-03
+EMP00517,48,Customer Success,Senior,Master,Seattle WA,14,109173,Meets Expectations,2.2,1.3,0,,74,2,2020-05-05
+EMP00518,55,Operations,Lead,Master,San Francisco CA,14,120007,Meets Expectations,1.5,4.2,0,,61,2,2025-06-08
+EMP00519,25,Finance,VP,Master,San Francisco CA,4,201571,Meets Expectations,4.8,3.5,0,,22,5,2017-01-02
+EMP00520,37,Marketing,Mid,Bachelor,San Francisco CA,3,66348,Exceeds Expectations,3.3,2.8,0,,71,5,2011-06-15
+EMP00521,42,Engineering,Director,High School,Austin TX,11,154847,Exceeds Expectations,3.2,1.7,0,,51,3,2015-12-20
+EMP00522,42,Marketing,Lead,PhD,New York NY,4,105140,Exceeds Expectations,3.2,3.0,0,,73,5,2014-09-12
+EMP00523,58,Marketing,VP,High School,New York NY,14,201098,Meets Expectations,3.9,4.6,0,,3,3,2011-11-30
+EMP00524,44,HR,Lead,Master,San Francisco CA,2,115694,Meets Expectations,3.6,3.3,1,Better Opportunity,10,4,2017-02-20
+EMP00525,27,Customer Success,Director,Master,Seattle WA,12,156371,Needs Improvement,3.4,3.0,0,,18,5,2013-09-01
+EMP00526,46,Product,Senior,Bachelor,Boston MA,11,85399,Needs Improvement,2.4,4.9,0,,56,5,2017-01-12
+EMP00527,50,Product,VP,Bachelor,Chicago IL,9,195367,Outstanding,4.9,2.7,0,,76,0,2023-03-29
+EMP00528,41,Marketing,Mid,High School,Austin TX,15,93427,Outstanding,2.3,4.7,0,,52,5,2011-10-12
+EMP00529,33,Finance,Lead,Master,Chicago IL,14,128273,Outstanding,4.7,1.8,0,,62,0,2016-03-19
+EMP00530,41,Finance,VP,Master,New York NY,15,208326,Meets Expectations,1.9,4.2,0,,60,0,2020-10-11
+EMP00531,33,Finance,Lead,PhD,Austin TX,15,134713,Exceeds Expectations,2.0,1.5,0,,76,5,2022-07-02
+EMP00532,52,Operations,Manager,Master,Chicago IL,13,148453,Needs Improvement,3.7,4.9,0,,73,0,2013-12-26
+EMP00533,25,Finance,Mid,Master,New York NY,4,75475,Needs Improvement,3.8,2.4,0,,53,5,2012-01-08
+EMP00534,40,Operations,Junior,High School,Chicago IL,9,62354,Meets Expectations,1.3,1.8,0,,21,4,2018-03-06
+EMP00535,42,Operations,VP,Bachelor,Austin TX,9,198895,Exceeds Expectations,3.8,1.4,0,,17,4,2025-06-05
+EMP00536,53,Finance,Senior,Bachelor,Chicago IL,13,96151,Meets Expectations,1.7,1.9,0,,78,5,2026-04-12
+EMP00537,51,Sales,Lead,Master,San Francisco CA,2,108819,Exceeds Expectations,4.7,2.9,0,,56,4,2017-12-19
+EMP00538,41,Operations,Mid,Bachelor,New York NY,0,89394,Meets Expectations,1.9,4.4,0,,16,1,2022-12-15
+EMP00539,49,Marketing,Junior,High School,Austin TX,3,47547,Meets Expectations,2.9,2.7,1,Personal,65,4,2020-09-17
+EMP00540,29,Engineering,Lead,Bachelor,Chicago IL,8,106418,Needs Improvement,3.7,4.0,1,Compensation,23,5,2017-06-24
+EMP00541,27,Operations,Junior,Bachelor,Chicago IL,4,72717,Exceeds Expectations,2.1,3.3,0,,78,1,2022-10-15
+EMP00542,22,Sales,Junior,High School,San Francisco CA,6,68455,Needs Improvement,2.1,4.6,1,Relocation,60,2,2025-06-06
+EMP00543,28,Marketing,Lead,PhD,Austin TX,5,132352,Meets Expectations,2.5,1.9,0,,40,0,2016-07-02
+EMP00544,55,Customer Success,Junior,High School,New York NY,4,61246,Needs Improvement,3.8,3.2,0,,63,0,2020-07-15
+EMP00545,51,Product,Senior,PhD,San Francisco CA,9,107513,Exceeds Expectations,2.8,3.2,0,,8,3,2016-05-02
+EMP00546,22,Operations,Mid,High School,San Francisco CA,15,87023,Needs Improvement,2.8,3.6,1,Career Growth,51,5,2020-03-03
+EMP00547,32,Sales,Director,High School,San Francisco CA,2,161918,Outstanding,2.4,3.4,0,,54,5,2018-11-07
+EMP00548,39,Customer Success,Senior,Master,San Francisco CA,12,96668,Outstanding,3.4,2.6,0,,58,0,2018-01-30
+EMP00549,53,Sales,Senior,High School,Seattle WA,15,92563,Needs Improvement,1.5,1.4,0,,3,1,2016-10-26
+EMP00550,42,Product,Manager,PhD,San Francisco CA,4,129920,Outstanding,1.4,1.3,0,,37,5,2021-09-30
+EMP00551,54,Customer Success,Lead,PhD,Austin TX,8,122774,Needs Improvement,4.4,3.2,0,,49,3,2024-08-07
+EMP00552,46,Operations,VP,Bachelor,Seattle WA,14,205062,Exceeds Expectations,1.7,3.6,1,Career Growth,17,2,2018-07-27
+EMP00553,29,Product,Lead,High School,Seattle WA,15,126629,Meets Expectations,3.2,2.9,0,,33,3,2024-08-27
+EMP00554,44,Product,Manager,Master,Boston MA,9,130501,Exceeds Expectations,3.4,1.5,1,Relocation,3,5,2016-03-07
+EMP00555,28,Operations,Lead,Bachelor,San Francisco CA,13,116309,Meets Expectations,2.6,1.2,0,,39,4,2024-07-17
+EMP00556,26,Sales,Director,PhD,Chicago IL,9,153750,Outstanding,1.1,2.3,0,,65,3,2015-03-29
+EMP00557,52,Finance,Junior,High School,Boston MA,0,55371,Outstanding,2.6,3.3,1,Personal,26,2,2017-03-18
+EMP00558,43,Customer Success,Manager,Bachelor,New York NY,5,140146,Needs Improvement,4.9,1.8,0,,33,0,2021-02-19
+EMP00559,47,Finance,Manager,Master,New York NY,7,140465,Needs Improvement,1.4,4.4,0,,8,4,2015-05-18
+EMP00560,35,Customer Success,Lead,PhD,Boston MA,11,131071,Exceeds Expectations,4.3,3.0,1,Relocation,40,1,2014-03-11
+EMP00561,38,Product,Lead,PhD,San Francisco CA,14,127005,Meets Expectations,1.7,1.1,0,,59,2,2026-02-28
+EMP00562,25,Product,Manager,PhD,Seattle WA,6,131936,Exceeds Expectations,2.0,4.0,0,,40,0,2021-10-09
+EMP00563,48,HR,VP,PhD,San Francisco CA,8,216991,Meets Expectations,1.6,3.7,0,,14,1,2018-08-19
+EMP00564,37,HR,Junior,Bachelor,San Francisco CA,9,60209,Needs Improvement,5.0,2.7,0,,34,1,2021-08-01
+EMP00565,39,Engineering,Senior,High School,Austin TX,5,106112,Needs Improvement,4.9,2.9,0,,40,4,2025-10-26
+EMP00566,26,Finance,VP,Bachelor,Austin TX,13,219385,Meets Expectations,3.6,1.4,0,,73,5,2023-04-05
+EMP00567,55,Sales,Manager,Master,Chicago IL,8,136267,Exceeds Expectations,2.0,1.5,0,,49,5,2017-11-03
+EMP00568,35,HR,Lead,High School,Seattle WA,4,108500,Exceeds Expectations,4.9,2.8,0,,68,2,2013-01-26
+EMP00569,56,Sales,Senior,Master,Seattle WA,13,100560,Meets Expectations,4.9,4.5,0,,47,2,2014-09-01
+EMP00570,24,Engineering,Director,Master,Boston MA,1,172632,Outstanding,3.7,2.0,0,,46,5,2017-10-25
+EMP00571,37,Sales,Manager,Master,Austin TX,14,132729,Exceeds Expectations,4.8,4.7,1,Compensation,38,1,2012-12-16
+EMP00572,42,Marketing,Lead,PhD,Boston MA,13,130864,Outstanding,4.5,4.3,1,Career Growth,42,5,2021-07-29
+EMP00573,28,Product,VP,PhD,Boston MA,5,212887,Exceeds Expectations,1.3,2.7,0,,3,0,2012-01-25
+EMP00574,50,Marketing,Director,High School,San Francisco CA,4,150100,Needs Improvement,3.5,2.3,0,,31,4,2022-01-25
+EMP00575,48,Marketing,VP,Master,San Francisco CA,10,204794,Exceeds Expectations,3.9,2.0,0,,10,3,2012-03-11
+EMP00576,47,Operations,Mid,High School,Seattle WA,12,92350,Meets Expectations,1.9,4.8,0,,25,2,2024-03-23
+EMP00577,47,Marketing,Junior,High School,Boston MA,13,64673,Needs Improvement,1.4,2.5,1,Relocation,55,3,2020-02-28
+EMP00578,36,Customer Success,Junior,PhD,San Francisco CA,6,51243,Outstanding,4.3,2.1,0,,55,1,2024-08-02
+EMP00579,40,HR,VP,Bachelor,Chicago IL,6,203707,Exceeds Expectations,4.2,1.1,0,,57,1,2011-12-22
+EMP00580,51,Operations,Manager,Bachelor,Boston MA,2,120338,Outstanding,4.5,4.9,0,,49,5,2018-11-08
+EMP00581,38,Product,Director,Master,Chicago IL,2,153122,Outstanding,1.2,4.7,0,,76,5,2025-01-11
+EMP00582,38,Engineering,Junior,Bachelor,New York NY,12,54912,Needs Improvement,3.7,1.5,0,,21,4,2019-09-16
+EMP00583,51,Customer Success,Senior,Master,Austin TX,4,87937,Needs Improvement,3.1,1.6,0,,16,3,2016-01-06
+EMP00584,45,Finance,Director,Master,Seattle WA,13,159270,Exceeds Expectations,2.1,4.3,0,,21,2,2018-12-01
+EMP00585,31,Customer Success,VP,Master,San Francisco CA,14,191743,Outstanding,1.2,1.7,0,,59,3,2015-12-03
+EMP00586,24,Sales,Lead,Bachelor,Austin TX,14,116682,Needs Improvement,3.2,2.8,0,,44,0,2025-09-09
+EMP00587,40,HR,VP,High School,Chicago IL,5,217359,Meets Expectations,3.0,2.1,0,,73,1,2024-05-17
+EMP00588,37,Product,Junior,PhD,New York NY,15,67180,Needs Improvement,2.3,2.1,1,Relocation,13,2,2019-06-23
+EMP00589,27,Marketing,Junior,High School,New York NY,14,72220,Exceeds Expectations,2.9,3.5,0,,5,5,2021-07-01
+EMP00590,58,Customer Success,Senior,High School,Chicago IL,4,91926,Needs Improvement,4.2,2.1,0,,77,3,2016-10-22
+EMP00591,38,Sales,Lead,Bachelor,Seattle WA,5,112866,Meets Expectations,4.5,1.4,0,,51,2,2012-06-01
+EMP00592,41,Marketing,Junior,Master,Boston MA,15,71250,Meets Expectations,4.2,2.2,0,,12,2,2015-04-14
+EMP00593,50,HR,Lead,Master,Chicago IL,12,120611,Outstanding,3.4,1.4,0,,23,3,2014-09-06
+EMP00594,24,Product,Junior,High School,New York NY,10,60188,Outstanding,3.6,3.9,0,,59,3,2013-08-02
+EMP00595,52,Sales,VP,PhD,New York NY,9,194869,Meets Expectations,3.7,2.2,0,,72,0,2011-07-24
+EMP00596,54,Sales,Junior,Master,New York NY,3,61733,Exceeds Expectations,1.4,3.6,0,,74,0,2021-10-02
+EMP00597,51,Engineering,Junior,Master,Chicago IL,5,70761,Exceeds Expectations,2.6,1.3,1,Personal,58,5,2014-08-22
+EMP00598,38,Customer Success,Manager,High School,Seattle WA,10,148552,Exceeds Expectations,1.8,1.3,0,,68,0,2020-11-22
+EMP00599,29,Engineering,Lead,Master,Chicago IL,0,110627,Outstanding,2.8,2.6,0,,78,2,2016-02-14
+EMP00600,41,Product,VP,High School,San Francisco CA,2,194098,Meets Expectations,1.8,4.3,1,Career Growth,18,5,2025-12-23
+EMP00601,56,HR,Lead,High School,San Francisco CA,6,107821,Needs Improvement,2.9,2.9,0,,19,5,2025-03-08
+EMP00602,52,Customer Success,Lead,High School,New York NY,0,133173,Outstanding,2.0,2.2,0,,1,0,2017-10-16
+EMP00603,53,Product,Lead,Bachelor,Boston MA,9,106212,Outstanding,2.9,3.4,0,,7,4,2012-01-31
+EMP00604,58,Engineering,Lead,High School,Seattle WA,10,123129,Outstanding,4.6,2.7,1,Relocation,44,3,2015-02-26
+EMP00605,32,Product,Junior,Master,Chicago IL,9,68796,Meets Expectations,2.4,1.9,1,Personal,59,1,2022-01-28
+EMP00606,46,Finance,Director,Bachelor,Chicago IL,13,177298,Outstanding,3.6,2.4,0,,26,2,2021-05-12
+EMP00607,52,Sales,Director,PhD,New York NY,4,155678,Outstanding,3.4,1.4,0,,30,1,2021-07-09
+EMP00608,44,Engineering,Junior,High School,New York NY,8,56699,Needs Improvement,1.7,4.4,0,,55,0,2018-08-30
+EMP00609,57,HR,Junior,Master,San Francisco CA,7,60937,Needs Improvement,2.4,2.4,1,Personal,65,4,2016-08-25
+EMP00610,25,Sales,Director,High School,Chicago IL,14,176181,Needs Improvement,4.4,1.4,0,,5,4,2015-08-16
+EMP00611,29,Sales,Mid,High School,San Francisco CA,6,94851,Outstanding,3.9,3.8,0,,46,2,2011-08-08
+EMP00612,34,Marketing,Junior,Master,New York NY,14,58623,Outstanding,1.0,4.3,0,,64,1,2015-05-18
+EMP00613,45,Sales,Senior,Bachelor,San Francisco CA,13,96817,Outstanding,2.0,4.0,0,,54,3,2024-04-24
+EMP00614,55,Product,Lead,High School,New York NY,11,105975,Needs Improvement,4.1,3.9,0,,40,3,2019-01-20
+EMP00615,25,Marketing,Lead,Master,Seattle WA,12,129877,Needs Improvement,4.7,1.6,1,Career Growth,70,2,2020-01-10
+EMP00616,22,Operations,Senior,Bachelor,Chicago IL,8,114498,Outstanding,4.7,3.8,0,,79,4,2024-04-23
+EMP00617,44,Customer Success,Director,PhD,Boston MA,12,175408,Exceeds Expectations,2.2,1.1,0,,16,4,2023-03-08
+EMP00618,27,Finance,Mid,Bachelor,New York NY,9,82083,Exceeds Expectations,3.5,1.1,0,,54,4,2013-08-19
+EMP00619,25,Sales,Director,PhD,New York NY,11,158511,Needs Improvement,2.4,1.2,0,,73,5,2016-04-10
+EMP00620,43,Engineering,Lead,Master,New York NY,7,131390,Meets Expectations,3.3,3.9,0,,36,5,2013-12-14
+EMP00621,46,Marketing,Director,PhD,Austin TX,7,153448,Exceeds Expectations,3.3,4.3,0,,18,5,2023-11-06
+EMP00622,48,Product,VP,High School,New York NY,2,193022,Outstanding,4.6,2.9,1,Personal,67,3,2025-01-02
+EMP00623,38,Product,VP,PhD,San Francisco CA,15,210855,Outstanding,2.8,4.7,0,,18,4,2021-12-02
+EMP00624,51,Marketing,Lead,PhD,Austin TX,4,128085,Outstanding,3.1,3.8,0,,20,4,2014-11-12
+EMP00625,48,Operations,Junior,Master,New York NY,3,48960,Needs Improvement,2.2,3.1,0,,47,2,2022-10-10
+EMP00626,23,Finance,Lead,Master,San Francisco CA,4,109657,Exceeds Expectations,2.7,4.7,0,,23,5,2026-01-15
+EMP00627,29,Customer Success,Junior,Master,Seattle WA,11,47213,Outstanding,2.7,3.3,0,,60,5,2015-04-20
+EMP00628,30,Marketing,VP,High School,Chicago IL,14,214958,Exceeds Expectations,2.8,4.5,0,,79,3,2022-03-03
+EMP00629,47,Product,Mid,High School,San Francisco CA,10,82727,Exceeds Expectations,3.7,2.8,1,Personal,3,4,2012-12-18
+EMP00630,29,Finance,Manager,PhD,Chicago IL,2,126305,Meets Expectations,3.2,4.0,0,,2,0,2012-10-17
+EMP00631,39,Marketing,Junior,Master,Seattle WA,6,53037,Needs Improvement,4.4,3.3,0,,75,0,2025-06-14
+EMP00632,23,Customer Success,VP,Master,Austin TX,10,204320,Outstanding,1.1,3.1,0,,14,0,2013-07-08
+EMP00633,31,Marketing,Senior,High School,Chicago IL,5,93374,Meets Expectations,1.6,4.8,0,,41,1,2014-03-21
+EMP00634,25,Engineering,Director,PhD,Austin TX,9,162777,Exceeds Expectations,1.6,4.6,1,Better Opportunity,25,1,2023-11-07
+EMP00635,54,HR,Lead,PhD,Austin TX,12,108770,Needs Improvement,2.3,3.2,0,,52,5,2015-02-22
+EMP00636,39,HR,Junior,PhD,Austin TX,3,53071,Outstanding,3.6,1.5,0,,64,1,2024-02-15
+EMP00637,56,Marketing,Senior,High School,Austin TX,5,110625,Outstanding,4.8,4.8,0,,59,4,2023-07-20
+EMP00638,32,Finance,Director,Master,Boston MA,0,151971,Outstanding,2.9,3.4,0,,27,4,2012-01-12
+EMP00639,32,Finance,Junior,PhD,San Francisco CA,2,54851,Exceeds Expectations,3.8,4.3,1,Relocation,64,2,2011-12-28
+EMP00640,38,Operations,Director,Master,Austin TX,14,158946,Outstanding,4.9,2.4,0,,17,5,2019-12-30
+EMP00641,52,Engineering,Manager,PhD,Chicago IL,0,149538,Outstanding,1.7,3.2,1,Better Opportunity,9,4,2020-10-04
+EMP00642,50,Engineering,VP,Bachelor,Boston MA,3,201566,Outstanding,2.5,3.4,0,,1,0,2012-08-26
+EMP00643,34,Customer Success,Senior,Bachelor,Austin TX,14,85306,Exceeds Expectations,1.1,2.1,0,,78,5,2024-09-06
+EMP00644,36,Finance,VP,High School,San Francisco CA,7,206181,Meets Expectations,1.1,3.0,0,,50,0,2013-08-21
+EMP00645,54,Finance,Manager,High School,Chicago IL,15,125586,Meets Expectations,3.6,3.3,0,,16,5,2018-12-22
+EMP00646,38,Sales,Mid,Master,Boston MA,7,93868,Needs Improvement,4.1,1.8,0,,71,3,2017-03-07
+EMP00647,25,Engineering,Lead,PhD,New York NY,10,119173,Outstanding,2.6,1.5,0,,66,0,2024-09-13
+EMP00648,39,HR,Junior,High School,Boston MA,13,62446,Needs Improvement,1.0,1.8,0,,28,5,2015-09-19
+EMP00649,37,Product,Junior,PhD,Seattle WA,6,50389,Needs Improvement,1.3,3.5,0,,3,4,2011-09-15
+EMP00650,38,Operations,VP,Bachelor,Austin TX,7,193533,Exceeds Expectations,4.8,4.3,0,,76,4,2020-10-07
+EMP00651,28,Customer Success,VP,Master,Boston MA,14,208970,Outstanding,4.9,4.7,1,Better Opportunity,16,0,2015-05-31
+EMP00652,41,Customer Success,Junior,PhD,Austin TX,13,47155,Outstanding,1.2,1.2,1,Relocation,52,1,2021-09-22
+EMP00653,46,Engineering,Lead,PhD,Chicago IL,14,131055,Needs Improvement,3.5,1.4,0,,42,4,2025-08-26
+EMP00654,28,HR,Junior,Master,New York NY,0,64502,Meets Expectations,3.4,4.4,0,,53,3,2014-06-08
+EMP00655,37,Customer Success,Mid,Master,Chicago IL,4,91116,Exceeds Expectations,1.5,3.3,1,Relocation,18,1,2021-05-22
+EMP00656,43,Customer Success,Senior,High School,San Francisco CA,9,97085,Meets Expectations,3.1,3.6,0,,64,4,2016-04-10
+EMP00657,44,Engineering,Lead,PhD,Boston MA,6,111565,Meets Expectations,1.8,1.3,0,,59,4,2019-10-15
+EMP00658,58,Operations,VP,PhD,San Francisco CA,10,210188,Needs Improvement,2.3,1.4,0,,0,5,2023-11-13
+EMP00659,36,HR,Director,PhD,San Francisco CA,14,170444,Exceeds Expectations,2.9,4.1,0,,51,1,2024-04-15
+EMP00660,22,Engineering,Senior,Master,Austin TX,2,96727,Meets Expectations,1.5,2.2,1,Better Opportunity,25,1,2020-02-15
+EMP00661,36,Finance,Mid,High School,San Francisco CA,8,88554,Meets Expectations,4.4,2.0,0,,33,0,2022-08-01
+EMP00662,30,Engineering,VP,PhD,San Francisco CA,12,211458,Exceeds Expectations,1.4,4.7,0,,47,2,2018-01-13
+EMP00663,49,Marketing,Manager,PhD,Boston MA,2,123882,Meets Expectations,4.7,4.2,1,Work-Life Balance,40,4,2023-05-18
+EMP00664,37,Product,Director,Master,San Francisco CA,1,175004,Meets Expectations,1.8,3.1,0,,6,5,2022-10-16
+EMP00665,30,Finance,VP,Bachelor,Chicago IL,15,196856,Needs Improvement,4.1,4.2,0,,49,5,2014-12-07
+EMP00666,55,Operations,Lead,PhD,New York NY,14,110865,Outstanding,2.5,3.8,0,,74,3,2015-04-10
+EMP00667,36,Engineering,Mid,Bachelor,New York NY,6,79813,Outstanding,2.6,2.2,0,,32,4,2021-06-14
+EMP00668,27,Sales,Mid,PhD,Seattle WA,9,79565,Exceeds Expectations,1.9,1.2,0,,59,3,2017-01-10
+EMP00669,53,Product,Senior,Master,Austin TX,10,93946,Needs Improvement,1.7,1.9,0,,37,4,2021-04-08
+EMP00670,39,Sales,VP,Bachelor,Boston MA,7,193224,Exceeds Expectations,2.4,3.2,1,Work-Life Balance,32,2,2023-06-23
+EMP00671,30,Finance,Mid,PhD,Chicago IL,8,65279,Outstanding,2.1,2.4,0,,1,3,2022-07-05
+EMP00672,47,Marketing,VP,PhD,New York NY,7,197435,Outstanding,1.8,1.9,0,,10,2,2018-08-24
+EMP00673,48,HR,Lead,Master,Boston MA,6,119374,Meets Expectations,3.2,2.5,0,,1,3,2018-09-03
+EMP00674,36,Operations,Senior,Master,Chicago IL,13,98949,Exceeds Expectations,2.6,4.1,0,,2,4,2015-04-04
+EMP00675,31,Engineering,Mid,PhD,San Francisco CA,10,83618,Outstanding,3.4,3.4,0,,50,0,2026-04-24
+EMP00676,52,Product,Mid,Bachelor,Austin TX,3,75775,Needs Improvement,2.8,4.6,0,,70,1,2017-10-30
+EMP00677,53,Engineering,VP,Bachelor,New York NY,0,196117,Meets Expectations,4.6,2.5,1,Personal,67,0,2026-05-21
+EMP00678,45,Customer Success,Junior,Bachelor,Chicago IL,0,50630,Needs Improvement,4.6,2.6,1,Career Growth,61,5,2024-07-25
+EMP00679,35,Sales,Lead,Bachelor,Chicago IL,4,133522,Outstanding,2.7,3.8,0,,73,2,2015-08-11
+EMP00680,51,HR,Manager,Bachelor,Chicago IL,8,126609,Outstanding,1.6,1.3,1,Work-Life Balance,72,3,2019-04-01
+EMP00681,58,Customer Success,Lead,Master,Seattle WA,1,129159,Exceeds Expectations,3.6,4.7,1,Relocation,22,3,2017-03-07
+EMP00682,49,HR,Mid,High School,San Francisco CA,14,77604,Outstanding,1.7,3.3,0,,20,2,2012-01-04
+EMP00683,26,Finance,Director,High School,Austin TX,6,179777,Exceeds Expectations,5.0,3.2,0,,64,2,2024-07-18
+EMP00684,32,Product,Lead,PhD,New York NY,8,111795,Outstanding,2.8,1.3,0,,51,1,2016-03-02
+EMP00685,22,Product,Junior,PhD,Seattle WA,8,48757,Outstanding,1.5,3.7,0,,8,0,2022-02-22
+EMP00686,50,HR,Director,High School,San Francisco CA,4,165426,Needs Improvement,4.4,1.7,0,,37,0,2012-05-20
+EMP00687,26,Product,Mid,Bachelor,Seattle WA,0,87196,Needs Improvement,2.8,1.7,0,,6,5,2021-11-24
+EMP00688,41,Sales,Lead,Bachelor,New York NY,14,106717,Meets Expectations,1.2,2.5,0,,30,1,2021-03-28
+EMP00689,48,Sales,Junior,High School,Boston MA,0,45477,Meets Expectations,1.8,3.7,1,Compensation,21,0,2025-02-02
+EMP00690,28,Product,Manager,PhD,Austin TX,10,130573,Outstanding,1.8,1.8,0,,29,1,2013-07-21
+EMP00691,42,Sales,Senior,Bachelor,Austin TX,5,85491,Outstanding,2.3,2.6,0,,35,5,2011-12-31
+EMP00692,26,Operations,Junior,Bachelor,New York NY,6,58470,Needs Improvement,3.4,4.9,0,,12,4,2021-08-03
+EMP00693,46,Operations,Director,High School,New York NY,4,160880,Outstanding,4.0,3.8,0,,2,4,2017-06-09
+EMP00694,54,Customer Success,Lead,Master,San Francisco CA,7,121496,Needs Improvement,5.0,1.9,0,,54,1,2025-03-14
+EMP00695,30,Sales,Junior,Bachelor,Boston MA,11,61342,Needs Improvement,1.6,1.8,0,,76,3,2019-09-07
+EMP00696,39,Operations,Mid,Master,Austin TX,10,86089,Outstanding,1.2,4.2,0,,29,5,2023-02-17
+EMP00697,37,Operations,Senior,PhD,Chicago IL,6,102672,Meets Expectations,4.7,5.0,1,Work-Life Balance,23,3,2019-04-13
+EMP00698,53,Engineering,Junior,High School,San Francisco CA,2,51306,Meets Expectations,5.0,4.8,1,Relocation,70,1,2022-08-08
+EMP00699,27,HR,Manager,Bachelor,Chicago IL,13,143756,Outstanding,1.7,1.8,0,,31,2,2015-06-08
+EMP00700,50,Finance,Manager,PhD,Seattle WA,6,128908,Exceeds Expectations,2.9,4.8,0,,21,3,2025-04-23
+EMP00701,54,Customer Success,Lead,PhD,Austin TX,13,129914,Outstanding,4.8,2.9,0,,38,4,2012-10-17
+EMP00702,33,Marketing,Manager,High School,New York NY,8,132466,Outstanding,2.8,2.5,0,,17,5,2024-05-04
+EMP00703,31,Customer Success,Mid,PhD,Seattle WA,6,65136,Outstanding,3.0,3.9,1,Career Growth,47,3,2018-11-09
+EMP00704,26,Customer Success,Senior,Bachelor,Seattle WA,13,113999,Meets Expectations,4.7,2.5,1,Work-Life Balance,44,4,2019-01-17
+EMP00705,45,Customer Success,Director,High School,New York NY,1,171328,Outstanding,2.7,2.0,0,,80,5,2013-12-18
+EMP00706,31,Engineering,Director,High School,Austin TX,8,169838,Meets Expectations,3.7,2.0,0,,11,5,2025-10-13
+EMP00707,27,Product,Lead,PhD,Chicago IL,6,133704,Exceeds Expectations,4.3,2.0,0,,39,5,2016-12-17
+EMP00708,27,Product,VP,Bachelor,Boston MA,3,210846,Exceeds Expectations,4.2,4.3,0,,50,5,2022-10-15
+EMP00709,32,Finance,Junior,Master,Boston MA,15,45051,Outstanding,4.1,2.7,1,Career Growth,21,1,2025-10-05
+EMP00710,30,Operations,Mid,Bachelor,San Francisco CA,6,80940,Meets Expectations,4.8,2.8,0,,7,5,2023-06-15
+EMP00711,34,Marketing,VP,Bachelor,Austin TX,8,219565,Needs Improvement,2.8,4.7,0,,37,0,2019-02-09
+EMP00712,39,Product,Junior,High School,Austin TX,2,56211,Needs Improvement,1.9,2.9,1,Work-Life Balance,0,5,2018-03-28
+EMP00713,35,Engineering,Junior,PhD,New York NY,0,57309,Outstanding,4.9,4.0,0,,77,3,2022-01-28
+EMP00714,43,Operations,Senior,Master,New York NY,10,111766,Needs Improvement,2.4,2.6,0,,12,0,2021-08-29
+EMP00715,47,Customer Success,VP,Master,Seattle WA,4,190841,Meets Expectations,4.5,2.1,0,,79,5,2023-05-31
+EMP00716,48,Customer Success,Manager,Master,Austin TX,6,120102,Needs Improvement,4.8,4.3,0,,41,5,2012-11-14
+EMP00717,53,Customer Success,Mid,High School,Boston MA,12,89222,Outstanding,1.3,2.7,0,,49,2,2016-05-15
+EMP00718,31,HR,Director,Bachelor,Seattle WA,1,154189,Outstanding,1.3,4.3,0,,14,3,2012-10-03
+EMP00719,35,HR,Mid,Bachelor,New York NY,5,89682,Needs Improvement,3.8,1.4,0,,49,2,2022-03-16
+EMP00720,38,HR,Director,High School,Boston MA,15,179409,Outstanding,3.7,4.7,0,,42,1,2012-08-13
+EMP00721,43,Sales,Director,Bachelor,San Francisco CA,12,179824,Outstanding,3.9,2.5,0,,33,0,2018-01-09
+EMP00722,29,Finance,Junior,Master,San Francisco CA,2,56148,Needs Improvement,4.7,4.0,0,,40,3,2017-04-10
+EMP00723,25,Engineering,Senior,Bachelor,Austin TX,6,112758,Meets Expectations,2.7,4.1,0,,50,0,2019-07-06
+EMP00724,31,Customer Success,Senior,Bachelor,Boston MA,9,112433,Exceeds Expectations,3.7,1.6,0,,4,4,2011-09-14
+EMP00725,54,Operations,Senior,PhD,New York NY,3,93960,Meets Expectations,3.8,2.9,0,,48,0,2016-05-06
+EMP00726,35,Operations,Mid,PhD,New York NY,7,87950,Outstanding,4.7,4.1,0,,20,0,2014-12-22
+EMP00727,49,Product,Senior,Master,Boston MA,15,96413,Exceeds Expectations,2.6,3.1,0,,24,5,2022-05-19
+EMP00728,30,Product,Junior,PhD,Boston MA,10,69650,Exceeds Expectations,4.5,1.2,0,,20,4,2024-01-19
+EMP00729,52,Marketing,Lead,Master,Boston MA,9,134400,Needs Improvement,1.9,4.0,1,Relocation,13,5,2021-10-24
+EMP00730,49,Marketing,Lead,High School,Chicago IL,5,106845,Needs Improvement,4.9,1.7,1,Personal,43,4,2013-07-06
+EMP00731,47,Product,Mid,PhD,Boston MA,7,66113,Meets Expectations,2.6,2.2,1,Personal,11,3,2019-12-25
+EMP00732,50,Product,Senior,High School,Chicago IL,11,85380,Meets Expectations,1.3,3.0,1,Relocation,73,3,2014-04-30
+EMP00733,28,Finance,Director,High School,New York NY,5,162581,Meets Expectations,3.6,2.7,0,,8,5,2013-12-14
+EMP00734,23,Marketing,Lead,High School,San Francisco CA,12,123220,Needs Improvement,4.1,3.1,0,,15,1,2018-03-26
+EMP00735,57,Marketing,Junior,High School,Chicago IL,14,71231,Meets Expectations,1.2,3.3,0,,32,0,2011-12-23
+EMP00736,54,Sales,Junior,Bachelor,New York NY,9,56913,Needs Improvement,1.7,4.9,0,,5,4,2017-10-02
+EMP00737,56,Finance,Director,Bachelor,Boston MA,14,154582,Exceeds Expectations,3.8,3.1,0,,12,5,2025-08-05
+EMP00738,24,Engineering,Mid,Master,New York NY,6,69642,Meets Expectations,4.3,4.8,0,,16,5,2012-03-15
+EMP00739,57,Product,Junior,Master,Boston MA,8,53541,Needs Improvement,4.6,2.6,0,,54,5,2017-04-16
+EMP00740,35,Marketing,Manager,Master,Chicago IL,2,140629,Meets Expectations,5.0,3.8,0,,65,4,2015-03-15
+EMP00741,31,Marketing,Lead,Master,Austin TX,10,130814,Needs Improvement,1.1,3.4,0,,68,0,2014-11-20
+EMP00742,43,Product,Junior,Master,Austin TX,2,56888,Meets Expectations,4.1,1.6,0,,12,3,2019-09-16
+EMP00743,28,HR,Lead,High School,Chicago IL,3,110758,Outstanding,4.5,3.4,0,,44,5,2017-02-26
+EMP00744,39,Finance,Manager,Master,Boston MA,3,149378,Meets Expectations,2.3,4.0,1,Personal,68,4,2011-07-07
+EMP00745,30,Product,Lead,PhD,Chicago IL,8,105311,Meets Expectations,3.9,3.6,0,,34,0,2012-01-08
+EMP00746,37,Operations,Director,Master,New York NY,13,173159,Outstanding,2.8,2.4,0,,54,4,2024-07-05
+EMP00747,27,HR,Senior,Bachelor,Austin TX,9,98320,Needs Improvement,4.4,3.5,0,,21,4,2011-09-01
+EMP00748,40,Engineering,Junior,PhD,Seattle WA,15,71487,Meets Expectations,4.8,2.7,0,,65,5,2017-05-30
+EMP00749,22,Sales,Lead,Bachelor,Boston MA,6,134847,Exceeds Expectations,1.0,2.7,0,,67,5,2011-06-02
+EMP00750,50,Engineering,Manager,High School,New York NY,5,142102,Meets Expectations,4.1,4.6,0,,17,4,2025-11-12
+EMP00751,49,Operations,Junior,High School,New York NY,15,57422,Meets Expectations,4.9,2.4,1,Work-Life Balance,61,2,2024-03-31
+EMP00752,22,Finance,Mid,PhD,Chicago IL,12,72125,Needs Improvement,4.7,4.8,0,,62,0,2011-11-09
+EMP00753,51,Operations,Junior,PhD,New York NY,10,54776,Meets Expectations,1.0,4.6,0,,1,0,2021-02-23
+EMP00754,34,Product,Lead,High School,San Francisco CA,2,122337,Outstanding,1.6,1.5,0,,32,1,2018-05-19
+EMP00755,45,Customer Success,Lead,PhD,Boston MA,9,116943,Needs Improvement,1.7,4.2,0,,56,1,2026-03-14
+EMP00756,49,Marketing,Senior,High School,San Francisco CA,0,96771,Exceeds Expectations,3.8,1.4,0,,50,3,2012-04-07
+EMP00757,32,Operations,Junior,PhD,Boston MA,6,60705,Outstanding,4.9,1.5,0,,16,2,2013-09-06
+EMP00758,46,Product,Manager,High School,Boston MA,4,123595,Exceeds Expectations,4.2,1.5,0,,30,0,2013-10-30
+EMP00759,22,Operations,Lead,Bachelor,Boston MA,13,120734,Meets Expectations,2.9,4.0,0,,65,1,2021-02-12
+EMP00760,29,HR,Senior,Bachelor,San Francisco CA,8,107968,Needs Improvement,4.3,1.8,0,,75,5,2023-10-03
+EMP00761,29,Marketing,Mid,High School,Chicago IL,4,78149,Outstanding,5.0,4.7,1,Compensation,11,0,2016-03-20
+EMP00762,55,Product,Lead,High School,Chicago IL,9,127942,Outstanding,1.9,2.3,0,,54,5,2017-05-07
+EMP00763,29,Engineering,Senior,High School,San Francisco CA,8,96913,Exceeds Expectations,2.4,2.7,0,,5,0,2017-07-16
+EMP00764,42,Engineering,Director,Master,Seattle WA,6,159349,Meets Expectations,4.6,1.4,0,,46,2,2025-05-09
+EMP00765,28,Finance,Junior,Master,San Francisco CA,0,67379,Exceeds Expectations,4.4,2.3,0,,35,1,2024-11-07
+EMP00766,28,Product,Junior,Bachelor,Boston MA,4,65629,Meets Expectations,1.5,3.3,0,,57,0,2013-04-13
+EMP00767,43,Sales,Manager,High School,San Francisco CA,9,143768,Meets Expectations,4.0,3.1,0,,24,3,2014-07-18
+EMP00768,57,Finance,VP,High School,Seattle WA,11,219324,Outstanding,3.5,1.5,0,,53,4,2011-10-16
+EMP00769,39,Engineering,Mid,PhD,Seattle WA,4,74491,Meets Expectations,3.3,4.2,1,Personal,68,4,2016-08-16
+EMP00770,50,Sales,Mid,High School,San Francisco CA,12,83431,Meets Expectations,2.6,2.1,0,,73,1,2017-11-21
+EMP00771,54,Engineering,VP,Master,Boston MA,14,206509,Meets Expectations,3.1,2.2,0,,34,4,2018-01-03
+EMP00772,36,Sales,Mid,Bachelor,New York NY,1,82483,Exceeds Expectations,1.2,1.6,1,Better Opportunity,31,1,2021-03-11
+EMP00773,44,Sales,Junior,PhD,Chicago IL,11,55635,Meets Expectations,3.8,3.2,1,Work-Life Balance,41,0,2023-02-01
+EMP00774,44,Engineering,VP,PhD,Boston MA,7,213936,Needs Improvement,1.7,4.9,0,,32,5,2013-05-14
+EMP00775,50,HR,VP,Bachelor,Seattle WA,7,200625,Outstanding,3.3,4.2,0,,29,5,2020-06-22
+EMP00776,31,Product,Senior,Bachelor,Chicago IL,15,88070,Meets Expectations,2.8,4.3,0,,62,5,2016-12-17
+EMP00777,40,Marketing,Director,High School,San Francisco CA,0,160163,Meets Expectations,1.7,2.6,1,Better Opportunity,54,1,2023-06-19
+EMP00778,47,Customer Success,Director,PhD,Seattle WA,3,173734,Needs Improvement,3.9,4.2,0,,2,0,2013-10-31
+EMP00779,24,Engineering,VP,High School,Austin TX,4,198137,Needs Improvement,2.1,4.8,0,,69,5,2015-08-19
+EMP00780,27,Operations,VP,Master,New York NY,6,194562,Meets Expectations,3.3,2.8,0,,61,1,2017-05-31
+EMP00781,56,HR,Junior,High School,Chicago IL,8,65561,Exceeds Expectations,1.1,1.2,0,,53,1,2023-01-28
+EMP00782,23,Engineering,Mid,High School,Seattle WA,7,78996,Outstanding,2.4,2.1,0,,21,0,2017-04-06
+EMP00783,40,HR,Junior,High School,Chicago IL,11,47499,Needs Improvement,1.5,4.7,0,,19,1,2021-12-10
+EMP00784,43,Product,Manager,Master,Austin TX,5,142263,Exceeds Expectations,4.6,3.7,0,,34,3,2019-12-08
+EMP00785,26,Operations,Senior,Bachelor,Seattle WA,0,113236,Exceeds Expectations,1.6,3.6,0,,57,5,2012-07-30
+EMP00786,26,Customer Success,VP,Bachelor,San Francisco CA,3,208934,Exceeds Expectations,3.9,1.6,0,,49,2,2021-05-01
+EMP00787,49,Operations,Lead,Bachelor,Seattle WA,15,127722,Meets Expectations,3.4,3.5,0,,53,4,2011-06-18
+EMP00788,56,Customer Success,Manager,Bachelor,Boston MA,15,137448,Outstanding,1.9,1.3,0,,11,1,2022-11-19
+EMP00789,35,Operations,Junior,Master,New York NY,0,56875,Needs Improvement,4.8,4.7,0,,17,2,2020-04-30
+EMP00790,57,Customer Success,Mid,Bachelor,Seattle WA,13,72946,Needs Improvement,1.9,4.0,0,,3,5,2014-04-05
+EMP00791,25,Product,Senior,High School,San Francisco CA,3,106716,Meets Expectations,2.9,3.4,0,,46,1,2022-03-03
+EMP00792,26,Sales,Mid,Bachelor,Boston MA,0,83650,Outstanding,2.7,4.1,0,,67,5,2012-04-06
+EMP00793,48,Finance,Lead,High School,Boston MA,10,119548,Meets Expectations,3.8,2.1,0,,4,4,2020-05-16
+EMP00794,32,Marketing,Manager,Master,Boston MA,0,132988,Exceeds Expectations,3.7,4.5,0,,29,3,2015-08-19
+EMP00795,27,Marketing,Senior,Bachelor,Boston MA,12,89100,Outstanding,2.6,1.2,0,,71,4,2021-06-09
+EMP00796,51,Sales,VP,Master,Boston MA,15,200262,Needs Improvement,2.6,2.5,0,,54,1,2021-04-19
+EMP00797,28,Finance,Junior,Bachelor,Chicago IL,2,56885,Exceeds Expectations,4.4,1.1,0,,13,0,2013-10-27
+EMP00798,22,HR,Manager,High School,Chicago IL,9,126151,Exceeds Expectations,3.6,1.1,0,,72,0,2024-01-30
+EMP00799,25,Customer Success,Junior,PhD,Chicago IL,10,48054,Exceeds Expectations,1.0,2.4,0,,24,2,2019-07-13
+EMP00800,44,Product,Director,Bachelor,Austin TX,4,173024,Needs Improvement,2.3,4.6,0,,75,3,2023-03-14
+EMP00801,24,Customer Success,Manager,Bachelor,San Francisco CA,9,125282,Needs Improvement,2.9,4.5,0,,18,5,2021-10-11
+EMP00802,55,Marketing,Manager,High School,Boston MA,10,134663,Outstanding,2.4,2.4,0,,49,1,2011-08-26
+EMP00803,26,HR,Manager,Master,Chicago IL,4,138576,Meets Expectations,3.0,4.2,0,,11,3,2022-12-31
+EMP00804,42,Sales,Lead,High School,San Francisco CA,5,114686,Needs Improvement,2.1,2.5,0,,58,2,2018-10-10
+EMP00805,50,Customer Success,Senior,PhD,Seattle WA,4,89062,Exceeds Expectations,3.0,2.5,0,,79,5,2018-08-26
+EMP00806,45,Marketing,Lead,High School,Boston MA,10,117244,Needs Improvement,2.7,2.8,1,Compensation,71,0,2021-12-07
+EMP00807,28,Marketing,VP,PhD,Boston MA,9,202314,Outstanding,2.6,1.3,0,,11,2,2013-05-30
+EMP00808,56,Customer Success,Lead,PhD,San Francisco CA,14,108575,Outstanding,3.9,4.7,1,Career Growth,42,0,2019-01-08
+EMP00809,53,Operations,Senior,PhD,San Francisco CA,6,108012,Meets Expectations,1.5,2.8,0,,27,2,2013-05-21
+EMP00810,46,Engineering,Manager,Bachelor,Austin TX,1,146494,Needs Improvement,2.7,2.9,0,,54,2,2012-05-06
+EMP00811,33,Finance,Director,PhD,Chicago IL,2,154644,Outstanding,2.6,2.2,1,Compensation,33,1,2016-02-25
+EMP00812,49,Engineering,Junior,PhD,Chicago IL,10,69680,Outstanding,1.8,4.8,0,,20,5,2021-04-21
+EMP00813,58,Product,Senior,Bachelor,New York NY,12,111968,Needs Improvement,4.1,3.4,1,Personal,40,0,2017-09-27
+EMP00814,31,Marketing,Lead,High School,Seattle WA,15,133321,Exceeds Expectations,4.2,3.7,0,,16,5,2024-02-04
+EMP00815,28,Customer Success,Director,PhD,San Francisco CA,1,157163,Meets Expectations,1.8,3.8,0,,44,1,2026-03-24
+EMP00816,58,HR,Director,PhD,Boston MA,0,162132,Needs Improvement,1.1,4.6,0,,58,3,2019-05-23
+EMP00817,44,Product,Senior,PhD,New York NY,13,102143,Outstanding,2.3,4.7,0,,22,4,2012-06-28
+EMP00818,49,Marketing,Manager,High School,Austin TX,12,129339,Exceeds Expectations,3.8,2.7,0,,13,0,2019-11-02
+EMP00819,48,Engineering,Manager,High School,Boston MA,3,136266,Outstanding,3.5,3.2,0,,37,3,2020-10-16
+EMP00820,51,HR,Mid,PhD,Boston MA,12,68751,Outstanding,2.9,1.5,1,Personal,50,0,2016-03-24
+EMP00821,36,Operations,VP,Bachelor,Austin TX,9,198769,Outstanding,2.1,4.4,0,,53,0,2019-08-08
+EMP00822,31,Engineering,Junior,Bachelor,Chicago IL,11,72550,Exceeds Expectations,4.3,3.4,0,,55,1,2019-08-11
+EMP00823,47,Product,Mid,Bachelor,Seattle WA,1,91258,Outstanding,2.7,4.8,0,,40,4,2019-09-26
+EMP00824,36,Marketing,Lead,Master,Chicago IL,3,128266,Outstanding,3.0,3.5,0,,20,2,2013-07-04
+EMP00825,27,HR,Junior,PhD,Austin TX,0,59333,Needs Improvement,4.1,1.6,1,Personal,16,3,2019-04-08
+EMP00826,37,Operations,Mid,Master,Boston MA,7,74729,Outstanding,4.4,3.9,0,,6,2,2011-06-16
+EMP00827,23,Sales,Mid,Master,San Francisco CA,3,68635,Exceeds Expectations,3.4,1.4,0,,11,0,2014-02-02
+EMP00828,45,Customer Success,VP,High School,San Francisco CA,6,202805,Outstanding,4.2,2.7,1,Personal,53,3,2012-05-08
+EMP00829,50,Operations,Director,High School,New York NY,5,155891,Needs Improvement,4.6,3.6,0,,44,3,2013-11-25
+EMP00830,55,Engineering,Mid,Bachelor,New York NY,8,68984,Meets Expectations,1.1,1.1,1,Better Opportunity,27,0,2025-07-21
+EMP00831,36,Operations,Mid,High School,New York NY,2,88846,Meets Expectations,1.5,2.1,0,,70,5,2013-08-29
+EMP00832,53,Finance,Lead,Master,Seattle WA,13,121798,Meets Expectations,4.7,2.0,0,,13,4,2025-09-23
+EMP00833,35,Finance,Mid,High School,Chicago IL,15,79203,Exceeds Expectations,2.7,4.0,0,,49,3,2020-01-29
+EMP00834,44,HR,Manager,Master,Chicago IL,11,149422,Needs Improvement,1.3,1.7,0,,52,2,2017-11-28
+EMP00835,23,Operations,Lead,High School,San Francisco CA,3,110895,Meets Expectations,2.7,1.7,0,,47,2,2019-06-09
+EMP00836,42,Marketing,VP,Master,San Francisco CA,3,190315,Outstanding,1.0,2.3,0,,71,0,2023-02-25
+EMP00837,35,Product,Senior,PhD,Boston MA,6,88372,Needs Improvement,3.9,4.8,0,,55,2,2023-04-07
+EMP00838,34,Operations,Mid,High School,Seattle WA,1,91303,Needs Improvement,1.2,2.1,0,,21,4,2022-06-27
+EMP00839,46,Operations,Manager,PhD,New York NY,7,138887,Needs Improvement,1.1,4.1,1,Compensation,51,0,2011-09-18
+EMP00840,23,Engineering,Senior,Master,New York NY,2,100397,Exceeds Expectations,4.2,3.9,1,Career Growth,10,4,2013-05-22
+EMP00841,25,Operations,Lead,Master,Chicago IL,12,114779,Needs Improvement,2.8,4.4,0,,13,0,2014-10-13
+EMP00842,22,HR,Junior,Bachelor,Austin TX,4,48445,Meets Expectations,4.4,3.9,0,,24,5,2015-04-18
+EMP00843,56,Operations,VP,High School,New York NY,0,212552,Needs Improvement,2.0,4.1,0,,9,2,2015-08-18
+EMP00844,46,Operations,Director,Master,San Francisco CA,8,172893,Meets Expectations,1.6,2.8,0,,74,3,2013-11-02
+EMP00845,29,Customer Success,Director,Bachelor,Austin TX,7,168936,Outstanding,3.0,2.1,0,,33,2,2023-12-28
+EMP00846,57,Sales,Senior,PhD,Austin TX,7,106609,Needs Improvement,4.4,3.8,0,,27,0,2021-07-07
+EMP00847,46,HR,Lead,Master,Boston MA,6,120979,Exceeds Expectations,1.8,3.4,1,Career Growth,19,4,2014-02-05
+EMP00848,36,Sales,Mid,Bachelor,Austin TX,11,77634,Outstanding,4.5,3.1,0,,35,3,2019-05-21
+EMP00849,41,Marketing,Director,PhD,San Francisco CA,3,154826,Needs Improvement,1.4,1.4,0,,34,0,2025-03-18
+EMP00850,55,Customer Success,Director,Bachelor,San Francisco CA,14,161532,Outstanding,4.7,1.3,0,,50,4,2020-05-10
+EMP00851,43,Product,Manager,Bachelor,New York NY,1,134461,Outstanding,1.4,3.6,0,,24,3,2014-10-12
+EMP00852,39,Marketing,Manager,Bachelor,Austin TX,15,136994,Needs Improvement,3.7,3.6,0,,6,0,2013-06-02
+EMP00853,26,Finance,Mid,PhD,Austin TX,3,74026,Outstanding,3.5,3.9,0,,28,5,2020-11-08
+EMP00854,35,Finance,Lead,High School,Austin TX,5,130746,Exceeds Expectations,3.5,3.8,0,,23,4,2015-12-17
+EMP00855,41,Customer Success,Director,Bachelor,Austin TX,7,155578,Outstanding,1.3,1.7,0,,60,3,2016-07-21
+EMP00856,33,Operations,Junior,PhD,Chicago IL,8,73877,Exceeds Expectations,3.7,4.4,1,Better Opportunity,62,1,2025-11-01
+EMP00857,24,Customer Success,Junior,Bachelor,Austin TX,0,63588,Meets Expectations,2.2,1.9,0,,12,2,2023-05-11
+EMP00858,53,Operations,Lead,Master,New York NY,11,122881,Needs Improvement,2.9,2.5,0,,42,4,2021-06-18
+EMP00859,39,Customer Success,Junior,Master,Seattle WA,0,49846,Meets Expectations,4.4,3.6,0,,3,1,2017-02-01
+EMP00860,35,Product,Senior,PhD,Chicago IL,2,91351,Exceeds Expectations,2.5,1.4,0,,22,2,2016-07-04
+EMP00861,47,Operations,Senior,High School,Seattle WA,13,94052,Exceeds Expectations,1.2,3.1,0,,58,4,2014-12-30
+EMP00862,29,Operations,Senior,Bachelor,New York NY,0,101348,Exceeds Expectations,1.6,3.7,0,,62,2,2020-03-23
+EMP00863,40,Sales,VP,PhD,New York NY,0,204872,Needs Improvement,2.1,3.4,1,Better Opportunity,55,2,2016-04-17
+EMP00864,38,Engineering,Junior,High School,Boston MA,4,56475,Meets Expectations,4.1,3.0,0,,34,1,2015-09-06
+EMP00865,27,HR,Lead,PhD,Seattle WA,9,112171,Outstanding,4.7,2.0,1,Better Opportunity,33,2,2019-05-29
+EMP00866,58,Finance,Mid,Master,San Francisco CA,13,87246,Meets Expectations,4.2,1.6,0,,53,4,2022-07-19
+EMP00867,41,HR,Senior,PhD,Austin TX,2,94743,Outstanding,3.5,3.2,0,,17,4,2022-03-26
+EMP00868,42,Customer Success,Director,High School,Chicago IL,11,165347,Outstanding,2.9,4.8,0,,3,3,2021-12-10
+EMP00869,30,Sales,VP,High School,Seattle WA,9,215776,Exceeds Expectations,3.0,1.5,0,,16,3,2018-12-20
+EMP00870,55,Engineering,Lead,Master,Chicago IL,14,132498,Needs Improvement,1.2,4.3,1,Better Opportunity,37,4,2015-08-16
+EMP00871,43,Customer Success,Director,Bachelor,Chicago IL,1,153979,Needs Improvement,3.7,4.0,0,,18,4,2018-12-28
+EMP00872,36,Customer Success,Mid,Bachelor,Austin TX,4,74859,Outstanding,3.9,4.7,0,,8,0,2020-10-14
+EMP00873,29,Marketing,Manager,PhD,Austin TX,3,128100,Outstanding,2.9,4.3,0,,15,2,2021-05-01
+EMP00874,33,Product,Lead,High School,Seattle WA,7,132581,Outstanding,2.0,3.5,0,,18,5,2020-12-15
+EMP00875,31,Engineering,Mid,Master,New York NY,7,70595,Outstanding,3.8,1.8,0,,12,4,2019-09-20
+EMP00876,39,Customer Success,Senior,Bachelor,Austin TX,12,97642,Outstanding,1.4,2.7,0,,36,3,2021-09-03
+EMP00877,46,Sales,Manager,High School,New York NY,0,139023,Outstanding,3.6,4.6,0,,17,3,2017-06-04
+EMP00878,22,Customer Success,Senior,High School,San Francisco CA,5,96722,Outstanding,4.4,1.8,0,,19,2,2015-01-03
+EMP00879,30,Operations,Lead,PhD,Seattle WA,8,130721,Outstanding,2.2,2.6,0,,77,5,2017-05-30
+EMP00880,54,Marketing,Manager,High School,Austin TX,8,124240,Outstanding,3.4,3.3,0,,3,5,2014-10-29
+EMP00881,28,Marketing,Mid,High School,San Francisco CA,3,81365,Meets Expectations,2.9,4.0,0,,49,3,2020-05-08
+EMP00882,38,Sales,Junior,Bachelor,New York NY,3,46226,Needs Improvement,1.3,4.1,0,,13,5,2016-02-09
+EMP00883,30,Customer Success,Lead,Bachelor,Seattle WA,6,111413,Meets Expectations,2.8,2.1,0,,67,1,2020-02-08
+EMP00884,23,Sales,Manager,High School,New York NY,3,126669,Outstanding,1.6,1.0,1,Compensation,67,3,2016-10-16
+EMP00885,35,HR,VP,High School,Seattle WA,15,206411,Meets Expectations,3.5,3.2,0,,54,5,2023-01-14
+EMP00886,26,Product,VP,High School,Chicago IL,2,194167,Meets Expectations,2.2,1.5,0,,69,2,2026-03-25
+EMP00887,40,Engineering,Mid,High School,Chicago IL,8,77793,Exceeds Expectations,1.3,4.5,0,,73,1,2014-10-27
+EMP00888,25,Finance,Lead,High School,New York NY,3,124096,Needs Improvement,4.7,2.1,0,,53,2,2019-08-03
+EMP00889,25,HR,Senior,Bachelor,Seattle WA,4,91692,Needs Improvement,3.9,4.7,0,,9,4,2022-01-20
+EMP00890,26,Engineering,Senior,Bachelor,New York NY,13,104600,Outstanding,4.7,4.6,0,,5,0,2015-02-04
+EMP00891,54,Engineering,Lead,High School,Austin TX,7,126310,Meets Expectations,2.9,4.1,0,,3,1,2021-04-20
+EMP00892,23,Product,Director,Bachelor,Austin TX,15,151708,Outstanding,2.5,1.5,0,,56,0,2020-09-12
+EMP00893,34,Operations,Senior,Bachelor,Seattle WA,10,99304,Needs Improvement,2.0,1.4,0,,68,4,2011-07-18
+EMP00894,22,Engineering,VP,High School,New York NY,7,216627,Exceeds Expectations,1.2,2.8,1,Work-Life Balance,77,5,2017-10-19
+EMP00895,30,HR,Senior,PhD,Boston MA,12,100686,Meets Expectations,3.6,1.3,0,,45,1,2024-06-16
+EMP00896,41,Customer Success,Director,Master,Boston MA,11,175565,Exceeds Expectations,4.5,2.0,0,,69,4,2016-06-21
+EMP00897,44,Sales,Junior,Bachelor,New York NY,13,68117,Meets Expectations,2.9,1.3,0,,70,1,2011-07-04
+EMP00898,31,Sales,Senior,High School,Seattle WA,1,92703,Needs Improvement,3.6,2.8,0,,4,2,2021-10-16
+EMP00899,46,Finance,Manager,PhD,Austin TX,9,147104,Outstanding,1.2,4.4,0,,48,3,2014-11-14
+EMP00900,36,Customer Success,Junior,High School,Chicago IL,6,57429,Exceeds Expectations,2.7,1.2,1,Work-Life Balance,3,4,2023-08-09
+EMP00901,38,Operations,VP,High School,Austin TX,6,214813,Outstanding,3.9,3.5,1,Relocation,49,5,2015-05-02
+EMP00902,56,Finance,VP,PhD,Seattle WA,14,203888,Meets Expectations,3.3,3.1,0,,30,1,2013-04-10
+EMP00903,39,Engineering,Senior,Master,New York NY,2,93189,Needs Improvement,2.2,3.3,0,,34,5,2017-12-08
+EMP00904,22,Finance,VP,PhD,Seattle WA,3,200056,Meets Expectations,2.3,2.1,0,,2,3,2016-03-27
+EMP00905,24,Engineering,Lead,Master,Chicago IL,11,120735,Needs Improvement,3.2,2.6,0,,70,2,2022-06-30
+EMP00906,33,Sales,Lead,Bachelor,San Francisco CA,8,130099,Meets Expectations,2.0,3.0,0,,79,5,2022-10-30
+EMP00907,29,Engineering,Mid,Bachelor,Austin TX,1,71037,Needs Improvement,4.4,3.3,0,,33,2,2021-01-25
+EMP00908,44,Engineering,Director,High School,San Francisco CA,1,169679,Needs Improvement,1.4,3.0,1,Compensation,41,4,2021-03-05
+EMP00909,48,Operations,VP,Master,Seattle WA,2,211033,Exceeds Expectations,2.1,1.1,0,,47,3,2020-06-28
+EMP00910,23,Finance,Manager,High School,Chicago IL,5,132068,Needs Improvement,4.7,4.6,1,Compensation,40,4,2025-02-12
+EMP00911,46,Operations,Mid,High School,San Francisco CA,1,86530,Needs Improvement,2.5,5.0,0,,72,4,2022-01-08
+EMP00912,29,Product,Manager,Bachelor,Chicago IL,1,139893,Exceeds Expectations,3.1,2.8,0,,37,1,2015-07-15
+EMP00913,45,Operations,Mid,PhD,New York NY,7,79936,Outstanding,4.9,3.8,0,,10,2,2013-11-20
+EMP00914,52,Sales,Senior,Bachelor,Seattle WA,7,99711,Meets Expectations,1.9,4.3,0,,74,5,2024-05-24
+EMP00915,38,Marketing,Manager,PhD,Boston MA,9,131192,Meets Expectations,1.3,2.7,0,,25,1,2024-09-13
+EMP00916,32,Customer Success,Junior,Bachelor,Austin TX,3,58717,Needs Improvement,3.2,4.7,1,Career Growth,3,5,2017-04-16
+EMP00917,30,Marketing,Junior,Master,Austin TX,12,74630,Meets Expectations,1.5,3.8,0,,43,2,2022-07-02
+EMP00918,24,Sales,Director,PhD,New York NY,2,174207,Outstanding,4.8,4.6,0,,61,5,2014-10-02
+EMP00919,33,Marketing,Director,PhD,New York NY,2,154989,Outstanding,3.4,2.5,0,,56,1,2017-11-09
+EMP00920,28,Finance,VP,Master,New York NY,7,199743,Outstanding,1.2,3.1,0,,49,2,2013-03-03
+EMP00921,24,Marketing,Mid,Master,New York NY,6,79107,Needs Improvement,3.3,3.5,0,,21,0,2017-03-05
+EMP00922,53,Finance,Senior,Bachelor,Boston MA,14,92328,Needs Improvement,2.2,4.7,0,,35,1,2019-05-18
+EMP00923,57,Sales,Mid,High School,Seattle WA,5,65896,Meets Expectations,1.2,4.6,0,,3,2,2017-08-06
+EMP00924,58,HR,Senior,High School,Seattle WA,13,108989,Needs Improvement,1.5,2.8,0,,55,3,2016-11-13
+EMP00925,30,Finance,Junior,High School,New York NY,8,68974,Meets Expectations,4.9,4.2,0,,20,4,2012-09-17
+EMP00926,51,Operations,Senior,Master,San Francisco CA,2,108160,Needs Improvement,4.6,1.2,0,,71,5,2019-04-16
+EMP00927,22,Engineering,Director,Master,Seattle WA,7,154485,Meets Expectations,4.5,1.9,0,,19,3,2023-12-10
+EMP00928,53,Marketing,Director,High School,Seattle WA,9,154318,Meets Expectations,4.5,4.8,0,,8,3,2017-06-08
+EMP00929,33,HR,Director,Master,Seattle WA,1,163702,Meets Expectations,3.5,3.5,0,,67,5,2016-04-12
+EMP00930,36,Marketing,Senior,PhD,New York NY,9,106888,Exceeds Expectations,4.2,2.6,0,,12,1,2021-08-27
+EMP00931,40,Sales,VP,Master,Boston MA,13,204652,Outstanding,3.6,1.5,0,,14,2,2021-05-09
+EMP00932,30,Product,Director,High School,New York NY,15,177529,Meets Expectations,3.0,2.6,0,,34,4,2019-03-21
+EMP00933,48,HR,VP,PhD,Seattle WA,1,208424,Outstanding,2.0,2.3,0,,51,2,2023-01-02
+EMP00934,53,Engineering,Senior,Bachelor,Chicago IL,7,96135,Meets Expectations,1.2,2.8,0,,26,5,2025-08-26
+EMP00935,43,Sales,Manager,High School,Boston MA,4,139823,Outstanding,4.8,1.1,0,,42,2,2024-12-09
+EMP00936,25,Sales,Director,Bachelor,New York NY,6,161865,Outstanding,4.9,4.4,0,,20,2,2022-06-13
+EMP00937,35,Operations,Lead,PhD,Seattle WA,7,105446,Needs Improvement,1.1,4.8,1,Better Opportunity,20,2,2016-04-12
+EMP00938,36,Finance,Junior,Bachelor,Boston MA,7,46106,Outstanding,1.5,4.1,1,Work-Life Balance,10,0,2025-06-25
+EMP00939,48,Sales,Manager,PhD,San Francisco CA,0,120483,Needs Improvement,3.2,4.7,0,,77,2,2025-12-21
+EMP00940,54,Operations,Lead,PhD,New York NY,0,114900,Outstanding,1.8,2.1,0,,54,0,2012-04-29
+EMP00941,57,HR,Lead,High School,Seattle WA,8,120838,Outstanding,3.8,3.0,0,,50,2,2015-10-24
+EMP00942,36,Sales,Lead,Master,New York NY,0,118020,Needs Improvement,2.8,2.9,0,,18,5,2015-07-28
+EMP00943,57,Sales,Junior,PhD,Chicago IL,5,51805,Meets Expectations,3.0,2.0,0,,60,4,2021-01-06
+EMP00944,53,HR,Junior,PhD,Austin TX,8,58495,Exceeds Expectations,2.4,1.6,0,,34,5,2025-08-16
+EMP00945,57,HR,VP,PhD,Chicago IL,15,207877,Outstanding,4.8,1.9,0,,71,5,2014-05-02
+EMP00946,49,Sales,Junior,Bachelor,San Francisco CA,2,57310,Needs Improvement,1.1,3.1,1,Career Growth,14,0,2023-05-12
+EMP00947,32,Product,Lead,High School,Seattle WA,15,109583,Exceeds Expectations,3.2,2.6,0,,37,5,2024-07-18
+EMP00948,42,Finance,Manager,Master,Chicago IL,11,138474,Meets Expectations,1.6,3.1,0,,77,2,2025-11-10
+EMP00949,35,Customer Success,Lead,High School,New York NY,10,129469,Outstanding,4.4,1.5,0,,53,1,2022-01-30
+EMP00950,26,Marketing,Lead,Master,Austin TX,0,115218,Outstanding,1.8,1.4,0,,7,4,2012-10-02
+EMP00951,32,Customer Success,Manager,Bachelor,New York NY,2,131483,Needs Improvement,4.5,2.4,0,,36,3,2017-01-20
+EMP00952,47,Finance,Senior,High School,Boston MA,8,103386,Meets Expectations,3.6,1.3,0,,27,2,2013-06-13
+EMP00953,58,Marketing,Senior,Master,Boston MA,3,89151,Exceeds Expectations,3.3,4.1,0,,78,5,2021-12-01
+EMP00954,32,Customer Success,Mid,Bachelor,San Francisco CA,0,90669,Meets Expectations,1.9,4.7,1,Career Growth,0,2,2026-04-29
+EMP00955,30,Sales,Junior,Bachelor,Chicago IL,14,58939,Needs Improvement,2.3,3.0,0,,50,3,2011-06-27
+EMP00956,52,Product,Director,Bachelor,Boston MA,11,160215,Meets Expectations,2.3,1.3,0,,35,5,2019-05-05
+EMP00957,49,Marketing,VP,Master,San Francisco CA,14,206059,Outstanding,2.0,1.5,0,,3,2,2017-02-25
+EMP00958,44,Customer Success,VP,PhD,New York NY,13,197005,Meets Expectations,4.5,4.7,0,,22,5,2011-08-24
+EMP00959,50,Engineering,Mid,Master,Chicago IL,11,82236,Exceeds Expectations,3.3,2.3,0,,1,4,2018-07-09
+EMP00960,39,Finance,Junior,High School,Boston MA,15,58051,Needs Improvement,3.8,2.0,1,Career Growth,77,5,2016-09-02
+EMP00961,33,Customer Success,Lead,Master,Austin TX,15,129573,Needs Improvement,4.0,4.2,0,,78,5,2020-03-13
+EMP00962,33,Marketing,Director,Master,Austin TX,4,152713,Needs Improvement,4.4,1.2,0,,69,2,2012-10-07
+EMP00963,23,HR,Director,Master,Chicago IL,10,177435,Meets Expectations,4.6,4.6,0,,1,5,2019-03-15
+EMP00964,25,Product,Lead,Bachelor,Seattle WA,2,111322,Needs Improvement,3.0,3.9,0,,5,2,2023-10-08
+EMP00965,54,HR,Director,Master,Chicago IL,13,155667,Exceeds Expectations,4.4,4.8,0,,44,0,2025-05-25
+EMP00966,58,Operations,Lead,High School,San Francisco CA,2,123552,Meets Expectations,1.4,4.7,0,,40,4,2024-05-27
+EMP00967,32,Engineering,VP,Master,Boston MA,0,197127,Meets Expectations,2.8,4.5,0,,24,5,2019-01-18
+EMP00968,25,Marketing,Senior,Bachelor,San Francisco CA,12,108131,Outstanding,2.1,3.3,0,,34,1,2013-04-27
+EMP00969,38,Marketing,Senior,Bachelor,Austin TX,14,93668,Outstanding,2.4,2.5,1,Relocation,49,1,2016-06-02
+EMP00970,49,HR,Director,High School,Chicago IL,11,171168,Exceeds Expectations,4.2,1.8,0,,26,2,2012-07-11
+EMP00971,38,HR,Lead,Master,New York NY,1,108778,Outstanding,3.5,2.9,0,,72,3,2013-11-27
+EMP00972,28,Engineering,Senior,High School,San Francisco CA,11,113486,Exceeds Expectations,1.6,2.9,0,,45,2,2025-10-31
+EMP00973,56,Marketing,Lead,PhD,Seattle WA,5,129643,Outstanding,4.2,2.8,1,Compensation,32,5,2017-09-26
+EMP00974,43,Operations,Manager,High School,Seattle WA,15,142234,Meets Expectations,1.2,4.7,0,,54,2,2013-06-14
+EMP00975,23,Product,Manager,Bachelor,San Francisco CA,5,136783,Meets Expectations,2.2,3.4,0,,42,0,2014-03-08
+EMP00976,31,Sales,Senior,Bachelor,New York NY,11,100031,Meets Expectations,2.8,3.6,0,,39,0,2023-04-29
+EMP00977,35,Marketing,Mid,High School,Seattle WA,13,67954,Exceeds Expectations,1.6,3.2,0,,20,2,2022-05-27
+EMP00978,57,Sales,Lead,Bachelor,Austin TX,12,127897,Outstanding,2.9,2.5,0,,49,1,2014-01-14
+EMP00979,30,Operations,VP,PhD,Chicago IL,12,215338,Outstanding,2.1,3.7,0,,9,2,2025-11-01
+EMP00980,23,Customer Success,Director,High School,Chicago IL,7,179018,Exceeds Expectations,4.1,2.5,0,,76,3,2014-07-21
+EMP00981,36,Sales,Director,PhD,Boston MA,4,166382,Exceeds Expectations,1.8,2.7,0,,23,3,2016-12-07
+EMP00982,41,Marketing,Senior,Bachelor,San Francisco CA,12,107127,Outstanding,1.1,4.8,0,,50,5,2017-10-01
+EMP00983,27,Sales,Lead,Bachelor,New York NY,11,127480,Needs Improvement,3.6,2.6,0,,16,4,2014-12-24
+EMP00984,51,Product,Director,Master,Seattle WA,0,165929,Needs Improvement,3.7,2.7,0,,33,5,2014-10-25
+EMP00985,50,Sales,Manager,High School,San Francisco CA,11,145591,Exceeds Expectations,2.3,3.1,0,,54,4,2026-01-23
+EMP00986,27,Product,VP,PhD,Seattle WA,4,190227,Meets Expectations,4.7,3.4,0,,6,3,2019-05-28
+EMP00987,29,Finance,Junior,PhD,New York NY,15,60081,Exceeds Expectations,4.6,3.7,0,,37,0,2018-01-07
+EMP00988,40,Finance,Mid,Master,Boston MA,11,78666,Needs Improvement,2.3,3.5,1,Better Opportunity,68,5,2022-10-22
+EMP00989,33,Product,Mid,Master,New York NY,2,82530,Outstanding,3.9,3.5,1,Career Growth,79,1,2026-01-20
+EMP00990,26,Customer Success,Junior,PhD,Chicago IL,10,57215,Needs Improvement,3.4,3.9,1,Personal,10,2,2026-04-16
+EMP00991,47,Finance,Lead,PhD,Austin TX,0,111027,Needs Improvement,2.0,3.6,0,,24,4,2017-05-29
+EMP00992,54,Finance,Senior,Master,Boston MA,7,107749,Outstanding,2.5,2.9,0,,23,2,2024-02-05
+EMP00993,47,Engineering,Manager,Bachelor,New York NY,5,142223,Outstanding,1.0,1.8,0,,34,3,2025-11-12
+EMP00994,36,Operations,Junior,PhD,Boston MA,7,45592,Outstanding,1.9,3.4,0,,76,2,2012-01-20
+EMP00995,57,Product,Lead,PhD,San Francisco CA,0,116237,Outstanding,2.4,2.8,0,,68,5,2014-12-27
+EMP00996,46,Marketing,Director,Master,Austin TX,8,163203,Outstanding,4.4,4.9,1,Compensation,67,2,2023-05-20
+EMP00997,42,Finance,Senior,PhD,Seattle WA,14,107102,Exceeds Expectations,1.6,3.3,0,,2,2,2025-03-26
+EMP00998,46,Customer Success,Mid,Bachelor,Austin TX,4,77400,Meets Expectations,4.4,1.4,0,,73,2,2025-09-08
+EMP00999,32,Marketing,VP,Master,New York NY,12,208024,Exceeds Expectations,4.0,2.7,0,,80,0,2015-07-17
+EMP01000,56,Operations,Manager,Bachelor,San Francisco CA,12,127376,Outstanding,3.0,2.9,0,,51,2,2017-06-06
+EMP01001,43,Engineering,Manager,PhD,Seattle WA,14,141502,Outstanding,4.6,2.5,0,,24,5,2015-03-02
+EMP01002,36,Engineering,Manager,High School,New York NY,4,139978,Outstanding,5.0,3.4,0,,78,1,2012-12-13
+EMP01003,52,Marketing,Manager,Bachelor,San Francisco CA,2,132133,Outstanding,3.4,4.2,1,Career Growth,47,5,2019-03-19
+EMP01004,52,HR,Mid,PhD,San Francisco CA,6,75575,Outstanding,1.3,1.1,1,Personal,77,3,2019-07-23
+EMP01005,33,HR,VP,Bachelor,Seattle WA,14,206391,Meets Expectations,4.2,4.4,0,,8,0,2018-08-13
+EMP01006,48,Engineering,Director,High School,Seattle WA,15,178251,Needs Improvement,4.1,4.8,0,,61,5,2017-07-25
+EMP01007,47,Engineering,Senior,PhD,Austin TX,1,96907,Outstanding,4.7,3.5,0,,13,1,2012-08-08
+EMP01008,29,Finance,VP,Bachelor,New York NY,5,202008,Outstanding,2.4,4.7,0,,12,2,2022-09-08
+EMP01009,53,Sales,Lead,Master,Chicago IL,7,129804,Outstanding,2.2,2.8,0,,35,4,2013-04-22
+EMP01010,30,Engineering,VP,Master,New York NY,4,207097,Exceeds Expectations,1.9,2.5,0,,20,4,2019-12-18
+EMP01011,50,Finance,Lead,PhD,New York NY,9,110060,Exceeds Expectations,3.8,1.6,0,,29,0,2014-11-21
+EMP01012,41,HR,Manager,PhD,Chicago IL,4,139144,Outstanding,2.5,3.0,1,Compensation,44,5,2012-05-03
+EMP01013,54,Marketing,Manager,PhD,San Francisco CA,10,137148,Meets Expectations,4.5,2.9,0,,61,3,2023-10-10
+EMP01014,26,Engineering,Director,Bachelor,New York NY,10,157367,Needs Improvement,1.9,2.1,0,,63,3,2018-02-08
+EMP01015,55,Engineering,VP,Master,Chicago IL,7,214293,Needs Improvement,3.7,2.6,0,,8,2,2025-06-30
+EMP01016,25,Sales,VP,Bachelor,San Francisco CA,14,208569,Meets Expectations,2.0,4.2,0,,58,1,2015-04-27
+EMP01017,39,Engineering,Manager,Master,Austin TX,8,122993,Meets Expectations,3.9,4.7,0,,26,1,2013-05-20
+EMP01018,52,HR,Manager,Bachelor,Seattle WA,14,123220,Needs Improvement,4.1,2.3,0,,14,3,2015-06-21
+EMP01019,34,Sales,Lead,PhD,Austin TX,3,122772,Needs Improvement,3.4,2.2,0,,56,5,2025-10-08
+EMP01020,51,HR,Manager,Master,Chicago IL,0,128249,Meets Expectations,3.4,3.0,0,,61,4,2011-07-12
+EMP01021,41,Finance,Director,PhD,Austin TX,8,178418,Exceeds Expectations,2.4,3.7,0,,23,3,2026-01-02
+EMP01022,54,Engineering,Senior,High School,Seattle WA,15,101245,Exceeds Expectations,1.3,2.7,0,,43,5,2011-07-07
+EMP01023,28,Marketing,Mid,High School,Boston MA,7,71986,Outstanding,2.2,4.1,0,,38,4,2011-10-13
+EMP01024,31,HR,Manager,Bachelor,New York NY,10,125124,Meets Expectations,2.6,1.7,0,,66,3,2022-11-17
+EMP01025,39,Product,VP,Master,New York NY,7,198613,Meets Expectations,4.4,2.2,0,,45,5,2014-07-23
+EMP01026,41,Operations,Lead,High School,Seattle WA,13,123457,Outstanding,2.7,4.0,0,,45,5,2024-10-26
+EMP01027,39,Marketing,Lead,Master,Austin TX,0,131821,Exceeds Expectations,1.8,3.9,0,,41,3,2014-08-10
+EMP01028,57,Product,Senior,High School,San Francisco CA,6,111131,Needs Improvement,3.0,4.4,0,,20,2,2014-09-03
+EMP01029,52,Customer Success,Director,Bachelor,New York NY,1,175599,Outstanding,3.8,4.6,0,,77,4,2025-09-06
+EMP01030,28,Product,Junior,High School,Seattle WA,1,65959,Exceeds Expectations,3.2,2.8,1,Compensation,9,2,2016-03-22
+EMP01031,31,Product,VP,Master,Chicago IL,4,209326,Meets Expectations,1.8,1.4,0,,69,5,2018-07-01
+EMP01032,55,Finance,Manager,Master,Seattle WA,9,142595,Exceeds Expectations,4.1,1.3,1,Personal,27,1,2012-03-17
+EMP01033,36,Operations,Lead,High School,San Francisco CA,14,116868,Exceeds Expectations,3.7,3.8,0,,15,5,2018-07-27
+EMP01034,47,Product,Lead,High School,Chicago IL,15,131152,Exceeds Expectations,3.1,4.7,1,Career Growth,4,4,2013-12-17
+EMP01035,56,Operations,VP,High School,Chicago IL,15,199261,Needs Improvement,3.5,3.9,0,,20,4,2012-02-14
+EMP01036,51,Sales,Manager,PhD,Boston MA,6,144638,Outstanding,3.7,4.3,1,Compensation,42,0,2026-03-06
+EMP01037,58,Marketing,Director,High School,Seattle WA,10,164878,Outstanding,3.8,4.3,0,,73,2,2011-08-25
+EMP01038,46,Engineering,Manager,Master,Chicago IL,0,120279,Meets Expectations,2.7,2.0,1,Career Growth,25,4,2021-05-23
+EMP01039,58,Operations,Director,High School,San Francisco CA,4,156188,Needs Improvement,1.8,1.7,0,,69,2,2019-01-22
+EMP01040,42,Sales,Senior,Bachelor,San Francisco CA,7,106566,Exceeds Expectations,2.2,2.7,0,,45,0,2018-12-29
+EMP01041,29,Marketing,Lead,High School,Seattle WA,12,105833,Outstanding,4.0,4.0,0,,56,3,2020-03-28
+EMP01042,46,HR,Mid,Bachelor,San Francisco CA,3,68042,Needs Improvement,3.0,3.3,0,,15,3,2019-04-12
+EMP01043,42,Operations,Director,Master,Chicago IL,13,156258,Outstanding,1.4,3.0,0,,14,3,2018-03-02
+EMP01044,46,Engineering,Junior,High School,Seattle WA,13,58117,Exceeds Expectations,1.4,2.4,0,,38,1,2017-05-07
+EMP01045,46,Sales,Director,High School,San Francisco CA,15,150519,Exceeds Expectations,2.1,3.6,0,,31,1,2015-03-09
+EMP01046,55,Engineering,Mid,Master,New York NY,4,69594,Meets Expectations,4.0,1.2,0,,79,3,2013-12-01
+EMP01047,33,Marketing,Lead,Master,Austin TX,5,121993,Meets Expectations,4.0,4.2,0,,20,0,2014-09-14
+EMP01048,41,Customer Success,Mid,High School,New York NY,12,85490,Needs Improvement,4.4,3.5,0,,3,3,2021-05-30
+EMP01049,31,Engineering,Director,Bachelor,Austin TX,13,151523,Meets Expectations,4.1,3.9,0,,1,2,2020-05-26
+EMP01050,48,HR,Junior,Bachelor,Chicago IL,2,48683,Outstanding,2.9,2.7,0,,0,2,2018-06-06
+EMP01051,38,Customer Success,Lead,PhD,Seattle WA,4,115580,Needs Improvement,2.5,3.5,0,,73,1,2021-08-19
+EMP01052,54,Marketing,Mid,PhD,New York NY,4,91392,Needs Improvement,1.9,1.3,0,,78,0,2025-10-12
+EMP01053,38,HR,Mid,Bachelor,New York NY,5,88921,Exceeds Expectations,2.3,4.9,0,,54,2,2014-08-24
+EMP01054,24,Marketing,Manager,High School,San Francisco CA,12,140705,Meets Expectations,1.8,1.7,1,Compensation,50,2,2025-07-05
+EMP01055,52,Engineering,Manager,PhD,San Francisco CA,15,148104,Outstanding,3.5,4.3,0,,58,4,2019-09-13
+EMP01056,50,Finance,Manager,Bachelor,New York NY,3,144410,Exceeds Expectations,4.1,4.7,0,,43,3,2020-03-23
+EMP01057,28,Customer Success,Director,Bachelor,Austin TX,10,175010,Needs Improvement,1.3,2.5,0,,29,3,2025-04-26
+EMP01058,57,Sales,Junior,Bachelor,Seattle WA,9,49138,Needs Improvement,2.2,2.7,0,,65,1,2024-07-24
+EMP01059,36,Marketing,VP,High School,Chicago IL,0,196510,Meets Expectations,2.4,3.4,0,,46,4,2012-08-13
+EMP01060,55,HR,Director,Bachelor,Chicago IL,5,162270,Meets Expectations,3.7,3.5,0,,78,3,2015-02-14
+EMP01061,25,HR,Senior,PhD,New York NY,12,94715,Outstanding,3.1,2.7,0,,17,5,2012-10-28
+EMP01062,26,Finance,Junior,High School,Seattle WA,8,68210,Needs Improvement,2.2,4.7,0,,17,1,2016-01-17
+EMP01063,32,Customer Success,VP,Bachelor,New York NY,7,202820,Meets Expectations,3.6,2.6,0,,9,1,2018-08-05
+EMP01064,47,Finance,Mid,Bachelor,Boston MA,3,88788,Outstanding,4.8,1.6,0,,35,2,2016-11-29
+EMP01065,29,Engineering,Director,Master,Austin TX,9,167178,Outstanding,3.5,2.9,1,Relocation,78,3,2016-11-02
+EMP01066,43,Marketing,Junior,PhD,Chicago IL,8,46342,Outstanding,4.6,1.5,0,,21,5,2019-11-12
+EMP01067,40,Customer Success,VP,Bachelor,Boston MA,7,207132,Exceeds Expectations,5.0,3.4,1,Career Growth,55,3,2024-08-17
+EMP01068,28,Engineering,Director,PhD,Boston MA,8,177601,Exceeds Expectations,2.1,2.0,0,,32,2,2012-01-26
+EMP01069,28,Sales,Junior,High School,Boston MA,15,52954,Exceeds Expectations,1.9,2.7,0,,62,4,2025-07-21
+EMP01070,55,Product,Manager,High School,Austin TX,12,121379,Needs Improvement,3.4,4.2,0,,30,2,2017-05-08
+EMP01071,47,Product,VP,PhD,Boston MA,1,201380,Needs Improvement,2.8,2.8,0,,55,5,2019-12-01
+EMP01072,58,Engineering,Mid,High School,Boston MA,5,65791,Outstanding,2.3,2.2,0,,58,2,2019-12-05
+EMP01073,44,Operations,VP,Bachelor,San Francisco CA,11,198149,Exceeds Expectations,4.1,2.3,0,,71,4,2014-01-01
+EMP01074,47,Operations,Director,Master,Chicago IL,11,175590,Exceeds Expectations,4.4,4.4,0,,68,5,2023-04-01
+EMP01075,41,HR,Senior,Bachelor,Seattle WA,3,114955,Outstanding,3.6,2.3,0,,25,2,2015-09-11
+EMP01076,43,Customer Success,Senior,High School,San Francisco CA,14,114352,Needs Improvement,1.6,1.7,0,,74,2,2019-05-26
+EMP01077,57,Finance,VP,Master,San Francisco CA,5,203040,Outstanding,1.3,1.4,0,,43,4,2025-12-09
+EMP01078,30,Operations,Lead,High School,New York NY,12,108395,Exceeds Expectations,3.9,4.5,0,,28,3,2014-03-21
+EMP01079,57,Engineering,Mid,Bachelor,San Francisco CA,4,86873,Meets Expectations,1.1,1.9,0,,56,5,2021-12-17
+EMP01080,22,HR,Mid,PhD,Chicago IL,9,72984,Outstanding,4.4,2.9,0,,70,4,2013-08-09
+EMP01081,33,HR,Lead,Master,New York NY,12,125553,Exceeds Expectations,4.6,2.5,0,,55,2,2023-08-17
+EMP01082,42,Operations,Mid,Bachelor,Austin TX,11,67524,Meets Expectations,1.5,4.4,0,,64,5,2018-11-09
+EMP01083,42,Customer Success,Manager,PhD,New York NY,3,146452,Meets Expectations,1.9,2.4,0,,73,0,2016-09-30
+EMP01084,50,Customer Success,Manager,High School,New York NY,15,139367,Outstanding,4.8,1.7,0,,61,5,2019-09-18
+EMP01085,44,Marketing,Junior,PhD,Seattle WA,2,68555,Needs Improvement,2.0,4.6,1,Personal,17,3,2017-01-04
+EMP01086,50,HR,Director,Bachelor,Chicago IL,9,167642,Outstanding,2.2,1.9,0,,75,2,2021-02-22
+EMP01087,25,Engineering,Manager,Bachelor,Boston MA,11,139249,Outstanding,4.9,3.5,1,Compensation,31,4,2016-08-23
+EMP01088,33,Marketing,VP,PhD,Chicago IL,0,211279,Needs Improvement,3.9,2.3,0,,49,3,2015-05-11
+EMP01089,52,Product,Director,Master,Seattle WA,4,177763,Outstanding,1.4,2.4,0,,11,1,2022-05-21
+EMP01090,34,Finance,Lead,Master,Austin TX,7,116508,Needs Improvement,3.5,2.4,0,,77,0,2013-11-25
+EMP01091,45,Engineering,Director,PhD,New York NY,3,155521,Exceeds Expectations,4.9,1.1,1,Better Opportunity,72,4,2021-02-19
+EMP01092,26,Operations,VP,High School,Boston MA,5,196176,Exceeds Expectations,3.0,3.1,0,,19,4,2020-04-27
+EMP01093,33,Operations,Manager,High School,Chicago IL,14,143146,Outstanding,4.1,3.0,0,,4,4,2024-12-11
+EMP01094,41,Sales,VP,PhD,San Francisco CA,9,193531,Needs Improvement,1.7,3.1,0,,77,1,2023-12-15
+EMP01095,57,Operations,Lead,Bachelor,New York NY,12,130692,Exceeds Expectations,1.5,3.2,0,,18,1,2025-04-02
+EMP01096,47,Customer Success,Mid,High School,Boston MA,1,76741,Needs Improvement,4.9,2.9,1,Personal,41,4,2020-11-26
+EMP01097,56,Product,VP,PhD,Seattle WA,6,199258,Outstanding,2.8,1.8,0,,48,0,2013-01-07
+EMP01098,53,Customer Success,Junior,High School,Chicago IL,3,55535,Exceeds Expectations,3.4,2.2,0,,5,1,2018-09-28
+EMP01099,58,Sales,Senior,PhD,San Francisco CA,5,106002,Exceeds Expectations,1.2,1.1,0,,45,4,2022-07-02
+EMP01100,49,Engineering,VP,PhD,San Francisco CA,5,206670,Needs Improvement,3.8,4.6,0,,28,5,2015-06-24
+EMP01101,35,Operations,Junior,Bachelor,Boston MA,15,51774,Outstanding,3.5,1.2,0,,14,2,2016-01-29
+EMP01102,43,Engineering,Mid,Bachelor,San Francisco CA,5,77776,Needs Improvement,2.5,4.4,0,,76,1,2024-01-18
+EMP01103,58,Finance,Lead,High School,Seattle WA,9,111713,Outstanding,3.6,4.7,0,,52,3,2018-04-18
+EMP01104,34,Finance,VP,Bachelor,Boston MA,15,198304,Outstanding,3.5,2.6,0,,28,0,2017-04-15
+EMP01105,32,Sales,Junior,PhD,New York NY,15,47179,Exceeds Expectations,2.3,4.8,1,Relocation,36,2,2013-12-29
+EMP01106,29,Finance,Junior,Bachelor,San Francisco CA,12,71964,Outstanding,1.8,1.3,0,,66,0,2025-01-26
+EMP01107,28,Customer Success,Lead,Bachelor,Seattle WA,3,112492,Needs Improvement,2.6,1.3,1,Relocation,47,3,2015-05-05
+EMP01108,24,Marketing,Lead,Master,New York NY,6,130183,Meets Expectations,2.3,3.3,0,,22,2,2024-10-06
+EMP01109,25,Customer Success,Mid,Bachelor,New York NY,12,77452,Meets Expectations,2.2,1.3,0,,56,0,2015-08-23
+EMP01110,37,Customer Success,Junior,High School,Seattle WA,9,63246,Needs Improvement,3.2,2.3,1,Relocation,68,0,2020-08-08
+EMP01111,42,Marketing,Director,High School,Chicago IL,11,151259,Outstanding,1.4,1.9,1,Better Opportunity,49,4,2013-03-30
+EMP01112,36,Sales,VP,PhD,New York NY,1,208469,Outstanding,1.1,4.3,0,,78,3,2013-04-08
+EMP01113,37,Customer Success,Director,Bachelor,Seattle WA,15,170073,Outstanding,4.9,3.5,0,,68,2,2025-12-19
+EMP01114,40,HR,Mid,PhD,New York NY,5,77728,Needs Improvement,4.5,2.5,0,,18,0,2025-04-20
+EMP01115,56,Customer Success,Lead,PhD,Seattle WA,7,118180,Outstanding,3.5,1.8,1,Career Growth,57,3,2025-02-17
+EMP01116,45,Product,Lead,Bachelor,Boston MA,10,115682,Meets Expectations,1.5,3.1,0,,24,4,2020-01-02
+EMP01117,45,HR,VP,Bachelor,Seattle WA,14,207963,Exceeds Expectations,4.2,2.5,0,,18,3,2012-03-14
+EMP01118,50,Sales,Manager,Bachelor,San Francisco CA,9,149644,Needs Improvement,4.1,3.5,0,,43,4,2021-03-17
+EMP01119,46,Marketing,Director,Master,Boston MA,13,155908,Meets Expectations,1.1,1.8,0,,72,1,2014-01-07
+EMP01120,34,Product,Manager,Master,Chicago IL,4,133477,Outstanding,2.0,4.0,0,,78,4,2017-10-03
+EMP01121,28,Engineering,Director,High School,New York NY,2,152809,Exceeds Expectations,4.7,4.5,1,Work-Life Balance,25,5,2013-05-04
+EMP01122,41,Marketing,Mid,PhD,New York NY,2,76892,Outstanding,2.3,4.6,0,,22,2,2011-07-31
+EMP01123,57,Finance,Junior,Bachelor,Chicago IL,5,74517,Outstanding,1.7,1.5,0,,70,5,2025-08-04
+EMP01124,39,Customer Success,Director,Bachelor,Seattle WA,7,153714,Needs Improvement,1.6,2.8,0,,60,3,2022-08-10
+EMP01125,23,Customer Success,Mid,Master,New York NY,11,79448,Outstanding,1.7,4.6,0,,10,2,2020-01-19
+EMP01126,30,Sales,Mid,Master,New York NY,9,87196,Meets Expectations,1.6,5.0,0,,10,2,2024-02-01
+EMP01127,48,Customer Success,Junior,PhD,New York NY,5,56967,Needs Improvement,1.8,2.1,0,,21,0,2013-08-13
+EMP01128,41,HR,Director,High School,New York NY,8,164710,Outstanding,2.4,2.1,0,,70,0,2023-09-08
+EMP01129,22,Marketing,VP,Master,Boston MA,0,199919,Needs Improvement,4.6,2.5,0,,48,2,2013-08-20
+EMP01130,54,Operations,VP,Bachelor,Seattle WA,13,203342,Exceeds Expectations,1.5,2.4,0,,36,2,2014-07-02
+EMP01131,27,Sales,Lead,Bachelor,Austin TX,10,133228,Needs Improvement,1.5,4.2,0,,22,2,2012-10-02
+EMP01132,58,Sales,Mid,High School,San Francisco CA,7,90522,Exceeds Expectations,1.3,3.9,1,Relocation,80,3,2013-10-01
+EMP01133,28,Operations,VP,Bachelor,Austin TX,3,191840,Needs Improvement,1.8,4.0,0,,11,0,2019-05-20
+EMP01134,36,Product,VP,PhD,San Francisco CA,6,191638,Meets Expectations,2.5,3.5,0,,63,4,2013-09-06
+EMP01135,40,Marketing,Lead,Master,San Francisco CA,1,119500,Meets Expectations,1.0,1.7,1,Relocation,73,1,2017-09-26
+EMP01136,26,Sales,Director,Master,Chicago IL,6,156129,Outstanding,4.0,1.9,0,,52,4,2016-07-12
+EMP01137,49,Finance,Mid,Master,San Francisco CA,8,92016,Exceeds Expectations,2.0,1.0,0,,8,0,2017-01-27
+EMP01138,44,Sales,Lead,High School,Boston MA,1,125311,Outstanding,2.7,3.7,0,,11,2,2015-08-19
+EMP01139,26,Operations,Director,Master,Seattle WA,8,173827,Outstanding,2.8,4.0,0,,38,3,2016-05-18
+EMP01140,34,Operations,Manager,Master,Seattle WA,7,139242,Outstanding,3.8,2.6,0,,59,3,2012-05-27
+EMP01141,31,Customer Success,Mid,Bachelor,Seattle WA,12,78749,Outstanding,4.5,4.2,0,,46,0,2021-04-30
+EMP01142,33,Product,VP,Bachelor,New York NY,4,209429,Outstanding,1.9,1.1,0,,43,1,2023-04-27
+EMP01143,47,Engineering,Lead,PhD,Chicago IL,5,114945,Meets Expectations,4.4,2.1,0,,63,3,2017-03-05
+EMP01144,32,Product,VP,PhD,Chicago IL,15,211816,Exceeds Expectations,4.8,1.3,1,Work-Life Balance,18,1,2022-07-07
+EMP01145,35,Customer Success,VP,PhD,Chicago IL,13,206072,Exceeds Expectations,2.2,1.6,1,Better Opportunity,76,1,2014-05-21
+EMP01146,45,Finance,Senior,PhD,San Francisco CA,4,97109,Exceeds Expectations,2.9,1.1,0,,26,2,2021-03-06
+EMP01147,42,HR,VP,Bachelor,New York NY,15,215782,Meets Expectations,2.4,4.2,0,,80,4,2015-01-29
+EMP01148,37,HR,Director,PhD,San Francisco CA,7,166010,Needs Improvement,4.6,2.3,0,,79,2,2025-12-20
+EMP01149,53,Sales,Manager,PhD,Seattle WA,14,139745,Needs Improvement,4.8,3.9,0,,24,2,2024-02-13
+EMP01150,25,Marketing,Senior,Bachelor,New York NY,15,93080,Outstanding,1.0,2.4,0,,40,3,2023-07-30
+EMP01151,56,Operations,Manager,Master,Boston MA,6,147005,Needs Improvement,1.8,4.7,0,,7,5,2012-06-24
+EMP01152,54,HR,Manager,Master,New York NY,9,128133,Needs Improvement,2.7,4.3,0,,26,1,2015-07-03
+EMP01153,23,Finance,Junior,PhD,Chicago IL,13,47579,Outstanding,4.1,5.0,0,,20,4,2024-01-22
+EMP01154,42,Customer Success,VP,Bachelor,Chicago IL,3,198963,Exceeds Expectations,1.8,3.4,0,,16,2,2018-12-11
+EMP01155,25,Engineering,Junior,High School,Boston MA,10,63106,Outstanding,1.6,4.3,0,,55,5,2020-12-14
+EMP01156,33,Operations,Lead,High School,Boston MA,10,125089,Needs Improvement,1.1,2.1,0,,16,3,2022-05-15
+EMP01157,30,Sales,Junior,Master,New York NY,4,48350,Exceeds Expectations,4.8,1.9,0,,10,3,2012-04-05
+EMP01158,26,Operations,VP,Bachelor,Chicago IL,15,203125,Outstanding,3.1,3.6,0,,11,1,2026-01-22
+EMP01159,29,Customer Success,Mid,Bachelor,Seattle WA,8,72451,Needs Improvement,3.6,3.2,0,,5,0,2018-02-10
+EMP01160,36,HR,VP,High School,Chicago IL,4,218523,Outstanding,2.3,2.6,1,Work-Life Balance,63,0,2017-04-25
+EMP01161,26,Product,Manager,Master,Boston MA,1,126557,Needs Improvement,1.8,3.3,0,,10,4,2011-09-05
+EMP01162,32,Operations,Manager,Master,Chicago IL,12,126972,Exceeds Expectations,1.0,3.5,0,,47,4,2017-07-27
+EMP01163,34,Product,Mid,PhD,Austin TX,8,75960,Exceeds Expectations,4.6,2.6,0,,57,4,2014-01-07
+EMP01164,33,Product,Mid,Bachelor,Chicago IL,3,66365,Meets Expectations,1.4,4.7,0,,38,5,2022-12-08
+EMP01165,41,HR,Manager,Bachelor,Chicago IL,11,135197,Exceeds Expectations,3.5,3.3,1,Better Opportunity,39,0,2013-08-09
+EMP01166,33,HR,VP,PhD,Chicago IL,10,196761,Outstanding,3.9,3.9,0,,21,3,2022-09-16
+EMP01167,40,Customer Success,Manager,High School,New York NY,7,122545,Needs Improvement,4.5,4.4,0,,0,2,2017-06-13
+EMP01168,58,Customer Success,Lead,Master,Austin TX,5,108186,Outstanding,1.9,1.8,1,Work-Life Balance,53,5,2018-03-04
+EMP01169,24,Engineering,Senior,High School,Boston MA,3,94897,Meets Expectations,2.8,4.7,1,Personal,3,3,2025-06-08
+EMP01170,29,Marketing,Junior,Master,Austin TX,2,68750,Exceeds Expectations,4.5,3.3,1,Personal,72,3,2018-07-31
+EMP01171,31,Sales,Director,PhD,Seattle WA,6,152135,Outstanding,2.5,1.1,0,,22,0,2023-04-05
+EMP01172,26,Engineering,Director,Master,San Francisco CA,8,173262,Needs Improvement,2.9,4.2,0,,30,5,2021-01-13
+EMP01173,22,Customer Success,VP,Bachelor,Boston MA,1,218623,Outstanding,4.4,3.2,0,,6,2,2022-06-21
+EMP01174,45,Operations,Junior,Bachelor,New York NY,14,71893,Exceeds Expectations,1.7,3.6,0,,44,3,2016-10-06
+EMP01175,47,Marketing,Manager,PhD,New York NY,11,135318,Outstanding,4.1,1.6,0,,55,0,2015-03-31
+EMP01176,43,Finance,Mid,High School,New York NY,11,86150,Meets Expectations,4.0,4.4,0,,64,5,2025-03-24
+EMP01177,43,Marketing,Manager,PhD,Austin TX,5,147888,Meets Expectations,1.6,4.3,0,,53,0,2019-08-17
+EMP01178,28,Engineering,Manager,Master,Seattle WA,0,128346,Meets Expectations,3.7,1.7,0,,14,2,2024-10-04
+EMP01179,47,Operations,Manager,Bachelor,Boston MA,12,127178,Needs Improvement,4.0,3.8,0,,58,1,2011-06-17
+EMP01180,22,HR,Director,PhD,New York NY,3,166226,Meets Expectations,1.3,4.8,1,Compensation,69,5,2024-01-31
+EMP01181,34,Sales,VP,High School,New York NY,0,190531,Needs Improvement,1.5,1.7,1,Career Growth,15,3,2011-10-22
+EMP01182,47,Operations,Director,PhD,Chicago IL,0,172866,Exceeds Expectations,2.4,2.5,0,,75,3,2017-07-22
+EMP01183,53,Engineering,Director,High School,Seattle WA,1,166383,Outstanding,1.1,3.8,0,,75,4,2020-01-29
+EMP01184,53,Operations,Director,Master,Chicago IL,0,162450,Outstanding,2.9,4.6,1,Better Opportunity,10,1,2021-09-20
+EMP01185,46,Sales,Lead,Bachelor,Chicago IL,10,112909,Outstanding,2.9,2.3,0,,52,0,2024-05-16
+EMP01186,30,Engineering,Director,High School,New York NY,0,166590,Outstanding,3.0,2.9,0,,74,0,2013-09-25
+EMP01187,50,Customer Success,Mid,Bachelor,Austin TX,9,92969,Needs Improvement,2.2,2.3,0,,25,3,2014-01-31
+EMP01188,22,Customer Success,Mid,High School,New York NY,12,90419,Outstanding,3.6,1.7,0,,23,1,2017-05-24
+EMP01189,53,Operations,VP,Bachelor,San Francisco CA,7,213390,Needs Improvement,3.8,4.6,0,,16,5,2012-10-27
+EMP01190,53,Engineering,Lead,High School,Seattle WA,11,131028,Exceeds Expectations,1.1,3.1,0,,60,0,2018-04-16
+EMP01191,57,Finance,Lead,PhD,Seattle WA,13,107193,Exceeds Expectations,2.1,4.8,1,Relocation,31,1,2015-10-21
+EMP01192,32,Sales,Junior,Master,Seattle WA,2,63691,Exceeds Expectations,1.8,3.6,1,Better Opportunity,23,4,2022-05-07
+EMP01193,57,Product,Junior,High School,New York NY,1,52610,Outstanding,2.2,4.0,1,Better Opportunity,65,0,2017-05-22
+EMP01194,39,Sales,Manager,Bachelor,San Francisco CA,0,129939,Outstanding,1.5,4.7,0,,60,3,2025-04-11
+EMP01195,28,Customer Success,Mid,Bachelor,Boston MA,5,77709,Needs Improvement,3.5,4.4,0,,16,4,2014-05-06
+EMP01196,26,Marketing,VP,Master,San Francisco CA,15,206822,Outstanding,1.3,1.7,0,,33,3,2025-09-01
+EMP01197,49,Engineering,VP,PhD,Seattle WA,1,218530,Exceeds Expectations,2.6,1.8,0,,77,1,2022-05-20
+EMP01198,54,Marketing,Lead,PhD,Austin TX,13,126169,Exceeds Expectations,3.5,2.0,0,,55,4,2017-09-21
+EMP01199,26,Engineering,Lead,Master,Seattle WA,2,128084,Exceeds Expectations,1.6,3.6,0,,35,3,2023-02-09
+EMP01200,56,Operations,Senior,PhD,New York NY,10,95097,Meets Expectations,2.9,3.0,0,,11,5,2021-08-17
+EMP01201,56,Customer Success,Senior,Master,New York NY,2,93244,Meets Expectations,4.7,4.5,0,,30,4,2025-06-03
+EMP01202,41,HR,Senior,Bachelor,Chicago IL,6,112057,Outstanding,3.7,2.1,0,,17,5,2024-10-07
+EMP01203,45,Finance,Mid,Bachelor,San Francisco CA,10,71699,Exceeds Expectations,3.3,1.7,0,,76,5,2021-08-15
+EMP01204,53,Operations,Mid,Master,San Francisco CA,11,73048,Outstanding,3.9,4.7,0,,32,4,2018-05-22
+EMP01205,29,Sales,Senior,PhD,Seattle WA,12,111644,Exceeds Expectations,2.6,1.3,0,,70,4,2025-03-07
+EMP01206,58,Finance,Manager,High School,Seattle WA,13,126527,Outstanding,4.9,3.5,0,,55,3,2014-09-06
+EMP01207,30,Operations,Junior,Master,Austin TX,5,49027,Needs Improvement,4.2,1.2,0,,70,4,2025-09-02
+EMP01208,28,Finance,Mid,Master,Chicago IL,13,71713,Needs Improvement,3.6,1.2,1,Personal,35,2,2023-04-25
+EMP01209,36,Product,Mid,Bachelor,San Francisco CA,7,85260,Exceeds Expectations,4.0,4.7,0,,2,4,2023-12-16
+EMP01210,36,Operations,VP,Bachelor,Austin TX,5,216401,Needs Improvement,2.5,3.2,0,,73,5,2022-07-24
+EMP01211,53,Finance,VP,Bachelor,San Francisco CA,3,193135,Meets Expectations,2.6,2.0,0,,35,0,2017-03-16
+EMP01212,41,Engineering,Mid,High School,Austin TX,13,83993,Meets Expectations,4.4,2.8,0,,52,5,2011-11-23
+EMP01213,31,Customer Success,Lead,Bachelor,Boston MA,12,132872,Exceeds Expectations,2.5,3.2,0,,62,3,2017-12-12
+EMP01214,23,Operations,Senior,Bachelor,Boston MA,15,101631,Exceeds Expectations,4.4,3.4,0,,9,4,2013-03-21
+EMP01215,47,Product,Mid,Bachelor,Seattle WA,6,72141,Exceeds Expectations,2.6,2.0,0,,76,3,2019-10-25
+EMP01216,58,Engineering,Director,Master,New York NY,7,171150,Outstanding,2.8,4.2,0,,48,0,2019-05-02
+EMP01217,50,Customer Success,Lead,PhD,San Francisco CA,13,107931,Exceeds Expectations,2.4,2.1,0,,21,1,2018-10-24
+EMP01218,24,HR,VP,High School,Chicago IL,12,201946,Meets Expectations,1.9,3.8,1,Personal,70,0,2022-07-07
+EMP01219,55,Finance,Junior,Bachelor,Seattle WA,8,59847,Meets Expectations,1.6,2.7,1,Work-Life Balance,21,4,2023-02-16
+EMP01220,27,Sales,Mid,Master,Chicago IL,1,83763,Meets Expectations,4.1,4.8,0,,60,3,2018-11-18
+EMP01221,23,Marketing,Mid,High School,Seattle WA,6,84747,Meets Expectations,1.3,1.4,0,,70,2,2013-08-23
+EMP01222,56,Marketing,Mid,High School,Chicago IL,5,73049,Exceeds Expectations,2.3,1.7,0,,64,0,2025-12-25
+EMP01223,32,Product,Mid,Master,Seattle WA,1,80370,Exceeds Expectations,1.5,4.4,1,Compensation,58,1,2016-01-15
+EMP01224,37,Sales,Director,High School,New York NY,5,170975,Meets Expectations,1.2,4.9,0,,58,4,2022-09-17
+EMP01225,47,Customer Success,Director,PhD,New York NY,12,179123,Exceeds Expectations,4.8,4.8,0,,67,3,2020-01-27
+EMP01226,53,Marketing,Manager,High School,Chicago IL,4,146372,Exceeds Expectations,1.3,5.0,1,Career Growth,48,3,2022-11-29
+EMP01227,23,Finance,Senior,PhD,Chicago IL,10,100965,Meets Expectations,1.1,2.7,0,,17,5,2018-11-20
+EMP01228,37,Finance,Lead,PhD,Boston MA,4,105536,Outstanding,4.6,2.0,0,,59,2,2019-10-15
+EMP01229,30,HR,Lead,Master,New York NY,13,106682,Needs Improvement,1.6,3.6,0,,6,2,2021-02-09
+EMP01230,49,Customer Success,Lead,PhD,Austin TX,2,124603,Needs Improvement,4.3,3.2,0,,45,2,2012-10-26
+EMP01231,54,HR,Senior,High School,Austin TX,5,85362,Exceeds Expectations,1.6,3.8,0,,65,1,2013-10-31
+EMP01232,50,Operations,Junior,Master,Austin TX,12,55945,Exceeds Expectations,2.8,3.5,0,,66,4,2022-04-30
+EMP01233,53,Sales,Lead,Bachelor,Seattle WA,13,130022,Needs Improvement,3.7,3.2,0,,42,5,2024-12-10
+EMP01234,39,Customer Success,Director,PhD,San Francisco CA,4,154659,Exceeds Expectations,1.8,3.5,0,,5,0,2014-05-28
+EMP01235,30,Finance,Junior,PhD,Chicago IL,6,58709,Meets Expectations,2.7,4.3,0,,72,2,2021-09-17
+EMP01236,26,HR,Junior,PhD,San Francisco CA,5,73142,Meets Expectations,3.9,4.1,1,Personal,63,0,2021-05-06
+EMP01237,51,Sales,Director,Master,Boston MA,10,170211,Exceeds Expectations,2.5,2.9,0,,41,4,2026-03-03
+EMP01238,55,Marketing,Director,PhD,Seattle WA,8,176417,Needs Improvement,4.6,1.9,0,,34,2,2020-11-08
+EMP01239,47,Finance,Lead,Bachelor,San Francisco CA,1,124388,Meets Expectations,4.5,1.4,0,,31,3,2014-01-17
+EMP01240,56,Marketing,Junior,Bachelor,San Francisco CA,11,58521,Needs Improvement,2.7,2.3,0,,79,3,2020-09-17
+EMP01241,42,Sales,VP,Master,New York NY,1,204274,Needs Improvement,2.7,2.7,0,,15,2,2016-09-20
+EMP01242,53,HR,Lead,Bachelor,New York NY,12,124281,Meets Expectations,2.7,1.9,0,,20,4,2023-01-27
+EMP01243,46,Operations,Manager,PhD,Austin TX,2,123298,Outstanding,4.2,1.0,1,Personal,19,0,2014-07-01
+EMP01244,33,Engineering,Lead,High School,Austin TX,1,109373,Exceeds Expectations,4.4,3.7,0,,21,2,2018-05-30
+EMP01245,24,Operations,Junior,PhD,Seattle WA,2,46294,Meets Expectations,4.3,1.8,0,,13,2,2012-02-20
+EMP01246,55,Finance,Manager,Bachelor,Boston MA,2,147256,Exceeds Expectations,1.6,2.8,0,,65,0,2011-09-23
+EMP01247,36,Customer Success,Manager,PhD,New York NY,9,121049,Outstanding,2.4,1.7,0,,65,2,2023-05-23
+EMP01248,47,Finance,Director,Bachelor,San Francisco CA,13,176442,Exceeds Expectations,4.2,4.4,0,,59,1,2016-02-14
+EMP01249,27,Marketing,Junior,Bachelor,Boston MA,1,64257,Meets Expectations,1.6,5.0,0,,9,2,2024-04-26
+EMP01250,42,Operations,Director,Bachelor,Seattle WA,7,173548,Exceeds Expectations,2.6,4.7,0,,4,2,2013-12-24
+EMP01251,34,Marketing,Lead,Bachelor,Seattle WA,11,107164,Outstanding,4.4,4.2,1,Career Growth,50,5,2021-10-21
+EMP01252,30,Operations,Lead,High School,San Francisco CA,10,129421,Meets Expectations,2.7,2.3,0,,32,3,2019-05-02
+EMP01253,43,Sales,Lead,Bachelor,Boston MA,4,106377,Exceeds Expectations,2.0,3.4,0,,23,3,2019-10-05
+EMP01254,22,Engineering,VP,PhD,Chicago IL,11,213310,Needs Improvement,3.5,2.3,0,,25,1,2024-04-29
+EMP01255,54,Marketing,Senior,PhD,Boston MA,8,102395,Meets Expectations,3.1,3.4,0,,5,3,2013-04-08
+EMP01256,51,Finance,Manager,PhD,Seattle WA,1,129322,Needs Improvement,2.6,3.5,0,,59,4,2015-12-24
+EMP01257,36,HR,Senior,Master,Seattle WA,14,93673,Meets Expectations,3.6,1.2,0,,33,0,2013-03-26
+EMP01258,36,HR,Junior,PhD,Austin TX,14,52830,Exceeds Expectations,2.7,4.8,0,,64,5,2022-09-27
+EMP01259,25,Finance,VP,Bachelor,Seattle WA,15,209011,Needs Improvement,3.6,2.2,0,,71,5,2017-09-08
+EMP01260,56,Operations,Mid,High School,Austin TX,6,65465,Outstanding,1.3,3.6,0,,16,5,2020-06-24
+EMP01261,40,Finance,Mid,High School,New York NY,8,78617,Exceeds Expectations,2.7,3.9,0,,39,4,2025-08-29
+EMP01262,31,Sales,Junior,Bachelor,Austin TX,3,72952,Exceeds Expectations,4.8,1.3,0,,57,2,2018-08-21
+EMP01263,56,Sales,Manager,Master,Austin TX,14,136737,Needs Improvement,3.7,2.1,1,Work-Life Balance,22,3,2023-09-24
+EMP01264,38,HR,Manager,High School,San Francisco CA,0,149849,Needs Improvement,4.2,4.2,0,,18,2,2018-05-10
+EMP01265,56,Marketing,Manager,PhD,Seattle WA,6,135685,Exceeds Expectations,4.0,2.4,0,,13,4,2019-01-16
+EMP01266,32,Product,Mid,Bachelor,Boston MA,6,85351,Needs Improvement,4.1,4.0,0,,63,4,2022-08-21
+EMP01267,42,Customer Success,Lead,High School,Boston MA,11,111524,Exceeds Expectations,1.1,1.8,0,,47,5,2012-11-05
+EMP01268,22,Operations,Lead,Bachelor,Seattle WA,10,133246,Needs Improvement,1.5,1.4,0,,63,4,2020-05-19
+EMP01269,24,Operations,Junior,High School,New York NY,10,53062,Needs Improvement,4.3,2.2,0,,17,5,2012-06-16
+EMP01270,46,Finance,VP,High School,Seattle WA,4,199196,Exceeds Expectations,2.6,1.3,0,,39,5,2018-09-05
+EMP01271,23,Finance,Lead,Master,Austin TX,0,114343,Needs Improvement,3.8,4.5,0,,12,2,2016-09-30
+EMP01272,29,Operations,Senior,Master,Chicago IL,5,103887,Exceeds Expectations,4.2,1.9,0,,69,0,2014-04-23
+EMP01273,41,Finance,Manager,High School,Boston MA,3,149338,Outstanding,4.7,2.2,0,,42,2,2021-06-21
+EMP01274,26,Engineering,Mid,PhD,Chicago IL,3,84277,Exceeds Expectations,4.6,1.2,1,Better Opportunity,33,1,2022-02-22
+EMP01275,43,HR,Junior,PhD,San Francisco CA,5,51066,Needs Improvement,3.3,4.5,0,,16,1,2014-04-06
+EMP01276,22,HR,Lead,High School,Seattle WA,8,123897,Meets Expectations,4.1,1.8,0,,27,4,2021-05-15
+EMP01277,55,Product,Mid,Master,San Francisco CA,9,76280,Exceeds Expectations,4.9,2.6,1,Relocation,15,5,2018-06-12
+EMP01278,53,Product,Senior,Bachelor,Boston MA,0,88755,Meets Expectations,1.8,2.0,0,,74,0,2014-07-28
+EMP01279,24,HR,Mid,Bachelor,New York NY,7,73191,Meets Expectations,3.9,3.7,0,,14,4,2021-03-24
+EMP01280,35,Engineering,Director,Bachelor,San Francisco CA,3,177196,Outstanding,2.7,2.4,0,,15,2,2017-03-08
+EMP01281,46,Operations,Lead,Master,San Francisco CA,8,119529,Outstanding,4.4,1.6,0,,31,3,2013-04-11
+EMP01282,49,Customer Success,Senior,PhD,Chicago IL,1,93261,Needs Improvement,2.9,1.2,1,Work-Life Balance,26,3,2016-03-23
+EMP01283,31,Sales,Senior,PhD,New York NY,9,94153,Needs Improvement,4.1,2.9,0,,38,5,2021-03-26
+EMP01284,34,HR,Lead,PhD,San Francisco CA,8,132507,Meets Expectations,2.6,1.6,0,,2,1,2014-02-24
+EMP01285,36,Customer Success,Lead,Master,Boston MA,4,108598,Needs Improvement,2.5,2.0,0,,66,2,2014-02-10
+EMP01286,26,Product,Junior,PhD,Chicago IL,3,52904,Meets Expectations,2.0,2.0,0,,0,1,2014-11-13
+EMP01287,57,Engineering,Senior,PhD,New York NY,13,103610,Exceeds Expectations,2.9,1.7,0,,34,4,2013-04-17
+EMP01288,47,HR,Director,High School,New York NY,11,153148,Exceeds Expectations,3.5,4.6,0,,45,3,2020-06-04
+EMP01289,43,HR,Manager,Bachelor,San Francisco CA,15,127457,Needs Improvement,3.2,3.8,0,,52,0,2024-02-19
+EMP01290,48,HR,Lead,Bachelor,Boston MA,2,108362,Meets Expectations,4.9,2.8,0,,27,1,2023-12-15
+EMP01291,24,Operations,Junior,Bachelor,Austin TX,8,45383,Outstanding,2.6,5.0,0,,43,1,2022-08-03
+EMP01292,38,Sales,Junior,PhD,San Francisco CA,7,46447,Needs Improvement,2.1,1.7,0,,52,2,2016-10-01
+EMP01293,54,Sales,Junior,PhD,Chicago IL,7,63863,Exceeds Expectations,2.7,2.4,1,Personal,21,0,2019-04-13
+EMP01294,58,Sales,Director,Bachelor,San Francisco CA,0,171866,Needs Improvement,1.7,1.6,0,,26,1,2015-11-17
+EMP01295,51,Marketing,Senior,Master,Boston MA,1,106681,Meets Expectations,3.5,1.1,0,,38,5,2013-08-10
+EMP01296,26,Product,Mid,PhD,Austin TX,5,80523,Meets Expectations,1.7,1.1,0,,10,1,2025-12-20
+EMP01297,31,HR,Junior,PhD,San Francisco CA,13,48553,Exceeds Expectations,3.8,1.7,0,,76,4,2023-07-04
+EMP01298,49,HR,Lead,High School,San Francisco CA,5,125019,Meets Expectations,2.8,2.3,0,,51,2,2023-09-02
+EMP01299,56,Product,VP,Bachelor,Boston MA,14,192982,Needs Improvement,1.5,3.8,0,,68,0,2018-06-26
+EMP01300,30,Customer Success,Lead,High School,Chicago IL,1,121972,Meets Expectations,4.5,4.2,1,Relocation,69,0,2015-06-19
+EMP01301,57,HR,Manager,Bachelor,Austin TX,2,131112,Meets Expectations,1.4,2.0,0,,54,3,2015-10-16
+EMP01302,36,HR,Mid,Master,Seattle WA,2,81972,Needs Improvement,2.8,2.7,1,Compensation,35,2,2023-03-13
+EMP01303,22,Engineering,Junior,High School,New York NY,0,70405,Needs Improvement,1.1,4.2,0,,21,5,2016-01-04
+EMP01304,34,Sales,Junior,High School,Boston MA,15,71390,Exceeds Expectations,4.1,3.2,1,Personal,77,0,2015-07-17
+EMP01305,42,Marketing,Senior,Master,San Francisco CA,12,107025,Exceeds Expectations,4.7,3.6,1,Better Opportunity,69,1,2019-12-19
+EMP01306,53,Customer Success,Senior,Master,Seattle WA,2,89934,Needs Improvement,4.1,3.0,0,,60,0,2025-03-12
+EMP01307,23,Product,Lead,Master,Boston MA,1,124634,Outstanding,3.6,4.5,1,Work-Life Balance,11,2,2024-06-30
+EMP01308,31,Finance,Manager,Bachelor,New York NY,12,132377,Exceeds Expectations,1.9,1.6,0,,47,5,2023-04-07
+EMP01309,41,Engineering,Senior,PhD,Austin TX,5,110727,Needs Improvement,3.9,3.2,0,,52,1,2019-11-29
+EMP01310,57,HR,Lead,Bachelor,Austin TX,14,125253,Meets Expectations,5.0,4.1,0,,7,2,2026-05-14
+EMP01311,47,Engineering,Junior,Master,Boston MA,8,72357,Needs Improvement,4.6,4.7,0,,33,5,2023-01-24
+EMP01312,52,Marketing,Manager,High School,Seattle WA,15,148850,Meets Expectations,3.1,2.5,0,,34,1,2012-02-18
+EMP01313,26,Marketing,Director,PhD,New York NY,4,172827,Exceeds Expectations,3.7,3.9,0,,20,0,2018-09-27
+EMP01314,30,HR,Lead,Master,Austin TX,11,128666,Exceeds Expectations,3.1,1.9,0,,59,0,2017-01-10
+EMP01315,46,Product,Senior,Bachelor,Seattle WA,5,96622,Needs Improvement,2.5,2.2,0,,29,5,2016-08-23
+EMP01316,56,Operations,Senior,PhD,Seattle WA,5,94628,Needs Improvement,4.5,3.9,0,,39,3,2018-03-25
+EMP01317,40,Finance,VP,Master,New York NY,0,215298,Meets Expectations,1.4,2.0,1,Personal,17,3,2023-05-19
+EMP01318,43,Engineering,Director,Bachelor,San Francisco CA,1,159492,Meets Expectations,1.2,4.4,0,,26,2,2025-12-26
+EMP01319,55,HR,VP,Bachelor,Austin TX,8,209238,Meets Expectations,3.8,2.6,0,,11,0,2014-04-19
+EMP01320,51,Customer Success,Manager,Bachelor,Seattle WA,3,137838,Needs Improvement,4.9,2.0,1,Compensation,17,3,2013-10-02
+EMP01321,24,Operations,Mid,Master,Seattle WA,13,93010,Outstanding,1.3,1.3,1,Better Opportunity,59,4,2021-04-03
+EMP01322,57,Product,VP,High School,New York NY,0,190349,Needs Improvement,1.8,1.1,0,,53,0,2023-07-31
+EMP01323,55,Marketing,VP,Master,Boston MA,0,198008,Outstanding,2.3,3.5,0,,36,4,2025-12-01
+EMP01324,48,Sales,Director,Bachelor,Austin TX,0,178910,Exceeds Expectations,1.9,2.5,0,,9,2,2015-09-07
+EMP01325,29,Sales,VP,Master,Austin TX,9,193566,Outstanding,1.9,2.6,0,,75,1,2024-06-19
+EMP01326,32,Product,Mid,Master,New York NY,5,72064,Outstanding,3.0,1.3,0,,43,3,2013-12-13
+EMP01327,38,Sales,Junior,High School,New York NY,1,67787,Outstanding,3.9,1.5,0,,80,0,2021-03-02
+EMP01328,53,Operations,Mid,High School,Boston MA,12,79046,Needs Improvement,4.2,1.2,0,,16,3,2017-04-15
+EMP01329,34,Engineering,Junior,High School,Seattle WA,1,62047,Needs Improvement,2.4,2.6,0,,19,5,2015-11-21
+EMP01330,42,Customer Success,Junior,Master,Austin TX,6,48275,Exceeds Expectations,4.1,2.0,0,,55,4,2021-09-03
+EMP01331,58,Marketing,Lead,Bachelor,Chicago IL,3,120905,Meets Expectations,2.9,4.1,0,,33,2,2022-07-30
+EMP01332,37,Engineering,Junior,Master,New York NY,9,74371,Meets Expectations,4.2,4.9,0,,30,3,2014-05-04
+EMP01333,24,Marketing,Lead,Master,Seattle WA,6,112659,Needs Improvement,3.5,1.5,0,,2,4,2022-09-27
+EMP01334,45,Engineering,Manager,Master,Chicago IL,2,146322,Outstanding,3.3,4.7,0,,21,3,2018-05-11
+EMP01335,58,Product,VP,High School,Chicago IL,12,218494,Outstanding,2.2,3.2,0,,37,1,2025-06-29
+EMP01336,46,Operations,Manager,Bachelor,San Francisco CA,7,124814,Exceeds Expectations,1.4,1.1,0,,24,0,2021-05-24
+EMP01337,36,Marketing,VP,PhD,Chicago IL,9,215576,Needs Improvement,4.9,2.6,1,Personal,2,4,2019-10-26
+EMP01338,47,Customer Success,Mid,Bachelor,Boston MA,3,79980,Outstanding,4.9,1.1,0,,27,2,2014-04-01
+EMP01339,36,HR,Manager,High School,New York NY,10,141959,Meets Expectations,4.6,3.6,0,,0,2,2021-03-13
+EMP01340,29,Product,Director,PhD,Chicago IL,4,179564,Meets Expectations,3.4,2.4,0,,45,4,2021-05-26
+EMP01341,39,Marketing,Lead,Bachelor,Austin TX,2,130677,Needs Improvement,3.3,2.4,0,,71,3,2011-09-21
+EMP01342,31,Product,Junior,Master,San Francisco CA,6,71451,Needs Improvement,3.3,4.9,0,,34,3,2019-05-09
+EMP01343,41,Marketing,Mid,PhD,San Francisco CA,8,85514,Meets Expectations,4.4,4.3,0,,0,0,2017-05-22
+EMP01344,47,Product,Manager,Bachelor,Austin TX,12,122051,Outstanding,1.5,4.9,0,,10,5,2013-01-09
+EMP01345,43,HR,VP,High School,New York NY,0,191570,Exceeds Expectations,2.5,1.2,0,,80,4,2018-07-31
+EMP01346,42,Sales,VP,PhD,Boston MA,1,204848,Meets Expectations,1.7,3.5,0,,52,5,2024-12-04
+EMP01347,45,Marketing,Junior,Master,Seattle WA,7,65889,Outstanding,1.1,3.0,1,Compensation,7,5,2017-03-25
+EMP01348,47,Customer Success,Mid,PhD,Boston MA,13,87000,Needs Improvement,1.5,1.1,1,Personal,60,3,2020-05-16
+EMP01349,58,Engineering,Mid,High School,San Francisco CA,2,90202,Exceeds Expectations,1.1,4.7,0,,25,1,2019-03-19
+EMP01350,27,Customer Success,Mid,High School,Seattle WA,4,75295,Outstanding,4.7,1.8,0,,69,0,2025-11-26
+EMP01351,35,Customer Success,Junior,Bachelor,Seattle WA,5,67217,Needs Improvement,3.4,1.0,1,Compensation,65,5,2021-09-01
+EMP01352,51,Operations,Mid,PhD,Austin TX,15,82895,Meets Expectations,2.4,1.5,0,,69,2,2011-07-05
+EMP01353,25,Finance,Senior,High School,Austin TX,5,113329,Exceeds Expectations,1.2,4.5,0,,55,2,2021-07-11
+EMP01354,37,Finance,Junior,Bachelor,Seattle WA,14,51713,Needs Improvement,4.3,2.6,0,,63,5,2022-05-30
+EMP01355,26,Marketing,Mid,High School,Boston MA,0,92327,Meets Expectations,1.4,3.0,1,Compensation,33,4,2013-06-09
+EMP01356,58,Product,Mid,Bachelor,Seattle WA,10,89069,Outstanding,4.1,3.7,0,,29,4,2019-10-11
+EMP01357,54,HR,Junior,PhD,Boston MA,5,62809,Meets Expectations,2.3,1.1,0,,2,3,2019-12-20
+EMP01358,29,Product,Lead,PhD,Chicago IL,14,120673,Meets Expectations,2.6,4.8,0,,18,0,2012-03-30
+EMP01359,22,Operations,VP,Master,New York NY,12,207715,Meets Expectations,3.6,1.7,1,Personal,20,0,2026-04-23
+EMP01360,45,Product,Director,PhD,Chicago IL,0,175470,Exceeds Expectations,5.0,4.7,0,,19,5,2020-07-06
+EMP01361,33,Sales,Manager,Master,San Francisco CA,2,138698,Needs Improvement,3.3,4.9,1,Career Growth,79,4,2015-12-09
+EMP01362,56,Finance,VP,Bachelor,Boston MA,0,195188,Needs Improvement,4.7,4.4,1,Relocation,55,5,2016-08-12
+EMP01363,40,Finance,Manager,High School,New York NY,4,129769,Needs Improvement,2.4,3.9,0,,44,3,2018-10-17
+EMP01364,24,Customer Success,VP,PhD,Seattle WA,14,193003,Outstanding,1.7,4.6,0,,61,1,2019-08-24
+EMP01365,50,Marketing,Junior,PhD,Chicago IL,8,57466,Outstanding,4.9,1.3,0,,68,3,2020-06-06
+EMP01366,31,Product,Manager,Master,Chicago IL,13,136574,Meets Expectations,4.4,4.3,0,,73,1,2021-04-19
+EMP01367,24,Customer Success,Director,Master,Austin TX,10,172333,Meets Expectations,2.6,1.7,0,,34,0,2012-09-30
+EMP01368,46,Operations,VP,High School,San Francisco CA,12,213844,Needs Improvement,3.7,3.3,0,,35,4,2019-02-24
+EMP01369,43,Marketing,VP,Bachelor,San Francisco CA,11,198792,Outstanding,4.7,2.6,0,,45,4,2023-04-01
+EMP01370,37,Finance,Mid,Bachelor,San Francisco CA,4,87397,Outstanding,3.3,2.1,0,,69,4,2020-07-02
+EMP01371,47,Sales,Senior,PhD,San Francisco CA,5,93543,Exceeds Expectations,3.7,2.3,1,Work-Life Balance,49,1,2023-08-29
+EMP01372,36,Marketing,Lead,High School,Chicago IL,7,116250,Meets Expectations,4.1,2.5,0,,50,2,2021-09-16
+EMP01373,53,Operations,Junior,PhD,Boston MA,8,57657,Exceeds Expectations,3.2,1.1,0,,36,2,2025-10-10
+EMP01374,34,HR,Junior,High School,Seattle WA,9,65582,Needs Improvement,4.5,4.6,0,,76,3,2012-12-14
+EMP01375,34,Marketing,Junior,Bachelor,Seattle WA,10,64070,Exceeds Expectations,4.2,1.3,1,Work-Life Balance,11,2,2025-08-02
+EMP01376,28,Finance,Lead,Bachelor,Seattle WA,10,132118,Exceeds Expectations,1.4,3.9,0,,60,5,2021-02-07
+EMP01377,49,Sales,Mid,High School,New York NY,14,92903,Meets Expectations,1.1,3.5,0,,11,0,2025-01-03
+EMP01378,51,Operations,Mid,High School,Chicago IL,12,85175,Outstanding,5.0,3.8,0,,16,3,2025-01-03
+EMP01379,45,Engineering,Senior,PhD,San Francisco CA,4,92700,Exceeds Expectations,3.1,4.4,0,,17,2,2014-07-13
+EMP01380,25,Product,Lead,PhD,New York NY,10,133312,Outstanding,3.0,4.2,0,,38,1,2021-03-02
+EMP01381,43,Marketing,Lead,Master,New York NY,10,129274,Outstanding,2.1,3.5,0,,78,2,2014-02-07
+EMP01382,30,Marketing,Manager,Master,Austin TX,9,140132,Outstanding,4.9,4.2,0,,17,0,2026-01-25
+EMP01383,31,Engineering,Junior,Bachelor,San Francisco CA,9,57206,Needs Improvement,3.3,4.5,0,,14,2,2011-11-12
+EMP01384,35,Operations,Junior,Bachelor,Boston MA,0,55616,Outstanding,1.1,1.8,1,Better Opportunity,36,2,2024-08-15
+EMP01385,55,Finance,VP,Bachelor,Seattle WA,12,202642,Outstanding,5.0,3.0,0,,57,5,2024-04-21
+EMP01386,40,Customer Success,Director,Master,New York NY,13,154905,Meets Expectations,1.5,4.4,0,,26,0,2013-08-09
+EMP01387,33,HR,VP,High School,Boston MA,3,214151,Meets Expectations,4.3,1.5,1,Work-Life Balance,79,0,2012-04-01
+EMP01388,22,Engineering,Lead,Master,Austin TX,2,122025,Outstanding,2.0,1.6,0,,68,1,2022-03-05
+EMP01389,55,Customer Success,Lead,PhD,New York NY,2,126795,Outstanding,4.1,4.6,0,,33,5,2024-07-21
+EMP01390,39,Operations,Manager,Bachelor,Chicago IL,15,124445,Exceeds Expectations,4.5,4.8,0,,11,4,2012-10-30
+EMP01391,57,Customer Success,Lead,High School,Boston MA,7,128906,Outstanding,1.2,4.5,1,Career Growth,22,0,2018-11-03
+EMP01392,35,Customer Success,Director,High School,New York NY,6,164512,Meets Expectations,3.9,4.7,0,,23,1,2016-04-12
+EMP01393,58,Marketing,Manager,Master,Boston MA,6,144280,Outstanding,1.7,1.4,0,,74,0,2021-04-26
+EMP01394,57,Finance,Mid,Bachelor,New York NY,4,72748,Meets Expectations,2.3,2.5,0,,71,2,2023-11-16
+EMP01395,29,Finance,Lead,Bachelor,Seattle WA,15,128749,Meets Expectations,3.9,4.5,0,,37,1,2016-03-29
+EMP01396,43,Engineering,Manager,Bachelor,Seattle WA,8,148358,Needs Improvement,4.2,4.1,0,,77,4,2015-01-19
+EMP01397,33,Customer Success,Junior,PhD,Boston MA,5,59422,Outstanding,1.2,2.0,1,Better Opportunity,27,3,2011-06-05
+EMP01398,57,Operations,Mid,Bachelor,New York NY,7,69281,Needs Improvement,4.2,4.0,1,Career Growth,6,4,2016-12-25
+EMP01399,24,HR,Mid,PhD,New York NY,1,73693,Outstanding,3.0,4.2,0,,26,5,2018-08-08
+EMP01400,54,Operations,Director,Bachelor,Austin TX,11,156050,Needs Improvement,3.1,4.7,0,,35,2,2017-03-08
+EMP01401,27,HR,Lead,High School,Austin TX,10,108587,Meets Expectations,2.4,4.5,0,,19,5,2016-04-21
+EMP01402,44,Marketing,VP,High School,Chicago IL,0,193030,Meets Expectations,2.9,3.6,0,,25,0,2014-10-29
+EMP01403,27,Product,Lead,PhD,Austin TX,6,127504,Meets Expectations,1.4,4.9,0,,19,5,2017-06-12
+EMP01404,35,Marketing,Junior,PhD,Boston MA,5,48869,Outstanding,4.7,4.8,0,,17,0,2017-12-07
+EMP01405,27,Sales,Manager,High School,Chicago IL,3,123693,Needs Improvement,1.4,4.7,0,,4,3,2018-02-03
+EMP01406,43,Marketing,Director,Master,Chicago IL,14,158148,Needs Improvement,3.5,3.9,0,,24,3,2025-06-16
+EMP01407,35,Product,Senior,High School,San Francisco CA,0,106637,Exceeds Expectations,3.6,3.7,1,Work-Life Balance,22,0,2021-01-10
+EMP01408,23,Sales,Senior,Bachelor,San Francisco CA,12,105491,Exceeds Expectations,4.7,4.4,0,,76,2,2018-06-02
+EMP01409,23,Product,Mid,High School,Boston MA,6,87958,Outstanding,5.0,2.4,0,,0,1,2021-12-21
+EMP01410,53,Operations,Mid,Bachelor,Seattle WA,0,90439,Exceeds Expectations,4.9,1.5,1,Work-Life Balance,70,2,2024-05-29
+EMP01411,41,Operations,Lead,High School,San Francisco CA,4,111947,Meets Expectations,2.0,1.3,0,,61,0,2021-10-25
+EMP01412,45,Product,Junior,PhD,Boston MA,5,60706,Needs Improvement,3.0,1.2,1,Personal,10,3,2024-01-29
+EMP01413,23,Product,VP,Master,New York NY,13,197477,Needs Improvement,4.4,3.1,1,Work-Life Balance,20,5,2018-07-29
+EMP01414,40,Engineering,Mid,PhD,Chicago IL,1,73182,Outstanding,1.1,2.5,1,Personal,57,2,2017-08-03
+EMP01415,41,Product,VP,Master,Seattle WA,2,202153,Exceeds Expectations,3.7,5.0,0,,22,1,2018-02-22
+EMP01416,28,Finance,Lead,High School,Austin TX,4,132419,Needs Improvement,2.8,1.0,0,,65,0,2015-04-03
+EMP01417,23,Engineering,Mid,PhD,San Francisco CA,13,83148,Needs Improvement,2.8,2.1,0,,54,4,2012-01-07
+EMP01418,22,Engineering,Manager,High School,New York NY,3,146618,Needs Improvement,2.5,1.4,0,,7,3,2012-04-17
+EMP01419,54,Sales,Mid,Master,Austin TX,1,78388,Meets Expectations,2.0,2.8,0,,6,2,2024-12-30
+EMP01420,39,Operations,Manager,High School,Austin TX,15,129838,Meets Expectations,2.6,1.5,0,,72,3,2021-03-14
+EMP01421,56,Marketing,Senior,Bachelor,Austin TX,11,99641,Needs Improvement,2.7,2.0,0,,71,0,2020-08-11
+EMP01422,34,Operations,Mid,PhD,Seattle WA,12,70130,Exceeds Expectations,4.7,2.8,0,,55,1,2019-06-11
+EMP01423,26,Sales,Senior,Master,Seattle WA,7,112220,Needs Improvement,4.4,1.1,1,Career Growth,54,0,2022-06-10
+EMP01424,23,Finance,Senior,High School,New York NY,2,111053,Outstanding,2.8,2.9,1,Better Opportunity,2,5,2017-07-26
+EMP01425,37,Finance,Manager,High School,New York NY,2,146887,Exceeds Expectations,4.0,4.4,0,,31,5,2012-01-18
+EMP01426,33,Sales,Senior,PhD,Seattle WA,1,93372,Exceeds Expectations,3.0,4.2,0,,77,4,2023-05-12
+EMP01427,36,Customer Success,Director,PhD,Chicago IL,2,156509,Outstanding,2.8,1.5,0,,71,5,2018-01-24
+EMP01428,48,Finance,Junior,PhD,Chicago IL,12,48262,Outstanding,2.9,4.8,1,Work-Life Balance,31,1,2021-01-22
+EMP01429,42,Marketing,VP,High School,Chicago IL,13,195997,Exceeds Expectations,3.8,3.1,0,,57,0,2012-01-31
+EMP01430,38,Sales,Director,Bachelor,Seattle WA,5,178948,Needs Improvement,5.0,3.6,0,,6,4,2017-10-17
+EMP01431,56,Customer Success,VP,Master,Austin TX,5,193463,Needs Improvement,1.2,1.6,1,Relocation,10,1,2017-05-21
+EMP01432,58,Operations,Director,Master,Boston MA,14,179518,Needs Improvement,1.4,4.9,1,Relocation,3,0,2018-04-11
+EMP01433,41,Product,Senior,Bachelor,Chicago IL,4,90266,Exceeds Expectations,2.8,4.5,0,,56,4,2012-05-16
+EMP01434,22,Operations,Lead,Master,Seattle WA,5,107022,Outstanding,2.0,1.2,0,,11,1,2011-09-03
+EMP01435,58,HR,Lead,Bachelor,Chicago IL,2,114815,Needs Improvement,1.4,3.6,0,,63,5,2020-05-19
+EMP01436,32,Finance,VP,PhD,Boston MA,13,208339,Outstanding,1.6,3.9,0,,6,2,2019-11-21
+EMP01437,44,Engineering,Manager,High School,New York NY,7,143376,Outstanding,4.6,1.4,1,Career Growth,5,3,2017-10-20
+EMP01438,53,HR,Mid,PhD,New York NY,9,87091,Exceeds Expectations,3.8,3.2,0,,13,3,2025-01-31
+EMP01439,40,Product,Mid,PhD,Chicago IL,1,93992,Outstanding,2.7,3.6,0,,31,5,2011-09-25
+EMP01440,49,Finance,Manager,Bachelor,Chicago IL,0,128704,Needs Improvement,2.2,1.3,0,,43,0,2015-04-30
+EMP01441,32,Product,Mid,High School,Chicago IL,11,84005,Meets Expectations,4.3,2.6,0,,73,1,2020-01-23
+EMP01442,47,Finance,Manager,PhD,San Francisco CA,7,140122,Outstanding,2.7,4.9,1,Relocation,56,4,2016-06-15
+EMP01443,23,Sales,Lead,Master,Boston MA,2,107922,Meets Expectations,1.9,4.3,0,,76,5,2021-04-14
+EMP01444,35,Marketing,VP,Master,San Francisco CA,13,193537,Needs Improvement,2.9,2.6,0,,31,0,2023-08-25
+EMP01445,57,Finance,Senior,Master,New York NY,3,98127,Meets Expectations,4.3,1.1,0,,38,3,2015-06-11
+EMP01446,29,Marketing,Senior,Master,Austin TX,3,99054,Exceeds Expectations,1.1,1.8,0,,72,3,2023-06-26
+EMP01447,26,Product,VP,Bachelor,Boston MA,15,214759,Needs Improvement,4.6,4.7,0,,33,4,2020-05-04
+EMP01448,56,Engineering,Manager,High School,Seattle WA,0,148386,Exceeds Expectations,4.3,1.6,0,,34,3,2025-06-21
+EMP01449,36,Sales,VP,PhD,Chicago IL,10,210399,Exceeds Expectations,2.6,2.5,0,,68,4,2025-10-21
+EMP01450,47,HR,Director,Master,New York NY,14,160211,Needs Improvement,2.5,2.2,0,,75,2,2018-11-22
+EMP01451,25,Operations,VP,PhD,New York NY,3,194067,Needs Improvement,3.9,3.7,0,,31,5,2019-12-09
+EMP01452,24,Product,Director,Bachelor,Chicago IL,11,153715,Needs Improvement,1.3,3.7,1,Relocation,71,3,2013-08-03
+EMP01453,42,HR,Lead,Master,New York NY,7,118460,Exceeds Expectations,3.6,1.4,0,,76,0,2023-02-08
+EMP01454,22,Product,Lead,Master,Chicago IL,1,105811,Meets Expectations,3.6,2.2,0,,74,2,2016-05-03
+EMP01455,40,Marketing,Junior,PhD,Seattle WA,12,57289,Outstanding,2.1,4.6,0,,52,0,2026-03-28
+EMP01456,49,Operations,VP,Master,Seattle WA,8,195302,Outstanding,4.2,2.2,1,Career Growth,43,4,2023-06-03
+EMP01457,50,Engineering,Manager,PhD,San Francisco CA,9,145166,Needs Improvement,1.9,4.1,0,,31,2,2016-10-21
+EMP01458,47,Finance,VP,Master,Austin TX,12,215666,Exceeds Expectations,3.5,4.1,1,Better Opportunity,50,5,2014-05-08
+EMP01459,44,Operations,Manager,High School,San Francisco CA,7,121759,Meets Expectations,4.7,2.7,1,Compensation,37,1,2023-08-07
+EMP01460,52,Customer Success,Lead,High School,Austin TX,15,115178,Outstanding,4.1,3.5,0,,10,1,2017-01-17
+EMP01461,28,Finance,Director,PhD,Austin TX,2,162206,Exceeds Expectations,4.4,4.3,0,,0,4,2020-06-09
+EMP01462,52,Engineering,Junior,Bachelor,Chicago IL,12,60767,Needs Improvement,5.0,1.5,0,,76,2,2022-04-22
+EMP01463,22,Customer Success,VP,PhD,Austin TX,8,204618,Meets Expectations,3.9,4.2,1,Compensation,14,1,2022-08-26
+EMP01464,55,Engineering,Mid,Master,Boston MA,8,72497,Outstanding,4.5,2.4,0,,75,5,2023-01-25
+EMP01465,56,Product,VP,Master,Chicago IL,1,205112,Exceeds Expectations,4.9,3.5,0,,22,2,2021-05-29
+EMP01466,57,Marketing,Junior,High School,Austin TX,7,61497,Exceeds Expectations,2.0,4.2,0,,54,2,2015-08-23
+EMP01467,45,Finance,Director,High School,San Francisco CA,9,171371,Needs Improvement,4.0,4.5,0,,24,1,2021-11-26
+EMP01468,56,Customer Success,Senior,PhD,Seattle WA,15,107353,Outstanding,3.9,4.9,0,,26,1,2013-09-18
+EMP01469,32,Finance,Director,Bachelor,Austin TX,15,155561,Outstanding,4.5,3.2,1,Career Growth,45,5,2014-04-11
+EMP01470,56,Engineering,Director,High School,New York NY,1,176253,Meets Expectations,3.4,2.5,0,,42,5,2023-07-04
